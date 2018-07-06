@@ -11,8 +11,8 @@ redirect_from:
 
 Research interest
 =====
-* Systems
-  * Areas: Storage and File systems, Operating Systems, Distributed Systems, Database systems
+* <b>Systems</b>
+* <b>Areas:</b> Storage and File systems, Operating Systems, Distributed Systems, Database systems
   * Focus: Non-Volatil Memory (NVM), Persistent Memory (PM) aware system design
     * Key-value store and its core indexing structures
     * Improving the performance and reliability of NVM-based file systems

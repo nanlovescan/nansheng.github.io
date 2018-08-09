@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Sekwon Lee"
-  avatar           : "profile.png"
-  bio              : "Researcher in UNIST (Ulsan National Institute of Science & Technology)"
-  location         : "Ulsan, South Korea"
+  avatar           : "profile.jpeg"
+  bio              : "Ph.D. Student at The University of Texas at Austin"
+  location         : "Austin, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=ko"
   email            : "sekwonlee90 at gmail dot com"
@@ -90,21 +90,21 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/sekwonlee90"
   foursquare       :
   github           : "SeKwonLee"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org"
+  linkedin         : "https://www.linkedin.com/in/sekwon-lee-7ab143137/"
+  orcid            : # "http://orcid.org"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

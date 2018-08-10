@@ -22,7 +22,7 @@ Education
 * <b>B.S. in South Korea, Hongik University, 2015</b>
 * <b>M.S. in South Korea, UNIST (Ulsan National Institute of Science & Technology), 2018 </b>
   * <b>Advisor</b>: Prof. Sam H. Noh
-* <b>Ph.D in United States of America, University of Texas at Austin, 2018 (Starting from Fall 2018)</b>
+* <b>Ph.D in United States of America, University of Texas at Austin (Starting from Fall 2018)</b>
 
 Work experience
 ======

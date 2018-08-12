@@ -7,6 +7,4 @@ venue: "UNIST (Ulsan National Institute of Science & Technology), Computer Scien
 date: 2016-03-01
 location: "Ulsan, Republic of Korea"
 ---
-
-## Description
 The main focus of this course is to develop object-oriented programming skills and to make students comfortable with C++ class implementation. This course requires students to implement a large number of small to medium-sized programs.

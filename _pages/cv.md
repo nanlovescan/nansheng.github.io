@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae [(CV)](http://sekwonlee.github.io/files/cv.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<span style="color:blue">[Downloadable CV]</span>](https://sekwonlee.github.io/files/cv.pdf)
+[<span style="color:blue">[Downloadable CV]</span>](http://sekwonlee.github.io/files/cv.pdf)
 
 Research interest
 =====

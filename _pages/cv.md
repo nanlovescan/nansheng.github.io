@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Downloadable CV](https://sekwonlee.github.io/files/cv.pdf)
-
 {% include base_path %}
+
+[[Downloadable CV]](https://sekwonlee.github.io/files/cv.pdf)
 
 Research interest
 =====

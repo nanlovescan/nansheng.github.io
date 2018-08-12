@@ -10,6 +10,6 @@ citation: '&quot;iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 ---
 To appear
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://sekwonlee.github.io/files/paper1.pdf)
 
 Recommended citation: "iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory" Qingrui Liu, Joseph Izraelevitz, <br>Se Kwon Lee</br>, Michael L. Scott, Sam H. Noh, and Changhee Jung. In Proceedings of <i>the 51st Annual IEEE/ACM International Symposium on Microarchitecture</i> (MICRO'18).

@@ -10,6 +10,6 @@ citation: '&quot;WORT: Write Optimal Radix Tree for Persistent Memory Storage Sy
 ---
 This paper proposes radix tree variants, WORT and WOART, that are optimal for PM in the sense that consistency is always guaranteed by a single 8-byte failure atomic write without any additional copies for logging or CoW. In this work, I designed and implemented these PM-based radix tree variants.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://sekwonlee.github.io/files/paper1.pdf)
 
 Recommended citation: "WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems." <br>Se Kwon Lee</br>, K. Hyun Lim, Hyunsub Song, Beomseok Nam, and Sam H. Noh. In Proceedings of <i>the 15th USENIX Conference on File and Storage Technology</i> (FAST'17).

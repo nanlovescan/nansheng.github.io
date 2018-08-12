@@ -19,16 +19,16 @@ Research interest
 
 Education
 ======
-* <b>B.S. in South Korea, Hongik University, 2015</b>
+* <b>Ph.D in United States of America, The University of Texas at Austin, Fall 2018 ~ Present</b>
 * <b>M.S. in South Korea, UNIST (Ulsan National Institute of Science & Technology), 2018 </b>
   * <b>Advisor</b>: Prof. Sam H. Noh
-* <b>Ph.D in United States of America, University of Texas at Austin (Starting from Fall 2018)</b>
+* <b>B.S. in South Korea, Hongik University, 2015</b>
 
 Work experience
 ======
 * <b>Researcher</b>, 03.2018~07.2018
   * UNIST (Ulsan National Institute of Science & Technology)
-  * Duties included: I participated in the projects in order to propose the compiler-directed solution on NVM-based systems.
+  * Duties included: Working for a project that proposes the compiler-directed solution on NVM-based systems.
 
 * <b>Research Associate Intern</b>, 06.2017~09.2017
   * Hewlett Packard Enterprise
@@ -55,11 +55,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+%Talks
+%======
+%  <ul>{% for post in site.talks %}
+%    {% include archive-single-talk-cv.html %}
+%  {% endfor %}</ul>
   
 Teaching
 ======
@@ -67,6 +67,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+%Service and leadership
+%======
+%* Currently signed in to 43 different slack teams

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/kcc16
 venue: 'The 2016 Korea Computer Congress (KCC 2016)'
 date: 2016-06-29
-citation: '<strong>Se Kwon Lee</strong>, Hyunsub Song, Young Je Moon, and Sam H. Noh. In Proceedings of <i>the 2016 Korea Computer Congress</i> (<strong>KCC 2016</strong>, Domestic conference in South Korea, Written with Korean, <strong>Best Paper Award</strong>).'
+citation: '<strong>Se Kwon Lee</strong>, Hyunsub Song, Young Je Moon, and Sam H. Noh. In Proceedings of <i>the 2016 Korea Computer Congress</i> (<strong>KCC 2016</strong>, Domestic conference in South Korea, Written with Korean, <span style="color:red">Best Paper Award</span>).'
 ---
 [[pdf]](http://sekwonlee.github.io/files/kcc16.pdf)
 

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Downloadable CV]](https://sekwonlee.github.io/files/cv.pdf)
+[<span style="color:blue">[Downloadable CV]</span>](https://sekwonlee.github.io/files/cv.pdf)
 
 Research interest
 =====

@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 I am a first year Ph.D. student at The University of Texas at Austin.
-Test

@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/fast17
 venue: 'The 15th USENIX Conference on File and Storage Technology (FAST 2017)'
 date: 2017-02-27
-paperurl: 'http://sekwonlee.github.io/files/fast17.pdf'
 citation: '<strong>Se Kwon Lee</strong>, K. Hyun Lim, Hyunsub Song, Beomseok Nam, and Sam H. Noh. In Proceedings of <i>the 15th USENIX Conference on File and Storage Technology</i> (FAST 2017).'
 ---
 [[pdf]](http://sekwonlee.github.io/files/fast17.pdf)

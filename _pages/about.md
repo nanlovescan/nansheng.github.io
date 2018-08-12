@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my webpage.
-This page is being constructed now.
+I am a first year Ph.D. student at The University of Texas at Austin.

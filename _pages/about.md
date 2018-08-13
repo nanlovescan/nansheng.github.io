@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email address: sklee at utexas dot edu
 
 ### Life inspired by love and guided by knowledge
 

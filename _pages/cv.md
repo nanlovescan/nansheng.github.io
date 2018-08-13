@@ -21,16 +21,17 @@ Research interest
 
 Education
 ======
-* <b>Ph.D in United States of America, The University of Texas at Austin, Fall 2018 ~ Present</b>
-* <b>M.S. in South Korea, UNIST (Ulsan National Institute of Science & Technology), 2018 </b>
+* <b>Ph.D</b> in United States of America, <b>The University of Texas at Austin</b>, Fall 2018 ~ Present
+* <b>M.S.</b> in South Korea, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Prof. Sam H. Noh
-* <b>B.S. in South Korea, Hongik University, 2015</b>
+* <b>B.S.</b> in South Korea, <b>Hongik University</b>, 2015
 
 Work experience
 ======
 * <b>Researcher</b>, 03.2018~07.2018
   * UNIST (Ulsan National Institute of Science & Technology)
   * Duties included: Working for a project that proposes the compiler-directed solution on NVM-based systems.
+  * Supervisor: Sam H. Noh
 
 * <b>Research Associate Intern</b>, 06.2017~09.2017
   * Hewlett Packard Enterprise

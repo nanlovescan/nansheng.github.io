@@ -29,17 +29,17 @@ Education
 Work experience
 ======
 * <b>Researcher</b>, 03.2018~07.2018
-  * UNIST (Ulsan National Institute of Science & Technology)
+  * UNIST (Ulsan National Institute of Science & Technology), Ulsan, South Korea
   * Duties included: Working for a project that proposes the compiler-directed solution on NVM-based systems.
   * Supervisor: Sam H. Noh
 
 * <b>Research Associate Intern</b>, 06.2017~09.2017
-  * Hewlett Packard Enterprise
+  * Hewlett Packard Enterprise, Palo Alto, CA, USA
   * Duties included: Working in key-value store (KVS) group with Kimberly Keeton, Haris Volos, and Yupu Zhang, I attended a DRAM cache project for NVM-aware KVS working on Fabric-attached memory.
   * Supervisor: Kimberly Keeton
 
 * <b>Researcher</b>, 10.2015~02.2016
-  * UNIST (Ulsan National Institute of Science & Technology)
+  * UNIST (Ulsan National Institute of Science & Technology), Ulsan, South Korea
   * Duties included: Working in NECSST lab under Prof. Sam H. Noh, I analyed NVM-based file system (PMFS) and evaluated the performance of it.
   * Supervisor: Sam H. Noh
   

@@ -22,8 +22,9 @@ Research interest
 Education
 ======
 * <b>Ph.D.</b> in United States of America, <b>The University of Texas at Austin</b>, Fall 2018 ~ Present
+  * <b>Advisor</b>: Vijay Chidambaram
 * <b>M.S.</b> in South Korea, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
-  * <b>Advisor</b>: Prof. Sam H. Noh
+  * <b>Advisor</b>: Sam H. Noh
 * <b>B.S.</b> in South Korea, <b>Hongik University</b>, 2015
 
 Work experience

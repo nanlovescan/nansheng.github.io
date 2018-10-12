@@ -25,6 +25,9 @@ Education
   * <b>Advisor</b>: Vijay Chidambaram
 * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Sam H. Noh
+  * Visiting student in Virginia Tech (2017.03 - 2017.05)
+      * Co-research advised by Prof. Changhee Jung
+      * Participating in the project of a new fault-tolerant programming model for NVM
 * <b>B.S.</b> in Computer Engineering, <b>Hongik University</b>, 2015
 
 Work experience
@@ -44,6 +47,12 @@ Work experience
   * Duties included: Working in NECSST lab under Prof. Sam H. Noh, I analyed NVM-based file system (PMFS) and evaluated the performance of it.
   * Supervisor: Sam H. Noh
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * <b>Languages</b>
@@ -52,12 +61,6 @@ Skills
   * Linux kernel, Memcached, Tizen
 * <b>Benchmarks</b>
   * Filebench, Fio, YCSB, ForestDB-benchmark, MC-benchmark, SPLASH3, Parsec, SPEC SFS2014
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
  
 Teaching
 ======

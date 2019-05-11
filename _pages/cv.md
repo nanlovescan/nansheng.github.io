@@ -15,9 +15,9 @@ Research interest
 =====
 * <b>Systems</b>
   * <b>Areas:</b> Storage and File systems, Operating Systems, Distributed Systems, Database systems
-  * <b>Focus:</b> Non-Volatil Memory (NVM), Persistent Memory (PM) aware system design
+  * <b>Focus:</b> Persistent Memory (PM), Non-Volatile Memory (NVM) aware system design
       * Key-value store and its core indexing structures
-      * Improving the performance and reliability of NVM-based file systems
+      * Improving the performance and reliability of PM-based file systems
 
 Education
 ======

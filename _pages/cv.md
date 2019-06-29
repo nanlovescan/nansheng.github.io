@@ -32,6 +32,10 @@ Education
 
 Work experience
 ======
+* <b>Research Associate Intern</b>, 06.2019~08.2019
+  * Hewlett Packard Enterprise, Palo Alto, CA, USA
+  * Mentors: Kimberly Keeton, and Sharad Singhal
+
 * <b>Researcher</b>, 03.2018~07.2018
   * UNIST (Ulsan National Institute of Science & Technology), Ulsan, South Korea
   * Duties included: Working for a project that proposes the compiler-directed solution on NVM-based systems.
@@ -39,14 +43,14 @@ Work experience
 
 * <b>Research Associate Intern</b>, 06.2017~09.2017
   * Hewlett Packard Enterprise, Palo Alto, CA, USA
-  * Duties included: Working in key-value store (KVS) group with Kimberly Keeton, Haris Volos, and Yupu Zhang, I attended a DRAM cache project for NVM-aware KVS working on Fabric-attached memory.
-  * Supervisor: Kimberly Keeton
+  * Duties included: Working in key-value store (KVS) group, I attended a DRAM cache project for NVM-aware KVS working on Fabric-attached memory.
+  * Mentors: Kimberly Keeton, Haris Volos, and Yupu Zhang
 
 * <b>Researcher</b>, 10.2015~02.2016
   * UNIST (Ulsan National Institute of Science & Technology), Ulsan, South Korea
   * Duties included: Working in NECSST lab under Prof. Sam H. Noh, I analyed NVM-based file system (PMFS) and evaluated the performance of it.
   * Supervisor: Sam H. Noh
-  
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,7 +65,7 @@ Skills
   * Linux kernel, Memcached, Tizen
 * <b>Benchmarks</b>
   * Filebench, Fio, YCSB, ForestDB-benchmark, MC-benchmark, SPLASH3, Parsec, SPEC SFS2014
- 
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}

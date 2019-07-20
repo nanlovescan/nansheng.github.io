@@ -16,6 +16,6 @@ author_profile: true
 {% endfor %}
 
 # Conference
-{% for post in site.publications.conference reversed %}
+{% for post in site.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}

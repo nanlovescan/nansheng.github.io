@@ -1,7 +1,7 @@
 ---
 title: "Transforming Legacy File Systems into Persistent Memory Exploiting File Systems with MeLo@V"
 collection: publications
-permalink: /publication/nvmw17_melo
+permalink: /publications/nvmw17_melo
 venue: 'The 8th Annual Non-Volatile Memories Workshop (NVMW 2017)'
 date: 2017-03-12
 citation: 'Hyunsub Song, Young Je Moon, <strong>Se Kwon Lee</strong>, and Sam H. Noh, <i>The 8th Annual Non-Volatile Memories Workshop</i> (<strong>NVMW 2017</strong>).'

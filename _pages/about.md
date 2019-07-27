@@ -22,5 +22,5 @@ and building a system based on Persistent Memory (PM). Currently, I am studying 
 running on far memory architectures (e.g., an RDMA-enabled memory server or Gen-Z fabric-attached memory).
 
 # News
-* Two papers ([RECIPE](https://sekwonlee.github.io/publication/sosp19_recipe), [SplitFS](https://sekwonlee.github.io/publication/sosp19_splitfs)) were accepted to <b>SOSP 2019</b>.
+* Two papers ([RECIPE](https://sekwonlee.github.io/publications/sosp19_recipe), [SplitFS](https://sekwonlee.github.io/publications/sosp19_splitfs)) were accepted to <b>SOSP 2019</b>.
 * I am doing my internship at Hewlett Packard Labs during this summer (2019).

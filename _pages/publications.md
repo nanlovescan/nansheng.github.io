@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Google Scholar Profile](https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=en)</b>
+<b>[<font color="navy">Google Scholar Profile</font>](https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=en)</b>
 
 ## Conference
 Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/sosp19_splitfs)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).

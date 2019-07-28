@@ -51,6 +51,8 @@ Work experience
   * Duties included: Working in NECSST lab under Prof. Sam H. Noh, I analyed NVM-based file system (PMFS) and evaluated the performance of it.
   * Supervisor: Sam H. Noh
 
+* <b>Republic of Korea Army</b>, 08.2010~05.2012
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

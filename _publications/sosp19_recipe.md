@@ -1,5 +1,5 @@
 ---
-title: "RECIPE: Reusing Concurrent In-Memory Indexes for Persistent Memory"
+title: "RECIPE : Converting Concurrent DRAM Indexes to Persistent-Memory Indexes"
 collection: publications
 permalink: /publications/sosp19_recipe
 venue: 'The 27th ACM Symposium on Operating Systems Principles (SOSP 2019)'

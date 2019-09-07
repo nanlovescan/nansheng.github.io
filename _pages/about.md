@@ -23,4 +23,4 @@ running on far memory architectures (e.g., an RDMA-enabled memory server or Gen-
 
 # News
 * Two papers ([RECIPE](https://sekwonlee.github.io/publications/sosp19_recipe), [SplitFS](https://sekwonlee.github.io/publications/sosp19_splitfs)) were accepted to <b>SOSP 2019</b>.
-* I am doing my internship at Hewlett Packard Labs during this summer (2019).
+* I did my internship at Hewlett Packard Labs during this summer (2019).

@@ -10,7 +10,7 @@ author_profile: true
 ## Conference
 Rohan Kadekodi, <b>Se Kwon Lee</b>, Sanidhya Kashyap, Taesoo Kim, Aasheesh Kolli and Vijay Chidambaram, <b>[<font color="navy">"SplitFS: Reducing Software Overhead in File Systems for Persistent Memory"</font>](https://sekwonlee.github.io/publications/sosp19_splitfs)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).
 
-<b>Se Kwon Lee</b>, Jayashree Mohan, Sanidhya Kashyap, Taesoo Kim, and Vijay Chidambaram, <b>[<font color="navy">"RECIPE : Converting Concurrent DRAM indexes to Persistent-Memory Indexes"</font>](https://sekwonlee.github.io/publications/sosp19_recipe)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).
+<b>Se Kwon Lee</b>, Jayashree Mohan, Sanidhya Kashyap, Taesoo Kim, and Vijay Chidambaram, <b>[<font color="navy">"RECIPE : Converting Concurrent DRAM Indexes to Persistent-Memory Indexes"</font>](https://sekwonlee.github.io/publications/sosp19_recipe)</b>, <i>Proceedings of the 27th ACM Symposium on Operating Systems Principles</i> (<b>SOSP 2019</b>).
 
 Qingrui Liu, Joseph Izraelevitz, <b>Se Kwon Lee</b>, Michael L. Scott, Sam H. Noh, and Changhee Jung, <b>[<font color="navy">"iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory"</font>](https://sekwonlee.github.io/publications/micro18)</b>, <i>Proceedings of the 51st Annual IEEE/ACM International Symposium on Microarchitecture</i> (<b>MICRO 2018</b>).
 

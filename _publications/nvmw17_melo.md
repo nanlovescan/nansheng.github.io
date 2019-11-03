@@ -6,7 +6,7 @@ venue: 'The 8th Annual Non-Volatile Memories Workshop (NVMW 2017)'
 date: 2017-03-12
 citation: 'Hyunsub Song, Young Je Moon, <strong>Se Kwon Lee</strong>, and Sam H. Noh, <i>The 8th Annual Non-Volatile Memories Workshop</i> (<strong>NVMW 2017</strong>).'
 ---
-[[pdf]](http://sekwonlee.github.io/files/nvmw17_melo.pdf)
+[[paper]](http://sekwonlee.github.io/files/nvmw17_melo.pdf)
 [[slides]](http://sekwonlee.github.io/files/nvmw17_melo_slide.pdf)
 
 ## Description

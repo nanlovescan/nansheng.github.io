@@ -15,7 +15,7 @@ Research interest
 =====
 * <b>Systems</b>
   * <b>Areas:</b> Storage and File systems, Operating Systems, Distributed Systems, Database systems
-  * <b>Focus:</b> Persistent Memory (PM) & Disaggregated Memory aware system designs
+  * <b>Focus:</b> Persistent Memory (PM) & Disaggregated Memory aware systems design
       * Key-value store and its core indexing structures
       * Improving the performance and reliability of PM-based file systems
 
@@ -39,12 +39,12 @@ Work experience
 
 * <b>Researcher</b>, 03.2018~07.2018
   * UNIST (Ulsan National Institute of Science & Technology), Ulsan, South Korea
-  * Duties included: Enabling the compiler-directed crash consistency for PM-based systems
+  * Duties included: Providing the compiler-directed crash consistency for PM-based systems
   * Supervisor: Sam H. Noh
 
 * <b>Research Associate Intern</b>, 06.2017~09.2017
   * Hewlett Packard Labs, Palo Alto, CA, US
-  * Duties included: Designing a DRAM cache for PM-aware key-value store working on Fabric-attached memory
+  * Duties included: Designing DRAM cache for key-value stores working on Fabric-attached memory
   * Mentors: Kimberly Keeton, Haris Volos, and Yupu Zhang
 
 * <b>Researcher</b>, 10.2015~02.2016

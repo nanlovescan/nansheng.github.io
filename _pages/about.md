@@ -10,7 +10,7 @@ redirect_from:
 
 ### Life inspired by love and guided by knowledge - Bertrand Russell
 
-I am a Ph.D. student in the department of Computer Science at The University of Texas at Austin,
+I am a Ph.D. student in the Department of Computer Science at The University of Texas at Austin,
 working with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
 [UT Systems and Storage Lab](http://utsaslab.cs.utexas.edu/) and the [LASR](https://www.cs.utexas.edu/lasr/) 
 research group. I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/) 
@@ -22,5 +22,6 @@ and building a system based on Persistent Memory (PM). Currently, I am studying 
 running on far memory architectures (e.g., an RDMA-enabled memory server or Gen-Z fabric-attached memory).
 
 # News
+* [RECIPE](https://sekwonlee.github.io/publications/nvmw20_recipe) and [SplitFS](https://sekwonlee.github.io/publications/nvmw20_splitfs) will be presented at the 11th Annual Non-Volatile Memories Workshop.
 * Two papers ([RECIPE](https://sekwonlee.github.io/publications/sosp19_recipe), [SplitFS](https://sekwonlee.github.io/publications/sosp19_splitfs)) were accepted to <b>SOSP 2019</b>.
 * I did my internship at Hewlett Packard Labs during this summer (2019).

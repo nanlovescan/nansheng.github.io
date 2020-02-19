@@ -22,6 +22,6 @@ and building a system based on Persistent Memory (PM). Currently, I am studying 
 running on far memory architectures (e.g., an RDMA-enabled memory server or Gen-Z fabric-attached memory).
 
 # News
-* [RECIPE](https://sekwonlee.github.io/publications/nvmw20_recipe) and [SplitFS](https://sekwonlee.github.io/publications/nvmw20_splitfs) will be presented at the 11th Annual Non-Volatile Memories Workshop.
+* [RECIPE](https://sekwonlee.github.io/publications/nvmw20_recipe) and [SplitFS](https://sekwonlee.github.io/publications/nvmw20_splitfs) will be presented at the 11th Annual Non-Volatile Memories Workshop (<b>NVMW 2020</b>).
 * Two papers ([RECIPE](https://sekwonlee.github.io/publications/sosp19_recipe), [SplitFS](https://sekwonlee.github.io/publications/sosp19_splitfs)) were accepted to <b>SOSP 2019</b>.
 * I did my internship at Hewlett Packard Labs during this summer (2019).

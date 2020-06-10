@@ -13,7 +13,9 @@ redirect_from:
 I am a Ph.D. student in the Department of Computer Science at The University of Texas at Austin,
 working with Prof. [Vijay Chidambaram](http://www.cs.utexas.edu/~vijay/) in the
 [UT Systems and Storage Lab](http://utsaslab.cs.utexas.edu/) and the [LASR](https://www.cs.utexas.edu/lasr/) 
-research group. I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/) 
+research group. I am also closely working with [Kimberly Keeton](https://scholar.google.co.kr/citations?user=wR_tv-kAAAAJ&hl=en&oi=ao), [Sharad Singhal](https://scholar.google.co.kr/citations?user=_CKGpJ0AAAAJ&hl=en&oi=sra),
+[Marcos K. Aguilera](http://mkaguilera.kawazoe.org/).
+I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/) 
 (Ulsan National Institute of Science and Technology), where I worked with Prof. [Sam H. Noh](http://next.unist.ac.kr/professor).
 
 I am broadly interested in improving the performance and reliability of storage/file systems, operating systems, 

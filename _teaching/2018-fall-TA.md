@@ -1,5 +1,5 @@
 ---
-title: "Fall 2018 TA for Elements of Software Design (CS313E)"
+title: "Fall 2018 TA for Elements of Software Design (CS 313E)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-TA

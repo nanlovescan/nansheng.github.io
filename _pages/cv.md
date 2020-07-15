@@ -13,10 +13,11 @@ redirect_from:
 
 Research interest
 =====
-* <b>Systems</b>
-  * <b>Areas:</b> Storage and File systems, Operating Systems, Distributed Systems, Database systems
-  * <b>Focus:</b> Persistent Memory (PM) & Disaggregated Memory aware systems design
-      * Key-value store and its core indexing structures
+* <b>Computer Systems</b>
+  * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
+  * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design
+      * Designing an elastic and high-performance datastore for far memory architectures
+      * Designing index structures for PM-based storage systems
       * Improving the performance and reliability of PM-based file systems
 
 Education

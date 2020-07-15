@@ -20,8 +20,8 @@ I received my masters in Computer Science from [UNIST](https://www.unist.ac.kr/)
 
 I am broadly interested in improving the performance and reliability of storage/file systems, operating systems, 
 distributed systems, and database systems. Especially, my recent studies focus on designing an index structure 
-and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of index structures,
-running on far memory architectures (e.g., an RDMA-enabled memory server or Gen-Z fabric-attached memory).
+and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of persistent
+datastore running on far memory architectures.
 
 # News
 * [RECIPE](https://sekwonlee.github.io/publications/nvmw20_recipe) and [SplitFS](https://sekwonlee.github.io/publications/nvmw20_splitfs) will be presented at the 11th Annual Non-Volatile Memories Workshop (<b>NVMW 2020</b>).

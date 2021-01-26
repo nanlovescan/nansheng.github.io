@@ -55,6 +55,10 @@ Work experience
 
 * <b>Republic of Korea Army</b>, 08.2010~05.2012
 
+Honors & Awards
+======
+* <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

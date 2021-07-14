@@ -10,10 +10,10 @@ redirect_from:
 
 ### Life inspired by love and guided by knowledge - Bertrand Russell
 
-I am a Ph.D. student in theoretical chemistry at The University of Chicago,
+I am a Ph.D. student in Theoretical Chemistry at The University of Chicago,
 working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with [Kimberly Keeton](https://scholar.google.co.kr/citations?user=wR_tv-kAAAAJ&hl=en&oi=ao), [Sharad Singhal](https://scholar.google.co.kr/citations?user=_CKGpJ0AAAAJ&hl=en&oi=sra), 
 and [Marcos K. Aguilera](http://mkaguilera.kawazoe.org/).
-I received my dual bachelors in Chemistry and Physics from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn/) and Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5).
+I received my dual bachelors in Physics and Chemistry from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn/) and Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5).
 
 I am broadly interested in improving the performance and reliability of storage/file systems, operating systems, 
 distributed systems, and database systems. Especially, my recent studies focus on designing an index structure 

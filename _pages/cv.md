@@ -30,7 +30,16 @@ Education
       * Co-research advised by Prof. Changhee Jung
       * Participating in the project of a new fault-tolerant programming model for PM -->
 * <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2019
+  * <b>Advisor</b>: Tao Xiang
 * <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2019
+  * <b>Advisor</b>: Qiang Shi
+
+Work experience
+======
+* <b>Research Associate Intern</b>, 06.2019~08.2019
+  * Center of Computational Quantum Physics, Flatiron Institute, New York, NY, US
+  * Duties included: Designing far-memory data structures optimized for one-sided operation
+  * Mentors: Kimberly Keeton and Sharad Singhal
 
 <!-- Work experience
 ======
@@ -69,7 +78,7 @@ Publications
 Skills
 ======
 * <b>Languages</b>
-  * C, C++, Python, x86 assembly, Bash script
+  * C, C++, Fortran, Python, Matlab, Bash script
 * <b>System programming</b>
   * Linux kernel, Memcached, Tizen
 * <b>Benchmarks</b>

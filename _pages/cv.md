@@ -22,16 +22,17 @@ Research interest
 
 Education
 ======
-* <b>Ph.D.</b> in Computer Science, <b>The University of Texas at Austin</b>, Fall 2018 ~ Present
-  * <b>Advisor</b>: Vijay Chidambaram
-* <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
+* <b>Ph.D.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, Fall 2019 ~ Present
+  * <b>Advisor</b>: Giulia Galli
+<!-- * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Sam H. Noh
   * Visiting student in Virginia Tech (2017.03 - 2017.05)
       * Co-research advised by Prof. Changhee Jung
-      * Participating in the project of a new fault-tolerant programming model for PM
-* <b>B.S.</b> in Computer Engineering, <b>Hongik University</b>, 2015
+      * Participating in the project of a new fault-tolerant programming model for PM -->
+* <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2019
+* <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2019
 
-Work experience
+<!-- Work experience
 ======
 * <b>Research Associate Intern</b>, 06.2019~08.2019
   * Hewlett Packard Labs, Palo Alto, CA, US
@@ -53,7 +54,7 @@ Work experience
   * Duties included: Analyzing PM-based file system (PMFS) and evaluating its performance
   * Supervisor: Sam H. Noh
 
-* <b>Republic of Korea Army</b>, 08.2010~05.2012
+* <b>Republic of Korea Army</b>, 08.2010~05.2012 -->
 
 Honors & Awards
 ======

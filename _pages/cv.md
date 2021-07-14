@@ -69,11 +69,11 @@ Honors & Awards
 ======
 * <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Skills
 ======

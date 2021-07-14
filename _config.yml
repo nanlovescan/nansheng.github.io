@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sekwon Lee"
+title                    : "Nan Sheng"
 title_separator          : "-"
-name                     : &name "Sekwon Lee"
-description              : &description "Ph.D. student at The University of Texas at Austin"
-url                      : https://sekwonlee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nan Sheng"
+description              : &description "Ph.D. student at The University of Chicago"
+url                      : https://nanlovescan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sekwonlee.github.io"
+repository               : "nanlovescan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sekwon Lee"
+  name             : "Nan Sheng"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Student at The University of Texas at Austin"
-  location         : "Austin, Texas"
+  bio              : "Ph.D. Student at The University of Chicago"
+  location         : "Chicago, Illinois"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=ko"
-  email            : "sklee@cs.utexas.edu"
+  email            : "nansheng@uchicago.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "sekwonlee90"
+  facebook         : "nanlovescan"
   foursquare       :
-  github           : "SeKwonLee"
+  github           : "nanlovescan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sekwon-lee-7ab143137"
+  linkedin         : "nan-sheng-94a846110"
   orcid            : # "http://orcid.org"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "SekwonL"
+  twitter          : "nanlovescan"
   vine             :
   weibo            :
   xing             :

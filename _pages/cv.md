@@ -27,7 +27,7 @@ Education
   Research Interest: Data Mining, Text Mining  
   Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
   
-* <b>University of Chicago</b> 
+* <b>University of Chicago</br>
   Ph.D. in Theoretical Chemistry, 2019.10 ~ Present 
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
   M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 

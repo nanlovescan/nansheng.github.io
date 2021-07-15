@@ -13,12 +13,6 @@ redirect_from:
 
 
 Research interest
-=====
-* University of Illinois, Urbana-Champaign (2018.08-present)  
-  Ph.D. in Computer Science  
-  Research Interest: Data Mining, Text Mining  
-  Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
-  
 * <b>Computer Systems</b>
   * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
   * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design
@@ -28,6 +22,11 @@ Research interest
 
 Education
 ======
+* University of Illinois, Urbana-Champaign (2018.08-present)  
+  Ph.D. in Computer Science  
+  Research Interest: Data Mining, Text Mining  
+  Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
+  
 * <b>University of Chicago</b>
   Ph.D. in Theoretical Chemistry, 2019.10 ~ Present
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)

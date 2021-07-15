@@ -26,14 +26,11 @@ Education
   * <b>Advisor</b>: Giulia Galli
 * <b>M.S.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ 2020.12
   * <b>Advisor</b>: Giulia Galli
-<!-- * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
-  * <b>Advisor</b>: Sam H. Noh
-  * Visiting student in Virginia Tech (2017.03 - 2017.05)
-      * Co-research advised by Prof. Changhee Jung
-      * Participating in the project of a new fault-tolerant programming model for PM -->
-* <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2019.09 ~ 2019.07
+* <b>Exchange Student</b> in Physics, <b>University of California, Berkeley</b>, 2018.08 ~ 2018.12
+  * <b>Advisor</b>: Eran Rabani
+* <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2015.09 ~ 2019.07
   * <b>Advisor</b>: Tao Xiang
-* <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2019.09 ~ 2019.07
+* <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2015.09 ~ 2019.07
   * <b>Advisor</b>: Qiang Shi
 
 Work experience

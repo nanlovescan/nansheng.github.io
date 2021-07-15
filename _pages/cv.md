@@ -24,21 +24,21 @@ Education
 ======
 * <b>The University of Chicago</b>
   * <b>Ph.D.</b> in Theoretical Chemistry, 2019.10 ~ Present
-    * Advisor: Prof. Giulia Galli
+    * Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
   * <b>M.S.</b> in Theoretical Chemistry, 2019.10 ~ 2020.12
-    * Advisor: Prof. Giulia Galli
+    * Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
 * <b>University of California, Berkeley</b>
   * <b>Visiting Student</b> in Physics,  2018.08 ~ 2018.12
-    * Advisor: Prof. Eran Rabani
+    * Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
 * <b>University of Washington</b>
   * <b>Visiting Student</b> in Theoretical Chemistry,  2018.06 ~ 2018.08
-    * Advisor: Prof. Xiaosong Li
+    * Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
 * <b>University of Chinese Academy of sciences</b>
   * <b>B.S.</b> in Physics, 2015.09 ~ 2019.07
-    * Advisor: Prof. Tao Xiang
+    * Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn)
   * <b>B.S.</b> in Chemistry, 2015.09 ~ 2019.07
-    * Advisor: Prof. Qiang Shi
-
+    * Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5)
+   
 Work experience
 ======
 * <b>Summer Research Associate</b>, 2021.06 ~ 2021.08

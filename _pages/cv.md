@@ -44,7 +44,7 @@ Work experience
 * <b>Summer Research Associate</b>, 2021.06 ~ 2021.08
   * Center of Computational Quantum Physics, Flatiron Institute, New York, NY, US
   * Duties included: Designing far-memory data structures optimized for one-sided operation
-  * Advisor: Dr. Olivier Parcollet
+  * Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet)
 
 <!-- Work experience
 ======

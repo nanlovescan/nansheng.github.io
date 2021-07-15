@@ -28,7 +28,7 @@ Education
   * <b>M.S.</b> in Theoretical Chemistry, 2019.10 ~ 2020.12
     * Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
 * <b>University of California, Berkeley</b>
-  * <b>Visiting Student</b> in Physics,  2018.08 ~ 2018.12
+  * <b>Visiting Student</b> in Theoretical Chemistry,  2018.08 ~ 2018.12
     * Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
 * <b>University of Washington</b>
   * <b>Visiting Student</b> in Theoretical Chemistry,  2018.06 ~ 2018.08

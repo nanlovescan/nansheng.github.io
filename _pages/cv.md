@@ -11,8 +11,14 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf)
 
+
 Research interest
 =====
+* University of Illinois, Urbana-Champaign (2018.08-present)  
+  Ph.D. in Computer Science  
+  Research Interest: Data Mining, Text Mining  
+  Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
+  
 * <b>Computer Systems</b>
   * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
   * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design

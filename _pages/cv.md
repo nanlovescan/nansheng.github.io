@@ -23,13 +23,13 @@ Research interest
 Education
 ======
 * <b>University of Chicago</b>
-  * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present
-    Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
-  * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12
-    Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
+  Ph.D. in Theoretical Chemistry, 2019.10 ~ Present
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
+  M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
 * <b>University of California, Berkeley</b>
-  * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12
-    * Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
+  Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12
+  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
 * <b>University of Washington</b>
   * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08
     * Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)

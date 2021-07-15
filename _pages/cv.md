@@ -101,6 +101,8 @@ Skills
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>University of Chicago</b> <br>
+  * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019
+  * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
+  * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
+  

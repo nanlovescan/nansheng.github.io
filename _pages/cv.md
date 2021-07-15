@@ -23,19 +23,19 @@ Research interest
 Education
 ======
 * <b>Ph.D.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ Present
-  * <b>Advisor</b>: Giulia Galli
+  * <b>Advisor</b>: Prof. Giulia Galli
 * <b>M.S.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ 2020.12
-  * <b>Advisor</b>: Giulia Galli
+  * <b>Advisor</b>: Prof. Giulia Galli
 * <b>Exchange Student</b> in Physics, <b>University of California, Berkeley</b>, 2018.08 ~ 2018.12
-  * <b>Advisor</b>: Eran Rabani
+  * <b>Advisor</b>: Prof. Eran Rabani
 * <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2015.09 ~ 2019.07
-  * <b>Advisor</b>: Tao Xiang
+  * <b>Advisor</b>: Prof. Tao Xiang
 * <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2015.09 ~ 2019.07
-  * <b>Advisor</b>: Qiang Shi
+  * <b>Advisor</b>: Prof. Qiang Shi
 
 Work experience
 ======
-* <b>Summer Research Associate</b>, 06.2019~08.2019
+* <b>Summer Research Associate</b>, 2021.06 ~ 2021.08
   * Center of Computational Quantum Physics, Flatiron Institute, New York, NY, US
   * Duties included: Designing far-memory data structures optimized for one-sided operation
   * Advisor: Dr. Olivier Parcollet

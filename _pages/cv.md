@@ -28,10 +28,10 @@ Education
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12
     * Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
 * <b>University of California, Berkeley</b>
-  * Visiting Student</b> in Theoretical Chemistry,  2018.08 ~ 2018.12
+  * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12
     * Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
 * <b>University of Washington</b>
-  * Visiting Student</b> in Theoretical Chemistry,  2018.06 ~ 2018.08
+  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08
     * Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
 * <b>University of Chinese Academy of sciences</b>
   * B.S. in Physics, 2015.09 ~ 2019.07
@@ -41,10 +41,10 @@ Education
    
 Work experience
 ======
-* Summer Research Associate, 2021.06 ~ 2021.08
-  * Center of Computational Quantum Physics, Flatiron Institute, New York, NY, US
-  * Duties included: Designing far-memory data structures optimized for one-sided operation
-  * Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet)
+* Flatiron Institute, 2021.06 ~ 2021.08
+  * Summer Research Associate in Quantum Physics
+    * Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet)
+    * Duties included: Designing far-memory data structures optimized for one-sided operation
 
 <!-- Work experience
 ======

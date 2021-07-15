@@ -22,24 +22,26 @@ Research interest
 
 Education
 ======
-* <b>Ph.D.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, Fall 2019 ~ Present
+* <b>Ph.D.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ Present
+  * <b>Advisor</b>: Giulia Galli
+* <b>M.S.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ 2020.12
   * <b>Advisor</b>: Giulia Galli
 <!-- * <b>M.S.</b> in Computer Science Engineering, <b>UNIST (Ulsan National Institute of Science & Technology)</b>, 2018
   * <b>Advisor</b>: Sam H. Noh
   * Visiting student in Virginia Tech (2017.03 - 2017.05)
       * Co-research advised by Prof. Changhee Jung
       * Participating in the project of a new fault-tolerant programming model for PM -->
-* <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2019
+* <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2019.09 ~ 2019.07
   * <b>Advisor</b>: Tao Xiang
-* <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2019
+* <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2019.09 ~ 2019.07
   * <b>Advisor</b>: Qiang Shi
 
 Work experience
 ======
-* <b>Research Associate Intern</b>, 06.2019~08.2019
+* <b>Summer Research Associate</b>, 06.2019~08.2019
   * Center of Computational Quantum Physics, Flatiron Institute, New York, NY, US
   * Duties included: Designing far-memory data structures optimized for one-sided operation
-  * Mentors: Kimberly Keeton and Sharad Singhal
+  * Advisor: Dr. Olivier Parcollet
 
 <!-- Work experience
 ======
@@ -67,7 +69,14 @@ Work experience
 
 Honors & Awards
 ======
-* <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023
+* <b>Mccormick felloship, 2019
+* <b>Excellent graduate of Beijing, 2019
+* <b>Excellent graduate of University of Chinese Academy of Sciences, 2019
+* <b>Tang Lixin scholarship, 2018
+* <b>Academic Excellence Scholarship, University of Chinese Academy of Sciences 2016-2018
+
+
+<!-- * <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023 -->
 
 <!-- Publications
 ======

@@ -33,7 +33,7 @@ Education
 * <b>University of Washington</b>
   * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08
     * Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
-* <b>University of Chinese Academy of sciences</b>
+* <b>University of Chinese Academy of Sciences</b>
   * B.S. in Physics, 2015.09 ~ 2019.07
     * Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn)
   * B.S. in Chemistry, 2015.09 ~ 2019.07
@@ -73,12 +73,12 @@ Work experience
 Honors & Awards
 ======
 * <b>University of Chicago</b>
-  * Mccormick fellowship, 2019
+  * Mccormick Fellowship, 2019
 * <b>University of Chinese Academy of Sciences</b>
-  * Excellent graduate of Beijing, 2019
-  * Excellent graduate, 2019
-  * Top Student Fellowship for Studying Abroad, 2018
-  * Tang Lixin scholarship, 2018
+  * Excellent Graduate of Beijing, 2019
+  * Excellent Graduate, 2019
+  * Study Abroad Scholarship for Top Students, 2018
+  * Tang Lixin Scholarship, 2018
   * Academic Excellence Scholarship 2016-2018
 
 
@@ -92,12 +92,12 @@ Honors & Awards
 
 Skills
 ======
-* <b>Languages</b>
-  * C, C++, Fortran, Python, Matlab, Bash script
-* <b>System programming</b>
-  * Linux kernel, Memcached, Tizen
-* <b>Benchmarks</b>
-  * Filebench, Fio, YCSB, ForestDB-benchmark, MC-benchmark, SPLASH3, Parsec, SPEC SFS2014
+* <b>Programming Languages</b>
+  * C, C++, Fortran
+* <b>Scripting Languages</b>
+  * Python, Matlab, Bash
+* <b>Software</b>
+  * QuantumEspresso, Gaussian, PySCF
 
 Teaching
 ======

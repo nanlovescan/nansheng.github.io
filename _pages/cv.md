@@ -23,15 +23,15 @@ Research interest
 Education
 ======
 * <b>Ph.D.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ Present
-  * <b>Advisor</b>: Prof. Giulia Galli
+  * Advisor: Prof. Giulia Galli
 * <b>M.S.</b> in Theoretical Chemistry, <b>The University of Chicago</b>, 2019.10 ~ 2020.12
-  * <b>Advisor</b>: Prof. Giulia Galli
+  * Advisor: Prof. Giulia Galli
 * <b>Exchange Student</b> in Physics, <b>University of California, Berkeley</b>, 2018.08 ~ 2018.12
-  * <b>Advisor</b>: Prof. Eran Rabani
+  * Advisor: Prof. Eran Rabani
 * <b>B.S.</b> in Physics, <b>University of Chinese Academy of sciences</b>, 2015.09 ~ 2019.07
-  * <b>Advisor</b>: Prof. Tao Xiang
+  * Advisor: Prof. Tao Xiang
 * <b>B.S.</b> in Chemistry, <b>University of Chinese Academy of sciences</b>, 2015.09 ~ 2019.07
-  * <b>Advisor</b>: Prof. Qiang Shi
+  * Advisor: Prof. Qiang Shi
 
 Work experience
 ======

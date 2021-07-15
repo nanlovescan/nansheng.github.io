@@ -7,18 +7,24 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
-[<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf)
+[<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
 
 Research interest
-* <b>Computer Systems</b>
-  * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems
-  * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design
-      * Designing an elastic and high-performance datastore for far memory architectures
+======
+* <b>Quantum Many-body Physics</b>
+  * <b>Areas:</b> Dynamical mean-field theory, Many-body perturbation theory, Density Functional Theory
+  * <b>Focus:</b> Quantum defect embedding theory for strongly-correlated electronic states in defective systems
+  * Application of discrete Lehnmann representation to Dynamical mean-field theory and Many-body perturbation theory.
+<!--   * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems -->
+<!--   * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design -->
+<!--       * Designing an elastic and high-performance datastore for far memory architectures
       * Designing index structures for PM-based storage systems
-      * Improving the performance and reliability of PM-based file systems
+      * Improving the performance and reliability of PM-based file systems -->
+
+* <b>Quantum Simulations</b>
 
 Education
 ======
@@ -102,7 +108,7 @@ Skills
 Teaching
 ======
 * <b>University of Chicago</b> <br>
-  * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019
-  * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
+  * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
+  * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019
   

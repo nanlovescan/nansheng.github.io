@@ -22,11 +22,6 @@ Research interest
 
 Education
 ======
-* University of Illinois, Urbana-Champaign (2018.08-present)  
-  Ph.D. in Computer Science  
-  Research Interest: Data Mining, Text Mining  
-  Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu)  
-  
 * <b>University of Chicago</b><br>
   Ph.D. in Theoretical Chemistry, 2019.10 ~ Present 
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
@@ -35,14 +30,14 @@ Education
 * <b>University of California, Berkeley</b><br>
   Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12
   Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
-* <b>University of Washington</b>
-  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08
-    * Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
-* <b>University of Chinese Academy of Sciences</b>
-  * B.S. in Physics, 2015.09 ~ 2019.07
-    * Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn)
-  * B.S. in Chemistry, 2015.09 ~ 2019.07
-    * Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5)
+* <b>University of Washington</b><br>
+  Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08
+  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
+* <b>University of Chinese Academy of Sciences</b><br>
+  B.S. in Physics, 2015.09 ~ 2019.07
+  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn)
+  B.S. in Chemistry, 2015.09 ~ 2019.07
+  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5)
    
 Work experience
 ======

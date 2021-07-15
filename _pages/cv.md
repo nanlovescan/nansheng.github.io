@@ -72,9 +72,9 @@ Work experience
 
 Honors & Awards
 ======
-<b>University of Chicago</b>
+* <b>University of Chicago</b>
   * Mccormick felloship, 2019
-<b>University of Chinese Academy of Sciences</b>
+* <b>University of Chinese Academy of Sciences</b>
   * Excellent graduate of Beijing, 2019
   * Excellent graduate, 2019
   * Top Student Fellowship for Studying Abroad, 2018

@@ -72,11 +72,14 @@ Work experience
 
 Honors & Awards
 ======
-* Mccormick felloship, 2019
-* Excellent graduate of Beijing, 2019
-* Excellent graduate of University of Chinese Academy of Sciences, 2019
-* Tang Lixin scholarship, 2018
-* Academic Excellence Scholarship, University of Chinese Academy of Sciences 2016-2018
+<b>University of Chicago</b>
+  * Mccormick felloship, 2019
+<b>University of Chinese Academy of Sciences</b>
+  * Excellent graduate of Beijing, 2019
+  * Excellent graduate, 2019
+  * Top Student Fellowship for Studying Abroad, 2018
+  * Tang Lixin scholarship, 2018
+  * Academic Excellence Scholarship 2016-2018
 
 
 <!-- * <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023 -->

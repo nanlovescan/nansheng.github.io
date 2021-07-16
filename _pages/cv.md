@@ -15,13 +15,14 @@ redirect_from:
 Research interest
 ======
 * <b>Quantum Many-body Physics</b>
-  * <b>Areas:</b> 
+  * <b>Areas:</b> <br>
     Quantum embedding theory  <br>
     Dynamical mean-field theory <br>
     Many-body perturbation theory <br>
     Density Functional Theory 
-  * <b>Focus:</b> Quantum defect embedding theory for strongly-correlated electronic states in defective systems
-  * Application of discrete Lehnmann representation to Dynamical mean-field theory and Many-body perturbation theory.
+  * <b>Focus:</b> <br>
+    Quantum defect embedding theory for strongly-correlated electronic states in defective systems <br>
+    Application of discrete Lehnmann representation to Dynamical mean-field theory and Many-body perturbation theory.
 <!--   * <b>Areas:</b> Storage and File systems, Distributed Systems, Database systems, Operating Systems -->
 <!--   * <b>Focus:</b> Persistent Memory (PM) & Far memory (Disaggregated PM) aware systems design -->
 <!--       * Designing an elastic and high-performance datastore for far memory architectures

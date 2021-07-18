@@ -35,7 +35,9 @@ Education
 ======
 * <b>University of Chicago</b> <br>
   * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
+  Advisor: 
+  Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
+  
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
 * <b>University of California, Berkeley</b> <br>

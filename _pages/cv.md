@@ -14,7 +14,7 @@ redirect_from:
 
 Research interest
 ======
-* <b>Quantum Many-body Physics</b>
+* <b>Quantum Many-Body physics</b>
   * <b>Areas:</b> <br>
     Quantum embedding theory (QET)  <br>
     Dynamical mean-field theory (DMFT) <br>
@@ -25,9 +25,22 @@ Research interest
   * <b>Focus:</b> <br>
     Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>
     Discrete Lehnmann representation (DLR) for DMFT and MBPT
-
-* <b>Quantum Simulations</b>
-  fafasfasdf
+    First-principles studies and predictions of spin qubits using QDET
+    
+* <b>Quantum Computing and Quantum Simulations</b>
+  * <b>Areas:</b> <br>
+    Variational-Quantum-Eigensolver (VQE)
+    Quantum Phase Estimation (QPE)
+  * <b>Focus:</b> <br>
+    Quantum algorithms as solvers for downfolded Hamiltonians
+    
+* <b>Scientific Computing</b>
+  * <b>Areas:</b> <br>
+    Parallel computing
+    Numerical computing
+  * <b>Focus:</b> <br>
+    Developer of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations
+    Developer of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
 Education
 ======

@@ -39,8 +39,8 @@ Research interest
     Parallel computing <br>
     Numerical computing
   * <b>Focus:</b> <br>
-    Developer of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
-    Developer of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
+    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
+    Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
 Education
 ======

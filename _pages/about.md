@@ -14,7 +14,7 @@ I am a Ph.D. student in Theoretical Chemistry at The University of Chicago,
 working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 I received my dual bachelors in Physics and Chemistry from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5).
 
-I am broadly interested in quantum many-particle physics, quantum computing ...
+I am broadly interested in Quantum Many-Body physics, quantum computing and quantum simulations, and scientific computing.
 <!-- I am broadly interested in improving the performance and reliability of storage/file systems, operating systems, 
 distributed systems, and database systems. Especially, my recent studies focus on designing an index structure 
 and building a system based on Persistent Memory (PM). Currently, I am studying the design issues of persistent

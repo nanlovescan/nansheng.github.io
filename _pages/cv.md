@@ -33,6 +33,10 @@ Research interest
 
 Education
 ======
+* University of Illinois, Urbana-Champaign (2018.08-present)  
+  Ph.D. in Computer Science  
+  Research Interest: Data Mining, Text Mining  
+  Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu) 
 * <b>University of Chicago</b> <br>
   Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 

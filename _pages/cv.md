@@ -24,7 +24,7 @@ Research interest
     Post Hartree-Fock (post-HF)
   * <b>Focus:</b> <br>
     Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>
-    Discrete Lehnmann representation (DLR) for DMFT and MBPT.
+    Discrete Lehnmann representation (DLR) for DMFT and MBPT
 
 * <b>Quantum Simulations</b>
   fafasfasdf

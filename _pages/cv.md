@@ -19,7 +19,9 @@ Research interest
     Quantum embedding theory (QET)  <br>
     Dynamical mean-field theory (DMFT) <br>
     Many-body perturbation theory (MBPT) <br>
-    Density Functional Theory (DFT)
+    Density Functional Theory (DFT) <br>
+    Matrix Product States (MPS) and Density Matrix Renormalization Group (DMRG) <br>
+    Post Hartree-Fock Methods for Quantum Chemistry
   * <b>Focus:</b> <br>
     Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>
     Discrete Lehnmann representation (DLR) for DMFT and MBPT.

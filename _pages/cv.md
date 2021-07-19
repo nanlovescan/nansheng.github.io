@@ -38,8 +38,8 @@ Research interest
   * <b>Areas:</b> <br>
     Parallel computing <br>
     Numerical computing
-  * <b>Focus:</b> <br>
-    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
+  * <b>Focus:</b> \n
+    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations \n
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
 Education
@@ -71,7 +71,7 @@ Work experience
 * <b>Flatiron Institute</b> <br>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
   Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) <br>
-  Topic: DLR applied for DMFT and MBPT
+  Topic: DLR for DMFT and MBPT
 
 Honors & Awards
 ======

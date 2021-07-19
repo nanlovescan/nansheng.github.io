@@ -46,24 +46,24 @@ Education
 ======
 * <b>University of Chicago</b> <br>
   * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
   Topic: Development of QDET and application of QDET to spin qubits
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 <br>
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
 * <b>University of California, Berkeley</b> <br>
   * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 <br>
-  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
+  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) <br>
   Topic: First-principles studies of circular dichroism of chiral nanoparticles
 * <b>University of Washington</b> <br>
   * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
-  Topic: Development of two-component and four-component relativistic quantum chemistry program
+  Topic: Development of two-component and four-component relativistic quantum chemistry program <br>
   Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
 * <b>University of Chinese Academy of Sciences</b> <br>
   * B.S. in Physics, 2015.09 ~ 2019.07 <br>
-  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn)
+  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) <br>
   Topic: DMRG applied to quantum chemistry calculations
   * B.S. in Chemistry, 2015.09 ~ 2019.07 <br>
-  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5)
+  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
   Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
    
 Work experience

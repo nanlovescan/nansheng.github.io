@@ -90,11 +90,11 @@ Honors & Awards
 Skills
 ======
 * <b>Programming Languages</b>
-  * C, C++, Fortran
+  * C/C++, Fortran
 * <b>Scripting Languages</b>
   * Python, Matlab, Bash
 * <b>Software</b>
-  * QuantumEspresso, Gaussian, PySCF
+  * QuantumEspresso, Gaussian, PySCF, WEST, TRIQS
 
 Teaching
 ======

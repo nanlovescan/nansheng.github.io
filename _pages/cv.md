@@ -66,7 +66,6 @@ Work experience
 * <b>Flatiron Institute</b> <br>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
   Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) <br>
-  Duties included: Designing far-memory data structures optimized for one-sided operation
 
 Honors & Awards
 ======

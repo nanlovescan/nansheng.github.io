@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Life inspired by love and guided by knowledge - Bertrand Russell
+### Nobody really understands quantum mechanics - Richard Feynman
 
 I am a Ph.D. student in Theoretical Chemistry at The University of Chicago,
 working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
@@ -18,7 +18,7 @@ I am broadly interested in quantum many-body physics, quantum computing and quan
 
 # News
 
-I have started my job at Flatiron institute, working with Dr. Olivier Parcollet.
+I have started a job at Flatiron institute, working with Dr. Olivier Parcollet.
 
 
 <!-- * I will do my internship at MSR Redmond this summer.

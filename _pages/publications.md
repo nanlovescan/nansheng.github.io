@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=dqhN0pkAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include archive-single.html %}
+
+{% include publication_use.html %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

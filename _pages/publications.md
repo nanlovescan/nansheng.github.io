@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- {% include archive-single.html %} -->
 
-{% include publication_use.html %}
+{% include publications_use.html %}
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}

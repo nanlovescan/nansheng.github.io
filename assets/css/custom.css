@@ -1,0 +1,691 @@
+/* Global Styles */
+html {
+	font-size:18px; 
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+
+div.hrnice {
+	border-top: 3px double #8c8b8b;
+}
+
+
+img {
+	margin-bottom:25px;
+}
+
+	img.img-hover:hover {
+		opacity: 0.8;
+	}
+
+p {
+	font-size:1.1rem;
+	margin:0 0 20px 0;
+}
+
+a {
+	word-wrap: break-word;
+}
+
+li {
+	font-size:1.1rem;
+	margin-bottom:20px;
+}
+
+	li p {
+		margin-top:10px;
+		font-size:0.95rem;
+	}
+
+table {
+	margin: 25px 0;
+}
+
+
+/* navbar */
+.navbar li {
+	font-size:1rem;
+	margin-bottom:0;
+}
+
+.navbar {
+    /* background-color: #303238;  */
+    background-color: #404040;
+    border-bottom:1px #404040;
+    border-top:1px #404040;
+}
+
+.navbar .navbar-nav > li > a {
+    color: #FFF;
+	padding-left:13px;
+	padding-right:13px;
+}
+
+.navbar .navbar-nav > li > a:hover 
+/* .navbar .navbar-nav > li > a:focus */
+{
+    background-color: black;  
+}
+
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+    color: #FFF;
+    background-color: black;
+}
+
+.navbar .navbar-text {
+    color: #FFF;
+}
+
+.navbar .navbar-toggle {
+	background-color:black;
+    border-color: black; 
+}
+
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: black;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #FFF;
+	padding:5px 0 0 15px; 
+	background-color:#404040;
+}
+.navbar-logo  {
+	/* height:2.778rem; */
+	/* width:auto;	 */
+	/* width:5.5909rem; */
+	width:5.556rem; 
+	/* width:4.757rem; */
+	/* width:100px; */
+	height:auto;
+	margin:0;
+}
+
+@media(min-width:992px) {
+	.navbar .navbar-nav > li > a {
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.navbar .navbar-brand,
+	.navbar .navbar-brand:hover,
+	.navbar .navbar-brand:focus {
+		padding:5px 15px 0 15px; 
+	}
+}
+
+
+/*Jumbotron header */
+.jumbotron {
+	background: #445E93;
+	/* background: #585191; */
+	/* background: #7D6F86; */
+	/* color: #EEF4ED; */
+	color: white;
+	text-align: center;
+	margin-bottom:40px;
+	padding:37px 0;
+}
+.jumbotron h1 {
+	font-size:2.2rem;
+	font-family: Arial
+	font-weight: bolder
+	margin:0;
+}
+
+
+/* Tables */
+th, td {
+	padding: 5px;
+	font-size: 1.25em;
+}
+th {
+	width:20%;
+	font-weight:normal; 
+}
+td {
+	vertical-align:text-top;
+}
+tr > th:first-of-type,
+tr > td:first-of-type {
+	font-weight:bold; 
+}
+td.team-leader a {
+	color:black;
+}
+
+
+/* Carousel */
+.carousel-control.left, .carousel-control.right {
+   background-image:none !important;
+}
+.carousel img {
+	margin:0;
+}
+.carousel-caption {
+	position:relative;
+	left:auto;
+	right:auto;
+	color: #333;
+	text-shadow:none;
+} 
+
+/* TODO: make height of the caption equal to max of possible options AUTOMATICALLY and RESPONSIVELY */
+.new-caption-area {
+	height:85px;
+}
+.new-caption-area h3{
+	margin:10px 0 3px 0;
+	font-size:1.2rem;
+	text-align:center;
+}
+.new-caption-area p{
+	text-align:center;
+	font-size:0.9rem;
+}
+
+/* HOLY WOW OH MY GOD THIS IS A TERRIBLE WAY OF DOING THIS */
+/* currently, we are setting the carousel image sizes manually for all kinds of device sizes to avoid skewing the aspect ratio or having the rest of the page move in response */
+/* TODO: make this responsive. ie, automatically resize images to be max size without overflowing or changing aspect ratio, but keep the total height of the carousel at any one device size equal to the height of the maximum option */
+@media (max-width: 390px) {
+	.carousel img {
+		height:150px;
+		width:auto;
+	}
+	.new-caption-area {
+		height:150px;
+	}
+}
+@media (min-width: 391px) {
+	.carousel img {
+		height:200px;
+		width:auto;
+	}
+	.new-caption-area {
+		height:120px;
+	}
+}
+@media (min-width: 481px) {
+	.carousel img {
+		height:250px;
+		width:auto;
+	}
+	.new-caption-area {
+		height:90px;
+	}	
+}
+@media (min-width: 768px) {
+	.carousel img {
+		height:300px;
+		width:auto;
+	}
+}
+@media (min-width: 992px) {
+	.carousel img {
+		height:250px;
+		width:auto;
+	}
+}
+@media (min-width: 1200px) {
+	.carousel img {
+		height:300px;
+		width:auto;
+	}
+}
+
+/* for adding vertical spacing (probably better to do this in other styles)*/
+.bottom-buffer-sm { margin-bottom:20px; }
+.bottom-buffer-md { margin-bottom:50px; }
+.bottom-buffer-lg { margin-bottom:125px; }
+.top-buffer-sm { margin-top:20px; }
+.top-buffer-md { margin-top:50px; }
+.top-buffer-lg { margin-top:125px; }
+
+
+
+/* Address styles */
+p.address {
+	margin-left: 40px;
+	font-size:1rem;
+}
+.address-header {
+	margin: 45px 0px;
+}
+.address-large {
+	font-size: 1.25em;
+	margin-bottom: 75px;
+}
+@media (max-width: 767px) {
+	.address-header {
+		margin: 30px 0px;
+	}
+	.address-large {
+		margin-bottom:45px;
+	}
+}
+
+/* Footer */
+.footer { 
+	background-color:#404040; 
+	color:#FFF; 
+	margin-top:50px;
+}
+.footer-blurb p { 
+	text-align:center; 
+	font-weight: 600;
+	margin:40px;
+}
+.footer-logo {
+	height:135px;
+}
+.footer-logo img {
+	margin:30px 0;
+	width:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+.footer-logo.logo-lg img {
+	max-height:40px;
+}
+.footer-logo.logo-sm img {
+	max-height:75px;
+}
+@media(max-width:767px) {
+	.footer-logo {
+		height:auto;
+	}
+}
+
+/* Profiles 
+(picture of person pluse name and small description */
+.person-list-entry h3, .person-list-entry h4, .person-list-entry p{
+	margin: 0 20px 10px 0;
+}
+.person-list-entry p {
+	font-size:1rem;
+}
+.person-list-entry img{
+	height: 100px;
+	width:auto;
+	float: left;
+	margin: 0 20px 0 0;
+	clear:below;
+}
+@media(min-width:767px) {
+    .person-list-entry img {
+        width:auto;
+		height:125px;
+    }
+}
+
+/*  news post entries */
+.news-post img{
+	max-height: 200px;
+	width:auto;
+	margin-bottom:0;
+}
+.news-post p {
+	margin:10px 0 0 0;
+}
+.news-post h3 {
+	margin-top: 0;
+}
+@media(max-width:767px) {
+    .news-post img {
+        margin-bottom: 15px;
+    }
+}
+
+/* Publication entries */
+.publication h3 {
+	margin-top:0;
+	font-size:1.25rem;
+}
+.publication p {
+	font-size:0.95rem;
+	margin-bottom: 5px;
+}
+/* FIX: why is the whole width of the column clickable?*/
+.publication img {
+	max-height: 150px;
+	width:auto;
+	margin-bottom:0;	
+}
+.abstract p {
+	margin-top:7px;
+	font-size:0.85rem;
+}
+@media(max-width:767px) {
+    .publication img {
+		max-height:200px;
+		height:auto;
+		margin-left:auto;
+		margin-right:auto;
+        margin-bottom: 25px;
+    }
+}
+
+/* Panels */
+.panel {
+	margin-top:20px;
+	margin-bottom:30px;
+}
+.panel-heading{
+	background-color:#d8d8d8; 
+	/* border: #d8d8d8 1px solid; */
+}
+.panel-heading h4{
+	font-weight:bold;
+}
+.no-margin-top {
+	margin:0 0 30px 0;
+	/* border:1px solid black; */
+}
+.panel-dark {
+	border: 1px solid #BEBEBE; 
+	background-color:#F9F9F9;}
+.panel-footer {
+	margin-top: 10px;
+	padding-top: 0;
+	border-top:0;
+	background-color:white;
+}
+
+
+/* pictures on software page */
+.img-wrapper.software {
+	max-width:560px;
+	height:auto;
+}
+
+
+/* large pictures that need to take up only part of width on large devices, full width on small */
+img.img-lg {
+	/* margin: 50px auto; */
+	margin: 20px auto;
+}
+@media(min-width:992px) {
+	img.img-lg {
+		width:60%;
+	}
+}
+
+img.img-right {
+	float: right;
+	margin: 40px 0 45px 45px;
+}
+
+img.img-40per {
+	width:40%;
+}
+
+img.img-60per {
+	width:60%;
+}
+img.img-80per {
+	width:80%;
+}
+
+img.img-center {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img.img-left {
+	display: block;
+	float:left;
+	margin: 5px 25px 25px 0;
+}	
+
+@media(max-width:767px) {
+	img.img-full-sm {/* full size on small screens */
+		width:100%;
+		margin: 0 0 20px 0;
+	}
+}
+
+/* denser lists */
+.dense-list p {
+	margin-bottom:5px;
+	font-weight:500;
+}
+.dense-list li {
+	font-size:0.95rem;
+	margin-bottom: 5px;
+}
+
+/* Highlight-list 
+highlight each item as a cell when moused over */
+ul.highlight-list {
+	list-style-type:none;
+	list-style-image:none;
+	padding:0;
+	margin: 0;
+}
+
+	ul.highlight-list li {
+		/* border-bottom: 1px solid #D6D6CE; */
+		border-bottom: 1px solid white;
+		padding:10px;
+		margin-bottom:0;
+	/* 	background-color:#dbbfbd;
+		background-color:#eddfde;
+		background-color:#abc6d3;
+		background-color:#cddde5; */
+		background-color:#dee9ef; /* blue */
+	
+	}
+	
+	@media(min-width:992px) {
+		ul.highlight-list li {
+			height:125px;
+		}
+	}
+	
+	@media(min-width:1200px) {
+		ul.highlight-list li {
+			height:98px; 
+		}
+	}
+	
+		ul.highlight-list li:first-of-type {
+			border-top: 1px solid white;
+		}
+		
+		ul.highlight-list li:hover {
+			background-color: #f5f5f5;
+		}
+		ul.highlight-list li.separate-item {
+			background-color: #e9e2e5; /* purple */
+		}
+		ul.highlight-list li.separate-item:hover {
+			background-color: #f5f5f5; /* purple */
+		}
+		
+		ul.highlight-list a:hover,
+		ul.highlight-list a:focus {
+			text-decoration: none;
+		}
+		ul.highlight-list a {
+			color:black;
+		}
+
+/* remove padding from element */
+.no-padding {
+	padding:0;
+}
+
+/* Tabs (SAB meeting) */
+@media (max-width: 767px) {
+	.tabs-navbar {
+		display: none;
+	}
+}
+
+article.tab {
+	margin-bottom:20px;
+	/* background-color: #F9F9F9; */
+	border: solid 1px #e0e0e0;
+	border: solid 1px #c9c9c9;
+	border-radius:3px;
+	padding:30px;
+	-moz-transition: height .25s ease-in-out;
+	-webkit-transition: height .25s ease-in-out;
+	-ms-transition: height .25s ease-in-out;
+	transition: height .25s ease-in-out;
+}
+
+	article.tab > h2 {
+		margin:10px 0 25px 0;
+	}
+	
+	article.tab > h3 {
+		margin:7px 0 15px 0;
+		text-align:center;
+	}
+	
+	article.tab .subsection {
+		border-bottom: solid 1px #e0e0e0;
+		padding-bottom:15px;
+		margin:0 20px 30px 20px;
+		overflow:auto;
+	}
+		article.tab .subsection:last-of-type {
+			border-bottom:none;
+			margin-bottom:0;
+		}
+
+		
+@media (min-width: 768px) { /*ignore these styles on small devices */
+	.tab {
+		display: none;
+	}
+	
+	.tab.active {
+		display: block;
+	}
+	
+	.tabs-navbar {
+		cursor: default;
+		margin: 0 auto 20px auto;
+		display:table;
+	}
+	
+		.tabs-navbar a {
+			position:relative;
+			display: inline-block;
+			color: black; 
+			background-color: #dee9ef;
+			text-align: center;
+			padding: 7px 12px;
+			text-decoration:none;
+			font-size: 1.25rem;
+			margin: 0 5px;
+			border-radius:2px;
+			-moz-transition: background-color .25s ease-in-out;
+			-webkit-transition: background-color .25s ease-in-out;
+			-ms-transition: background-color .25s ease-in-out;
+			transition: background-color .25s ease-in-out;
+		}
+			@media (min-width: 992px) {
+				.tabs-navbar a {
+					margin: 0 10px;
+				}
+			}
+		
+		.tabs-navbar a:hover {
+			background-color: #b1babf;
+			-moz-transition: background-color 0s;
+			-webkit-transition: background-color 0s;
+			-ms-transition: background-color 0s;
+			transition: background-color 0s;
+		}
+		
+		.tabs-navbar a.active {
+			background-color: #b1babf;
+		}
+	
+		/* Triangle below tab button item */
+  		.tabs-navbar a.active::after {
+			content: " ";
+			position: absolute;  
+			top: 26px; 
+			left:50%;
+			margin-left: -20px; 
+			border-width: 20px;
+			border-style: solid;
+			border-color: transparent transparent #e0e0e0 transparent;
+			-moz-transition: border-bottom-width .25s ease-in-out;
+			-webkit-transition: border-bottom-width .25s ease-in-out;
+			-ms-transition: border-bottom-width .25s ease-in-out;
+			transition: border-bottom-width .25s ease-in-out;
+		} 
+		
+ 		/* .tabs-navbar a.active::after { */
+			/* content: " ";  */
+			/* position: absolute;  */
+			/* height: 100px; */
+			/* width: 100px; */
+			/* margin: 80px auto; */
+			/* background: linear-gradient(to bottom, #70879e 0%, #3f4c6b 100%); */
+			/* transform:rotate(45deg); */
+		/* } 			 */
+}
+
+/* hack for displaying the agenda image correctly on differently sizes */
+/* TODO: make this not stupid - an actual pdf viewer */
+@media(max-width:767px) {
+	.img-wrapper-agenda {
+		width:100%;
+		margin:0 auto;
+	}
+}
+@media(min-width:768px) {
+	.img-wrapper-agenda {
+		width:85%;
+		margin:0 auto;
+	}
+}
+@media(min-width:992px) {
+	.img-wrapper-agenda {
+		width:75%;
+		margin:0 auto;
+	}
+}
+@media(min-width:1200px) {
+	.img-wrapper-agenda {
+		width:60%;
+		margin:0 auto;
+	}
+}
+/* following two definitions are a hack from: 
+/* https://stackoverflow.com/questions/18192114/how-to-use-vertical-align-in-bootstrap 
+/* to get vertical aligned columns to work. */
+.display-table{
+  display: table;
+  table-layout: fixed;
+}
+
+.display-cell{
+  display: table-cell;
+  vertical-align: middle;
+  float: none;
+}
+

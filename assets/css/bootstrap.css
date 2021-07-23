@@ -23,8 +23,8 @@
 a.link,
 a.link a:link,
 a.link a:visited,
-#link a:hover,
-#link a:active {
+a.link a:hover,
+a.link a:active {
    color: #327ab7;
    text-decoration: underline;
 } 

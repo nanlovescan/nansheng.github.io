@@ -16,44 +16,47 @@ redirect_from:
 * <h4>Quantum Many-Body physics</h4>
 
   * <h4>Areas:</h4>
-    Quantum embedding theory (QET) \n 
-    Dynamical mean-field theory (DMFT) \n
-    Many-body perturbation theory (MBPT) \n
-    Density functional theory (DFT) \n
-    Matrix product states (MPS) and density matrix renormalization group (DMRG) \n
-    Post Hartree-Fock (post-HF) \n
+    Quantum embedding theory (QET) </br>
+    Dynamical mean-field theory (DMFT) </br>
+    Many-body perturbation theory (MBPT) </br>
+    Density functional theory (DFT) </br>
+    Matrix product states (MPS) and density matrix renormalization group (DMRG) </br>
+    Post Hartree-Fock (post-HF)
     
   * <h4>Focus:</h4> 
-    Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems 
-    Discrete Lehnmann representation (DLR) for DMFT and MBPT 
+    Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems </br>
+    Discrete Lehnmann representation (DLR) for DMFT and MBPT </br>
     First-principles studies and predictions of spin qubits using QDET
     
 * <h4>Quantum Simulation and Computation </h4>
 
-  * <h4>Areas:</b>
-    Variational-Quantum-Eigensolver (VQE)
-    Quantum Phase Estimation (QPE)
+  * <h4>Areas:</h4> 
+    Variational-Quantum-Eigensolver (VQE) </br>
+    Quantum Phase Estimation (QPE) </br>
     
-  * <h4>Focus:</b> 
+  * <h4>Focus:</h4> 
     Quantum algorithms as solvers for downfolded Hamiltonians
     
 * <h4>Scientific Computing</b>
 
-  * <b>Areas:</b> 
-    Numerical computing 
+  * <h4>Areas:</h4> 
+    Numerical computing </br>
     Parallel computing
-  * <b>Focus:</b> 
-    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations 
+  * <h4>Focus:</h4> 
+    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations </br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
 <h3> Education </h3>
-* <b>University of Chicago</b> 
-  * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php)
+
+* <h4>University of Chicago</h4>
+
+  * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present </br>
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) </br>
   Topic: Development of QDET and application of QDET to spin qubits
-  * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) 
-* <b>University of California, Berkeley</b> <br>
+  * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 </br>
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) </br>
+  
+* <b>University of California, Berkeley</b> 
   * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12
   Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
   Topic: First-principles studies of circular dichroism of chiral nanoparticles

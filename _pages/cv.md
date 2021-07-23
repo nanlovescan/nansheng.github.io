@@ -43,18 +43,18 @@ redirect_from:
 
 <h2> Education </h2>
 
-* <b>University of Chicago</b> <br>
+* <b>University of Chicago</b> 
   * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
   Topic: Development of QDET and application of QDET to spin qubits
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
   
-* <b>University of California, Berkeley</b> <br>
+* <b>University of California, Berkeley</b>
   * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 <br>
   Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) <br>
   Topic: First-principles studies of circular dichroism of chiral nanoparticles
-* <b>University of Washington</b> <br>
+* <b>University of Washington</b> 
   * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
   Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) <br>
   Topic: Development of two-component and four-component relativistic quantum chemistry program 
@@ -75,9 +75,9 @@ redirect_from:
 
 <h2> Honors & Awards </h2>
 
-* <b>University of Chicago</b> <br>
+* <b>University of Chicago</b> 
   * Mccormick Fellowship, 2019
-* <b>University of Chinese Academy of Sciences</b> <br>
+* <b>University of Chinese Academy of Sciences</b> 
   * Excellent Graduate of Beijing, 2019
   * Excellent Graduate, 2019
   * Study Abroad Scholarship for Top Students, 2018
@@ -95,16 +95,16 @@ redirect_from:
 
 <h2> Skills </h2>
 
-* <b>Programming Languages</b> <br>
+* <b>Programming Languages</b> 
   * C/C++, Fortran
-* <b>Scripting Languages</b> <br>
+* <b>Scripting Languages</b> 
   * Python, Matlab, Bash
-* <b>Software</b> <br>
+* <b>Software</b> 
   * QuantumEspresso, Gaussian, PySCF, WEST, TRIQS
 
 <h2> Teaching </h2>
 
-* <b>University of Chicago</b> <br>
+* <b>University of Chicago</b> 
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
   * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
   * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019

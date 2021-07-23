@@ -13,14 +13,14 @@
 #link a, 
 #link a:link, 
 #link a:visited {
-   color: #87ceeb;
-   text-decoration: none;
+   color: #327ab7;
+   text-decoration: underline;
    /* background-color: #778899; */
  }
 
 a.link,
 a.link a:link,
 a.link a:visited  {
-   color: #f50808;
-   text-decoration: none;
+   color: #327ab7;
+   text-decoration: underline;
 } 

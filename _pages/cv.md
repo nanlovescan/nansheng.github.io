@@ -11,7 +11,6 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
-<div id="body">
 <h3> Research interest </h3> 
 
 * <b>Quantum Many-Body physics</b>
@@ -71,7 +70,7 @@ redirect_from:
 
 * <b>Flatiron Institute</b> <br>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
-  Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) <br>
+  Advisor: Dr. <a href="https://www.simonsfoundation.org/people/olivier-parcollet" class="redlink">Olivier Parcollet<a> <br>
   Topic: DLR for DMFT and MBPT
 
 <h3> Honors & Awards </h3>
@@ -109,5 +108,3 @@ redirect_from:
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
   * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
   * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019
-
-</div>

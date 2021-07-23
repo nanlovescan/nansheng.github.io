@@ -10,10 +10,17 @@
    line-height: 1.5;
 }
 
-#body a, 
-#body a:link, 
-#body a:visited {
+#redlink a, 
+#redlink a:link, 
+#redlink a:visited {
    color: #f50808;
    text-decoration: none;
    /* background-color: #778899; */
  }
+
+a.redlink a:hover,
+a.redlink a:active  {
+color:#000000;
+text-decoration:underline;
+background:#FFFFFF;
+} 

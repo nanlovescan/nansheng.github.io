@@ -12,7 +12,9 @@
 
 #link a, 
 #link a:link, 
-#link a:visited {
+#link a:visited,
+#link a:hover,
+#link a:active {
    color: #327ab7;
    text-decoration: underline;
    /* background-color: #778899; */
@@ -20,7 +22,9 @@
 
 a.link,
 a.link a:link,
-a.link a:visited  {
+a.link a:visited,
+#link a:hover,
+#link a:active {
    color: #327ab7;
    text-decoration: underline;
 } 

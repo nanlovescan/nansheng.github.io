@@ -58,7 +58,7 @@ redirect_from:
   * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
   Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) <br>
   Topic: Development of two-component and four-component relativistic quantum chemistry program 
-* <b>University of Chinese Academy of Sciences</b> <br>
+* <b>University of Chinese Academy of Sciences</b> 
   * B.S. in Physics, 2015.09 ~ 2019.07 <br>
   Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) <br>
   Topic: DMRG applied to quantum chemistry calculations 

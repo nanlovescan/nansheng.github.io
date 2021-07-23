@@ -70,7 +70,8 @@ redirect_from:
 
 * <b>Flatiron Institute</b> <br>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
-  Advisor: Dr. <a href="https://www.simonsfoundation.org/people/olivier-parcollet" class="redlink">Olivier Parcollet<a> <br>
+  Advisor: Dr. <div id="redlink"><a href="https://www.simonsfoundation.org/people/olivier-parcollet">Olivier Parcollet</div> <br>
+  
   Topic: DLR for DMFT and MBPT
 
 <h3> Honors & Awards </h3>

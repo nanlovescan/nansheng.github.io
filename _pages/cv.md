@@ -11,8 +11,10 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
-<h3> Research interest </h3> \n
+<h3> Research interest </h3> 
+
 * <h4>Quantum Many-Body physics</h4>
+
   * <h4>Areas:</h4>
     Quantum embedding theory (QET) \n 
     Dynamical mean-field theory (DMFT) \n
@@ -20,19 +22,23 @@ redirect_from:
     Density functional theory (DFT) \n
     Matrix product states (MPS) and density matrix renormalization group (DMRG) \n
     Post Hartree-Fock (post-HF) \n
-  * <b>Focus:</b> <br>
+    
+  * <h4>Focus:</h4> 
     Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems 
     Discrete Lehnmann representation (DLR) for DMFT and MBPT 
     First-principles studies and predictions of spin qubits using QDET
     
 * <h4>Quantum Simulation and Computation </h4>
-  * <b>Areas:</b>
+
+  * <h4>Areas:</b>
     Variational-Quantum-Eigensolver (VQE)
     Quantum Phase Estimation (QPE)
-  * <b>Focus:</b> 
+    
+  * <h4>Focus:</b> 
     Quantum algorithms as solvers for downfolded Hamiltonians
     
-* <b>Scientific Computing</b>
+* <h4>Scientific Computing</b>
+
   * <b>Areas:</b> 
     Numerical computing 
     Parallel computing

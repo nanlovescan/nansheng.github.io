@@ -37,7 +37,7 @@ redirect_from:
   * <h4>Focus:</h4> 
     Quantum algorithms as solvers for downfolded Hamiltonians
     
-* <h4>Scientific Computing</b>
+* <h4>Scientific Computing</h4>
 
   * <h4>Areas:</h4> 
     Numerical computing </br>
@@ -56,32 +56,44 @@ redirect_from:
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 </br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) </br>
   
-* <b>University of California, Berkeley</b> 
-  * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12
-  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran)
+* <h4>University of California, Berkeley</h4> 
+
+  * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 </br>
+  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) </br>
   Topic: First-principles studies of circular dichroism of chiral nanoparticles
-* <b>University of Washington</b>
-  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08
-  Topic: Development of two-component and four-component relativistic quantum chemistry program
-  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li)
-* <b>University of Chinese Academy of Sciences</b>
-  * B.S. in Physics, 2015.09 ~ 2019.07
-  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn)
-  Topic: DMRG applied to quantum chemistry calculations
-  * B.S. in Chemistry, 2015.09 ~ 2019.07
-  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5)
+
+* <h4>University of Washington</h4>
+
+  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 </br>
+  Topic: Development of two-component and four-component relativistic quantum chemistry program </br>
+  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) 
+
+* <h4>University of Chinese Academy of Sciences</h4>
+
+  * B.S. in Physics, 2015.09 ~ 2019.07 </br>
+  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) </br>
+  Topic: DMRG applied to quantum chemistry calculations 
+
+  * B.S. in Chemistry, 2015.09 ~ 2019.07 </br>
+  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) </br>
   Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
    
 <h3> Work experience </h3>
-* <b>Flatiron Institute</b>
-  * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08
-  Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet)
+
+* <h4>Flatiron Institute</h4>
+
+  * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 </br>
+  Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) </br>
   Topic: DLR for DMFT and MBPT
 
 <h3> Honors & Awards </h3>
-* <b>University of Chicago</b>
+
+* <h4>University of Chicago</h4>
+
   * Mccormick Fellowship, 2019
-* <b>University of Chinese Academy of Sciences</b>
+
+* <h4>University of Chinese Academy of Sciences</h4>
+
   * Excellent Graduate of Beijing, 2019
   * Excellent Graduate, 2019
   * Study Abroad Scholarship for Top Students, 2018
@@ -89,7 +101,7 @@ redirect_from:
   * Academic Excellence Scholarship 2016-2018
 
 
-<!-- * <b>2021 Microsoft Research PhD Fellowship</b>, 2021~2023 -->
+<!-- * <h4>2021 Microsoft Research PhD Fellowship</h4>, 2021~2023 -->
 
 <!-- Publications
 ======
@@ -98,15 +110,23 @@ redirect_from:
   {% endfor %}</ul> -->
 
 <h3> Skills </h3>
-* <b>Programming Languages</b>
+
+* <h4>Programming Languages</h4>
+
   * C/C++, Fortran
-* <b>Scripting Languages</b>
+
+* <h4>Scripting Languages</h4>
+
   * Python, Matlab, Bash
-* <b>Software</b>
+
+* <h4>Software</h4>
+
   * QuantumEspresso, Gaussian, PySCF, WEST, TRIQS
 
 <h3> Teaching </h3>
-* <b>University of Chicago</b> 
+
+* <h4>University of Chicago</h4> 
+
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
   * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
   * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019

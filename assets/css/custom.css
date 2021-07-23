@@ -124,24 +124,6 @@ table {
 }
 
 
-/*Jumbotron header */
-.jumbotron {
-	background: #445E93;
-	/* background: #585191; */
-	/* background: #7D6F86; */
-	/* color: #EEF4ED; */
-	color: white;
-	text-align: center;
-	margin-bottom:40px;
-	padding:37px 0;
-}
-.jumbotron h1 {
-	font-size:2.2rem;
-	font-family: Arial
-	font-weight: bolder
-	margin:0;
-}
-
 
 /* Tables */
 th, td {

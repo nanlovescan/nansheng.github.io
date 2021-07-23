@@ -16,23 +16,23 @@ redirect_from:
 * <h4>Quantum Many-Body physics</h4>
 
   * <h4>Areas:</h4>
-    Quantum embedding theory (QET) </br>
-    Dynamical mean-field theory (DMFT) </br>
-    Many-body perturbation theory (MBPT) </br>
-    Density functional theory (DFT) </br>
-    Matrix product states (MPS) and density matrix renormalization group (DMRG) </br>
+    Quantum embedding theory (QET) <br>
+    Dynamical mean-field theory (DMFT) <br>
+    Many-body perturbation theory (MBPT) <br>
+    Density functional theory (DFT) <br>
+    Matrix product states (MPS) and density matrix renormalization group (DMRG) <br>
     Post Hartree-Fock (post-HF)
     
   * <h4>Focus:</h4> 
-    Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems </br>
-    Discrete Lehnmann representation (DLR) for DMFT and MBPT </br>
+    Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>
+    Discrete Lehnmann representation (DLR) for DMFT and MBPT <br>
     First-principles studies and predictions of spin qubits using QDET
     
 * <h4>Quantum Simulation and Computation </h4>
 
   * <h4>Areas:</h4> 
-    Variational-Quantum-Eigensolver (VQE) </br>
-    Quantum Phase Estimation (QPE) </br>
+    Variational-Quantum-Eigensolver (VQE) <br>
+    Quantum Phase Estimation (QPE) <br>
     
   * <h4>Focus:</h4> 
     Quantum algorithms as solvers for downfolded Hamiltonians
@@ -40,50 +40,50 @@ redirect_from:
 * <h4>Scientific Computing</h4>
 
   * <h4>Areas:</h4> 
-    Numerical computing </br>
+    Numerical computing <br>
     Parallel computing
   * <h4>Focus:</h4> 
-    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations </br>
+    Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
 <h3> Education </h3>
 
 * <h4>University of Chicago</h4>
 
-  * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present </br>
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) </br>
+  * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
   Topic: Development of QDET and application of QDET to spin qubits
-  * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 </br>
-  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) </br>
+  * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 <br>
+  Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
   
 * <h4>University of California, Berkeley</h4> 
 
-  * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 </br>
-  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) </br>
+  * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 <br>
+  Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) <br>
   Topic: First-principles studies of circular dichroism of chiral nanoparticles
 
 * <h4>University of Washington</h4>
 
-  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 </br>
-  Topic: Development of two-component and four-component relativistic quantum chemistry program </br>
+  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
+  Topic: Development of two-component and four-component relativistic quantum chemistry program <br>
   Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) 
 
 * <h4>University of Chinese Academy of Sciences</h4>
 
-  * B.S. in Physics, 2015.09 ~ 2019.07 </br>
-  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) </br>
+  * B.S. in Physics, 2015.09 ~ 2019.07 <br>
+  Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) <br>
   Topic: DMRG applied to quantum chemistry calculations 
 
-  * B.S. in Chemistry, 2015.09 ~ 2019.07 </br>
-  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) </br>
+  * B.S. in Chemistry, 2015.09 ~ 2019.07 <br>
+  Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
   Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
    
 <h3> Work experience </h3>
 
 * <h4>Flatiron Institute</h4>
 
-  * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 </br>
-  Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) </br>
+  * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
+  Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) <br>
   Topic: DLR for DMFT and MBPT
 
 <h3> Honors & Awards </h3>

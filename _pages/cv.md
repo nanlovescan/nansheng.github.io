@@ -11,7 +11,7 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
-<h2> Research interest </h3> 
+<h3> Research interest </h3> 
 
 * <h4>Quantum Many-Body physics</h4>
 
@@ -46,7 +46,7 @@ redirect_from:
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
-<h2> Education </h3>
+<h3> Education </h3>
 
 * <h4>University of Chicago</h4>
 
@@ -78,7 +78,7 @@ redirect_from:
   Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
   Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
    
-<h2> Work experience </h3>
+<h3> Work experience </h3>
 
 * <h4>Flatiron Institute</h4>
 
@@ -86,7 +86,7 @@ redirect_from:
   Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) <br>
   Topic: DLR for DMFT and MBPT
 
-<h2> Honors & Awards </h3>
+<h3> Honors & Awards </h3>
 
 * <h4>University of Chicago</h4>
 
@@ -109,7 +109,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-<h2> Skills </h3>
+<h3> Skills </h3>
 
 * <h4>Programming Languages</h4>
 
@@ -123,7 +123,7 @@ redirect_from:
 
   * QuantumEspresso, Gaussian, PySCF, WEST, TRIQS
 
-<h2> Teaching </h3>
+<h3> Teaching </h3>
 
 * <h4>University of Chicago</h4> 
 

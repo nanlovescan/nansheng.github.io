@@ -68,7 +68,7 @@ redirect_from:
    
 <h3> Work experience </h3>
 
-* <b>Flatiron Institute</b> <br>
+* <b>Flatiron Institute</b>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
   Advisor: Dr. [Olivier Parcollet]("https://www.simonsfoundation.org/people/olivier-parcollet") <br>  
   Topic: DLR for DMFT and MBPT

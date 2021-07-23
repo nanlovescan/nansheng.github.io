@@ -10,17 +10,17 @@
    line-height: 1.5;
 }
 
-#redlink a, 
-#redlink a:link, 
-#redlink a:visited {
-   color: #f50808;
+#link a, 
+#link a:link, 
+#link a:visited {
+   color: #0000EE;
    text-decoration: none;
    /* background-color: #778899; */
  }
 
-a.redlink,
-a.redlink a:link,
-a.redlink a:visited  {
+a.link,
+a.link a:link,
+a.link a:visited  {
    color: #f50808;
    text-decoration: none;
 } 

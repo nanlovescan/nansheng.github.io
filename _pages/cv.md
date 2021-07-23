@@ -11,11 +11,10 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
-
+<pre>
 <h3> Research interest </h3>
-
-* <b>Quantum Many-Body physics</b>
-  * <b>Areas:</b> <br>
+* <h4>Quantum Many-Body physics</h4>
+  * <b>Areas:</b> 
     Quantum embedding theory (QET)  <br>
     Dynamical mean-field theory (DMFT) <br>
     Many-body perturbation theory (MBPT) <br>
@@ -108,4 +107,4 @@ redirect_from:
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
   * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
   * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019
-  
+</pre>

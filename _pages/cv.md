@@ -12,7 +12,8 @@ redirect_from:
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
 
-### Research interest
+<h3> Research interest </h3>
+
 * <b>Quantum Many-Body physics</b>
   * <b>Areas:</b> <br>
     Quantum embedding theory (QET)  <br>
@@ -41,7 +42,8 @@ redirect_from:
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
-### Education
+<h3> Education </h3>
+
 * <b>University of Chicago</b> <br>
   * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
@@ -64,13 +66,15 @@ redirect_from:
   Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
   Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
    
-### Work experience
+<h3> Work experience </h3>
+
 * <b>Flatiron Institute</b> <br>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
   Advisor: Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) <br>
   Topic: DLR for DMFT and MBPT
 
-### Honors & Awards
+<h3> Honors & Awards </h3>
+
 * <b>University of Chicago</b>
   * Mccormick Fellowship, 2019
 * <b>University of Chinese Academy of Sciences</b>
@@ -89,7 +93,8 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-### Skills
+<h3> Skills </h3>
+
 * <b>Programming Languages</b>
   * C/C++, Fortran
 * <b>Scripting Languages</b>
@@ -97,7 +102,8 @@ redirect_from:
 * <b>Software</b>
   * QuantumEspresso, Gaussian, PySCF, WEST, TRIQS
 
-### Teaching
+<h3> Teaching </h3>
+  
 * <b>University of Chicago</b> <br>
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
   * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020

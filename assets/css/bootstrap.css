@@ -10,8 +10,8 @@
    line-height: 1.5;
 }
 
-a, a:link, a:visited {
-   color: #FFFAFA;
+#body a, a:link, a:visited {
+   color: #fffafa;
    text-decoration: none;
-   background-color: #778899;
+   /* background-color: #778899; */
  }

@@ -18,9 +18,9 @@
    /* background-color: #778899; */
  }
 
-a.redlink a:hover,
-a.redlink a:active  {
-color:#000000;
-text-decoration:underline;
-background:#FFFFFF;
+a.redlink,
+a.redlink a:link,
+a.redlink a:visited  {
+   color: #f50808;
+   text-decoration: none;
 } 

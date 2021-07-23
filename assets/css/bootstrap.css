@@ -10,13 +10,25 @@
    line-height: 1.5;
 }
 
-#link a, 
-#link a:link, 
-#link a:visited,
-#link a:hover,
-#link a:active {
+#link a:link {
+   color: #327ab7;
+   text-decoration: none;
+   /* background-color: #778899; */
+ }
+#link a:visited {
+   color: #327ab7;
+   text-decoration: none;
+   /* background-color: #778899; */
+ }
+#link a:hover {
    color: #327ab7;
    text-decoration: underline;
+   /* background-color: #778899; */
+ }
+
+#link a:active {
+   color: #327ab7;
+   text-decoration: none;
    /* background-color: #778899; */
  }
 

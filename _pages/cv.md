@@ -42,6 +42,7 @@ redirect_from:
   * <h4>Areas:</h4> 
     Numerical computing <br>
     Parallel computing
+    
   * <h4>Focus:</h4> 
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
@@ -65,8 +66,8 @@ redirect_from:
 * <h4>University of Washington</h4>
 
   * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
-  Topic: Development of two-component and four-component relativistic quantum chemistry program <br>
-  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) 
+  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) <br>
+  Topic: Development of two-component and four-component relativistic quantum chemistry program 
 
 * <h4>University of Chinese Academy of Sciences</h4>
 

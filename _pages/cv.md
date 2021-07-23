@@ -11,7 +11,7 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
-<h3> Research interest </h3> 
+<h2> Research interest </h2> 
 
 * <b>Quantum Many-Body physics</b>
   * <b>Areas:</b> <br>
@@ -41,7 +41,7 @@ redirect_from:
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
 
-<h3> Education </h3>
+<h2> Education </h2>
 
 * <b>University of Chicago</b> <br>
   * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
@@ -66,14 +66,14 @@ redirect_from:
   Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
   Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
    
-<h3> Work experience </h3>
+<h2> Work experience </h2>
 
 * <b>Flatiron Institute</b>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ 2021.08 <br>
   Advisor: Dr. [Olivier Parcollet]("https://www.simonsfoundation.org/people/olivier-parcollet") <br>  
   Topic: DLR for DMFT and MBPT
 
-<h3> Honors & Awards </h3>
+<h2> Honors & Awards </h2>
 
 * <b>University of Chicago</b> <br>
   * Mccormick Fellowship, 2019
@@ -93,7 +93,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-<h3> Skills </h3>
+<h2> Skills </h2>
 
 * <b>Programming Languages</b> <br>
   * C/C++, Fortran
@@ -102,7 +102,7 @@ redirect_from:
 * <b>Software</b> <br>
   * QuantumEspresso, Gaussian, PySCF, WEST, TRIQS
 
-<h3> Teaching </h3>
+<h2> Teaching </h2>
 
 * <b>University of Chicago</b> <br>
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020

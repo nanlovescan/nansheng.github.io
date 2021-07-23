@@ -11,6 +11,7 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
+<div id="body">
 <h3> Research interest </h3> 
 
 * <b>Quantum Many-Body physics</b>
@@ -108,3 +109,5 @@ redirect_from:
   * CHEM 11300: Comprehensive General Chemistry, Teaching Assistant, Spring 2020
   * CHEM 22100: Organic Chemistry, Teaching Assistant, Winter 2020
   * CHEM 22000: Organic Chemistry, Teaching Assistant, Fall 2019
+
+</div>

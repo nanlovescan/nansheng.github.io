@@ -13,7 +13,7 @@ redirect_from:
 
 <h2> Research interest </h2> 
 
-* <b>Quantum Many-Body physics</b>
+* <b>Quantum Many-Body Physics</b>
   * <b>Areas:</b> <br>
     Quantum embedding theory (QET) <br>
     Dynamical mean-field theory (DMFT) <br>

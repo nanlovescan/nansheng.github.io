@@ -26,7 +26,7 @@ redirect_from:
     Discrete Lehnmann representation (DLR) for DMFT and MBPT <br>
     First-principles studies and predictions of spin qubits using QDET
     
-* <b>Quantum Computing and Simulation </b>
+* <b>Quantum Computation and Simulation </b>
   * <b>Areas:</b> <br>
     Variational-Quantum-Eigensolver (VQE) <br>
     Quantum Phase Estimation (QPE) <br>

@@ -31,6 +31,7 @@ redirect_from:
     Variational-Quantum-Eigensolver (VQE) <br>
     Quantum Phase Estimation (QPE) <br>
   * <b>Focus:</b> <br>
+    Error mitigation scheme for quantum algorithms <br>
     Quantum algorithms as solvers for downfolded Hamiltonians
     
 * <b>Scientific Computing</b>

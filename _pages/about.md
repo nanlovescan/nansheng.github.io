@@ -17,7 +17,7 @@ I am broadly interested in quantum many-body physics, quantum simulation and com
 
 # News
 
-I have started a job at Flatiron institute, working with Dr. Olivier Parcollet.
+I have started a position as a summer research associate at Flatiron institute, working with Dr. Olivier Parcollet.
 
 
 <!-- * I will do my internship at MSR Redmond this summer.

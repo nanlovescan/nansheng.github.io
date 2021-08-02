@@ -47,7 +47,7 @@ redirect_from:
 * <b>University of Chicago</b> 
   * Ph.D. in Theoretical Chemistry, 2019.10 ~ Present <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
-  Topic: Development of QDET and application of QDET to spin qubits
+  Topic: Development of hybrid quantum-classical theories as well as methods based on QDET and application to spin qubits
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
   

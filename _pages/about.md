@@ -17,7 +17,7 @@ I am broadly interested in hybrid quantum-classical theories and methods, includ
 
 # News
 
-I have started a position as a summer research associate at Flatiron institute, working with Dr. Olivier Parcollet.
+I have started a position as a summer research associate at Flatiron Institute, working with Dr. Olivier Parcollet.
 
 
 <!-- * I will do my internship at MSR Redmond this summer.

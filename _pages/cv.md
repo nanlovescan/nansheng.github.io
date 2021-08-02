@@ -20,7 +20,7 @@ redirect_from:
     Many-body perturbation theory (MBPT) <br>
     Density functional theory (DFT) <br>
     Matrix product states (MPS) and density matrix renormalization group (DMRG) <br>
-    Post Hartree-Fock (post-HF)
+    Post-Hartree-Fock (post-HF)
   * <b>Focus:</b> <br>
     Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>
     Discrete Lehnmann representation (DLR) for DMFT and MBPT <br>
@@ -28,7 +28,7 @@ redirect_from:
     
 * <b>Quantum Computation and Simulation </b>
   * <b>Areas:</b> <br>
-    Variational-Quantum-Eigensolver (VQE) <br>
+    Variational Quantum Eigensolver (VQE) <br>
     Quantum Phase Estimation (QPE) <br>
   * <b>Focus:</b> <br>
     Error mitigation scheme for quantum algorithms <br>

@@ -50,7 +50,6 @@ redirect_from:
   Topic: Development of hybrid quantum-classical theories as well as methods based on QDET and application to spin qubits
   * M.S. in Theoretical Chemistry, 2019.10 ~ 2020.12 <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
-  
 * <b>University of California, Berkeley</b>
   * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 <br>
   Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) <br>

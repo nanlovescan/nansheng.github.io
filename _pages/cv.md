@@ -19,7 +19,7 @@ redirect_from:
     Dynamical mean-field theory (DMFT) <br>
     Many-body perturbation theory (MBPT) <br>
     Density functional theory (DFT) <br>
-    Matrix product states (MPS) and density matrix renormalization group (DMRG) <br>
+    Matrix product states (MPS) and density-matrix renormalization group (DMRG) <br>
     Post-Hartree-Fock (post-HF)
   * <b>Focus:</b> <br>
     Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>

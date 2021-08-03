@@ -57,18 +57,18 @@ Generally, I am interested in developing hybrid quantum-classical theories and m
 * <b>Flatiron Institute</b>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ Present <br>
   Advisor: Dr. [Olivier Parcollet]("https://www.simonsfoundation.org/people/olivier-parcollet") <br>
-  Topic: DLR for DMFT and MBPT
+  Topic: Development of discrete Lehmann representation (DLR) for Dynamical mean-field theory (DMFT) and many-body perturbation theory (MBPT)
 * <b>University of Chicago</b> 
   * Graduate Research Assistant in Theoretical Chemistry, 2020.06 ~ Present <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>
-  Topic: Development of hybrid quantum-classical theories as well as methods based on QDET and application to spin qubits
+  Topic: Development of quantum defect embedding theory (QDET) as well as error mitigation scheme for variational quantum eigensolver (VQE) and application to spin qubits
 * <b>University of Chinese Academy of Sciences</b> 
   * Undergraduate Research Assistant in Physics, 2015.09 ~ 2019.07 <br>
   Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) <br>
-  Topic: DMRG applied to quantum chemistry calculations 
+  Topic: Density matrix renormalization group (DMRG) applied to quantum chemistry calculations 
   * Undergraduate Research Assistant in Chemistry, 2015.09 ~ 2019.07 <br>
   Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
-  Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM)
+  Topic: GPU acceleration of matrix product state (MPS) based hierarchical equations of motion (HEOM)
 * <b>University of California, Berkeley</b>
   * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 <br>
   Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) <br>

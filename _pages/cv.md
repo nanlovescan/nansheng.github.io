@@ -52,7 +52,7 @@ Generally, I am interested in developing hybrid quantum-classical theories and m
   * B.S. in Physics, 2015.09 ~ 2019.07 <br>
   * B.S. in Chemistry, 2015.09 ~ 2019.07 <br>
 
-<h2> Research experience </h2>
+<h2> Research Experience </h2>
 
 * <b>Flatiron Institute</b>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ Present <br>

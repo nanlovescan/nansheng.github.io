@@ -11,7 +11,7 @@ redirect_from:
 
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
-<h2> Research interest </h2> 
+<!-- <h2> Research interest </h2> 
 Generally, I am interested in developing hybrid quantum-classical theories and methods, which includes the following three parts.
 
 * <b>Quantum Many-Body Physics</b>
@@ -41,7 +41,7 @@ Generally, I am interested in developing hybrid quantum-classical theories and m
     Parallel computing
   * <b>Focus:</b> <br>
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
-    Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
+    Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations -->
 
 <h2> Education </h2>
 

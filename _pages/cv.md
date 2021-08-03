@@ -66,17 +66,17 @@ Generally, I am interested in developing hybrid quantum-classical theories and m
   * Visiting Student in Theoretical Chemistry,  2018.08 ~ 2018.12 <br>
   Advisor: Prof. [Eran Rabani](http://www.cchem.berkeley.edu/ergrp/#/eran) <br>
   Topic: First-principles studies of circular dichroism of chiral nanoparticles
-* <b>University of Washington</b> 
-  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
-  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) <br>
-  Topic: Development of two-component and four-component relativistic quantum chemistry program 
 * <b>University of Chinese Academy of Sciences</b> 
   * Undergraduate Research Assistant in Physics, 2015.09 ~ 2019.07 <br>
   Advisor: Prof. [Tao Xiang](http://txiang.iphy.ac.cn) <br>
   Topic: DMRG applied to quantum chemistry calculations 
   * Undergraduate Research Assistant in Chemistry, 2015.09 ~ 2019.07 <br>
   Advisor: Prof. [Qiang Shi](https://www.researchgate.net/profile/Qiang-Shi-5) <br>
-  Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM) 
+  Topic: GPU acceleration of MPS based hierarchical equations of motion (HEOM)
+* <b>University of Washington</b> 
+  * Visiting Student in Theoretical Chemistry,  2018.06 ~ 2018.08 <br>
+  Advisor: Prof. [Xiaosong Li](https://chem.washington.edu/people/xiaosong-li) <br>
+  Topic: Development of two-component and four-component relativistic quantum chemistry program  
 
 <h2> Honors & Awards </h2>
 

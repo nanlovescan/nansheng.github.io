@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv/
+  - /resume
 ---
 
 <!-- {% include base_path %}

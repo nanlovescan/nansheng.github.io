@@ -57,7 +57,7 @@ Generally, I am interested in developing hybrid quantum-classical theories and m
 * <b>Flatiron Institute</b>
   * Summer Research Associate in Computational Quantum Physics,  2021.06 ~ Present <br>
   Advisor: Dr. [Olivier Parcollet]("https://www.simonsfoundation.org/people/olivier-parcollet") <br>
-  Topic: Development of discrete Lehmann representation (DLR) for Dynamical mean-field theory (DMFT) and many-body perturbation theory (MBPT)
+  Topic: Development of discrete Lehmann representation (DLR) for dynamical mean-field theory (DMFT) and many-body perturbation theory (MBPT)
 * <b>University of Chicago</b> 
   * Graduate Research Assistant in Theoretical Chemistry, 2020.06 ~ Present <br>
   Advisor: Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php) <br>

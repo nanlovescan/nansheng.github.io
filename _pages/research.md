@@ -29,8 +29,8 @@ I am broadly interested in developing hybrid quantum-classical theories and meth
     
 * <b>Quantum Computation and Simulation </b>
   * <b>Areas:</b> <br>
-    Variational Quantum Eigensolver (VQE) <br>
-    Quantum Phase Estimation (QPE) <br>
+    Variational quantum eigensolver (VQE) <br>
+    Quantum phase estimation (QPE) <br>
   * <b>Focus:</b> <br>
     Error mitigation scheme for quantum algorithms <br>
     Quantum algorithms as solvers for downfolded Hamiltonians

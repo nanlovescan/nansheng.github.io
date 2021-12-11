@@ -17,7 +17,7 @@ I am broadly interested in hybrid quantum-classical theories and methods, includ
 # News
 
 * I have started an intership at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
-* I finished my intern project very well (8/13/2021). I will keep the collaboration with Flatiron people.
+* I completed my intern project satisfactorily (8/13/2021). I will continue the collaboration with Flatiron people.
 
 
 

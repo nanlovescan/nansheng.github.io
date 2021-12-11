@@ -9,15 +9,16 @@ redirect_from:
 
 ### Nobody really understands quantum mechanics - Richard Feynman
 
-I am a Ph.D. student in Theoretical Chemistry at The University of Chicago,
-working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
+I am a Ph.D. student in Theoretical Chemistry at The University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 I received my dual bachelors in Physics and Chemistry from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
 I am broadly interested in hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details.
 
 # News
 
-I have started a position as a summer research associate at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021).
+* I have started an intership at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
+* I finished my intern project very well (8/13/2021). I will keep the collaboration with Flatiron people.
+
 
 
 <!-- * I will do my internship at MSR Redmond this summer.

@@ -11,9 +11,9 @@ title                    : "Nan Sheng"
 title_separator          : "-"
 name                     : &name "Nan Sheng"
 description              : &description "MSc. Student, Computer Science Department, Shanghai Jiao Tong University"
-url                      : https://qinjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nansheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qinjr/qinjr.github.io"
+repository               : "nanlovescan/nanlovescan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

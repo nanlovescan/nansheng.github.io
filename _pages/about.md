@@ -29,4 +29,6 @@ redirect_from:
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0TGCdVjkZVv0DzLDeqRWeB3F25qr5akHZdTvp-bVWyE&cl=ffffff&w=a"></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script> -->
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=0TGCdVjkZVv0DzLDeqRWeB3F25qr5akHZdTvp-bVWyE&cl=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>

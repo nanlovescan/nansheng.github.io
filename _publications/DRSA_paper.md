@@ -9,7 +9,7 @@ venue: 'Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligen
 # citation: ''
 ---
 
-Kan Ren, **Jiarui Qin**, Lei Zheng, Zhengyu Yang, Weinan Zhang, Lin Qiu, Yong Yu.
+Kan Ren, **Nan Sheng**, Lei Zheng, Zhengyu Yang, Weinan Zhang, Lin Qiu, Yong Yu.
 
 [\[PDF\]](https://arxiv.org/pdf/1809.02403.pdf)
 

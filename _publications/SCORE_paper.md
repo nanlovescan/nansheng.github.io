@@ -9,7 +9,7 @@ venue: 'Proceedings of the 13th ACM International Conference on Web Search and D
 # citation: ''
 ---
 
-**Jiarui Qin**, Kan Ren, Yuchen Fang, Weinan Zhang, Yong Yu
+**Nan Sheng**, Kan Ren, Yuchen Fang, Weinan Zhang, Yong Yu
 
 [\[PDF\]](https://arxiv.org/abs/1911.03883)
 

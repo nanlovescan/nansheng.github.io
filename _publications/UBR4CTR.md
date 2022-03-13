@@ -9,7 +9,7 @@ venue: 'Proceedings of the 43th International ACM SIGIR Conference on Research a
 # citation: ''
 ---
 
-**Jiarui Qin**, Weinan Zhang, Xin Wu, Jiarui Jin, Yuchen Fang, Yong Yu
+**Nan Sheng**, Weinan Zhang, Xin Wu, Jiarui Jin, Yuchen Fang, Yong Yu
 
 [\[PDF\]](https://arxiv.org/abs/2005.14171)
 

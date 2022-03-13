@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiarui Qin"
+title                    : "Nan Sheng"
 title_separator          : "-"
-name                     : &name "Jiarui Qin"
+name                     : &name "Nan Sheng"
 description              : &description "MSc. Student, Computer Science Department, Shanghai Jiao Tong University"
 url                      : https://qinjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiarui Qin"
+  name             : "Nan Sheng"
   avatar           : "avatar2.jpeg"
   bio              : "Ph.D. student of computer science, Shanghai Jiao Tong University"
   location         : "Shanghai, China"

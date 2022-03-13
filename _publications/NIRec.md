@@ -9,7 +9,7 @@ venue: 'Proceeding of the 25nd ACM SIGKDD International Conference on Knowledge 
 # citation: ''
 ---
 
-Jiarui Jin, **Jiarui Qin**, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J.Smola
+Jiarui Jin, **Nan Sheng**, Yuchen Fang, Kounianhua Du, Weinan Zhang, Yong Yu, Zheng Zhang, Alexander J.Smola
 
 [\[PDF\]](https://arxiv.org/)
 

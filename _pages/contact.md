@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-Computer Science Department, Shanghai Jiao Tong University.
+Department of Chemistry, University of Chicago.
 
-Room 310, Yifu Building, 800# Dongchuan Rd, Shanghai. 200240.
+<!-- Room 310, Yifu Building, 800# Dongchuan Rd, Shanghai. 200240. -->
 
-Email: qinjr [at] icloud.com
+Email: nansheng [at] uchicago.edu

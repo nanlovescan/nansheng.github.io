@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nan Sheng"
 title_separator          : "-"
 name                     : &name "Nan Sheng"
-description              : &description "MSc. Student, Computer Science Department, Shanghai Jiao Tong University"
+description              : &description "PhD Student, University of Chicago"
 url                      : https://nanlovescan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nanlovescan/nanlovescan.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nan Sheng"
   avatar           : "nsheng.jpeg"
-  bio              : "Ph.D. student of computer science, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Ph.D. student of theoretical chemistry, University of Chicago"
+  location         : "Chicago, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qinjr"
+  github           : "nanlovescan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiarui-qin-56596b114/"
+  linkedin         : "nan-sheng-94a846110"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

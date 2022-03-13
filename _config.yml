@@ -7,17 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nan Sheng"
+title                    : "Jiarui Qin"
 title_separator          : "-"
-name                     : &name "Nan Sheng"
-description              : &description "Ph.D. student at The University of Chicago"
-url                      : https://nanlovescan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jiarui Qin"
+description              : &description "MSc. Student, Computer Science Department, Shanghai Jiao Tong University"
+url                      : https://qinjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nanlovescan.github.io"
+repository               : "qinjr/qinjr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -78,33 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nan Sheng"
-  avatar           : "profile.JPG"
-  bio              : "Ph.D. Student @ UChicago <br> Guest Researcher @ Flatiron Institute"
-  location         : "Chicago, Illinois"
+  name             : "Jiarui Qin"
+  avatar           : "avatar2.jpeg"
+  bio              : "Ph.D. student of computer science, Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en&oi=ao"
-  email            : "nansheng@uchicago.edu"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "nanlovescan"
+  facebook         :
   foursquare       :
-  github           : "nanlovescan"
+  github           : "qinjr"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nan-sheng-94a846110"
-  orcid            : # "http://orcid.org"
+  linkedin         : "jiarui-qin-56596b114/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "http://stackoverflow.com/users/123456/username"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "nanlovescan"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -124,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -253,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

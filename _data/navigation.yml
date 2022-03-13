@@ -2,27 +2,24 @@
 main:
   - title: "CV"
     url: /cv/
-
-  - title: "Research"
-    url: /research/
-
+    
   - title: "Publications"
     url: /publications/
 
-    #  - title: "Talks"
-    #    url: /talks/    
-
-#   - title: "Teaching"
-#     url: /teaching/    
+  - title: "Talks"
+    url: /talks/    
+  
+  - title: "Contact"
+    url: /contact/
+  
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
-#   - title: "Contact"
-#     url: /contact/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-#  - title: "Guide"
-#    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

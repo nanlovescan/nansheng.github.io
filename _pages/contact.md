@@ -3,7 +3,13 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-Department of Computer Science, University of Texas at Austin<br>
-Office: GDC 6.438D, 2317 Speedway, Austin, TX 78712<br>
-Email: sklee at cs.utexas.edu
+
+
+Computer Science Department, Shanghai Jiao Tong University.
+
+Room 310, Yifu Building, 800# Dongchuan Rd, Shanghai. 200240.
+
+Email: qinjr [at] icloud.com

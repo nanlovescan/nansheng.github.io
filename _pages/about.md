@@ -18,7 +18,7 @@ redirect_from:
 
 - I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). -->
 
-### Nobody really understands quantum mechanics - Richard Feynman
+# Nobody really understands quantum mechanics - Richard Feynman
 
 - I am a Ph.D. student in Theoretical Chemistry at The University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 

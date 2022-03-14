@@ -59,4 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 # Nan Sheng 
 
-[Click to View My Curriculum Vitae [PDF]](/files/CV.pdf)
+[Click to View My Curriculum Vitae [PDF]](/files/cv.pdf)

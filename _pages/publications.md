@@ -27,7 +27,7 @@ author_profile: true
 
 [**Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers**](https://arxiv.org/abs/2105.04736)<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
-*arXiv preprint arXiv:2105.0473*.
+*arXiv preprint arXiv:2105.04736*.
 
 [**Quantum Embedding Theory for Strongly Correlated States in Materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>

@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# Conferences
 [**An exact double counting scheme for quantum defect embedding theory**](https://meetings.aps.org/Meeting/MAR22/Session/K46.4)<br> 
 **Nan Sheng**, Christian Vorwerk, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).

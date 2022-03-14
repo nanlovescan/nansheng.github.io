@@ -18,7 +18,7 @@ redirect_from:
 
 - I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). -->
 
-## Nobody really understands quantum mechanics - Richard Feynman
+<!-- ## Nobody really understands quantum mechanics - Richard Feynman -->
 
 - I am a Ph.D. student in Theoretical Chemistry at The University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 
@@ -26,7 +26,7 @@ redirect_from:
 
 - I am broadly interested in hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details.
 
-## Recent News
+# Recent News
 
 - I have started an intership at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
 - I completed my intern project satisfactorily (8/13/2021). I will continue the collaboration with Flatiron people.
@@ -44,4 +44,4 @@ redirect_from:
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script> -->
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=0TGCdVjkZVv0DzLDeqRWeB3F25qr5akHZdTvp-bVWyE&cl=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=0TGCdVjkZVv0DzLDeqRWeB3F25qr5akHZdTvp-bVWyE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>

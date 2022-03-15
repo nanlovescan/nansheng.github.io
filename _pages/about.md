@@ -22,7 +22,7 @@ redirect_from:
 
 - I am a Ph.D. student in Theoretical Chemistry at The University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 
-- I received my dual bachelors in Physics and Chemistry from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
+- I received my dual Bachelor's degree in Physics and Chemistry from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
 - I am broadly interested in hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details.
 
@@ -30,6 +30,7 @@ redirect_from:
 
 - I have started an intership at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
 - I completed my intern project satisfactorily (8/13/2021). I will continue the collaboration with Flatiron people.
+- An important paper [Green's function formulation of quantum defect embedding theory](https://arxiv.org/abs/2203.05493) has been posted to Arxiv! It is aimed at solving double counting issue in quantum defect embedding theory (3/12/2022).
 
 
 <!-- # Recent News

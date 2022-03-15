@@ -10,6 +10,8 @@ author_profile: true
 [<span style="color:navy">[Download CV]</span>](http://sekwonlee.github.io/files/cv.pdf) -->
 
 <!-- <h2> Research interest </h2>  -->
+# Research
+
 I am broadly interested in developing hybrid quantum-classical theories and methods, which includes the following three parts.
 
 * <b>Quantum Many-Body Physics</b>

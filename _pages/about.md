@@ -26,7 +26,7 @@ redirect_from:
 
 - I am broadly interested in hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details.
 
-# Recent News
+# Recent news
 
 - I just start an intership at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
 - I gave an exciting talk as the end of my experience (8/13/2021). I will work remotely with colleagues to finish the project.

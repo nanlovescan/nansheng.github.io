@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
+# Publications ([Google Scholar profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
 [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
 *In preparation* (March 2022).

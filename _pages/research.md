@@ -13,8 +13,9 @@ author_profile: true
 # Research
 <!-- I am broadly interested in developing hybrid quantum-classical theories and methods, including the following three parts. -->
 
-* **Quantum Many-Body Physics**
-  Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind the strong correlations beyond the mean-field. I am broadly interested in *inner mathematical structure of quantum many-body physics*. With the mathematical-formulation well-understood, reasonable approximations can be made to keep the useful information for the emergent phenomena interested, and even predictions can be made in a way of first-principles.
+* **Quantum Many-Body Physics** 
+
+  Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind the strong correlations beyond the mean-field. I am broadly interested in **inner mathematical structure of quantum many-body physics**. With the mathematical-formulation well-understood, reasonable approximations can be made to keep the useful information for the emergent phenomena interested, and even predictions can be made in a way of first-principles.
 
   * **Areas:** <br>
     Quantum embedding theory (QET) <br>
@@ -29,7 +30,8 @@ author_profile: true
     First-principles studies and predictions of spin qubits using QDET
     
 * **Quantum Computation and Simulation**
-  Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in *algorithms for simulations on quantum computers*. 
+
+  Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in **algorithms for simulations on quantum computers**. 
 
   * **Areas:** <br>
     Variational quantum eigensolver (VQE) <br>
@@ -40,7 +42,7 @@ author_profile: true
     
 * **Scientific Computing**
 
-  Besides the topics closely related to quantum, I am also broadly intereted in *numerical algorithms for scientific computing*. In many cases, physical problems, especially those are limited by computational cost, can be viewed in a mathematical way and from that angle, robust numerical tricks can be introduced for indentifying and solving the bottleneck.  
+  Besides the topics closely related to quantum, I am also broadly intereted in **numerical algorithms for scientific computing**. In many cases, physical problems, especially those are limited by computational cost, can be viewed in a mathematical way and from that angle, robust numerical tricks can be introduced for indentifying and solving the bottleneck.  
 
   * **Areas:** <br>
     Numerical computing <br>

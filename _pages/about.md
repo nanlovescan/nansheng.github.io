@@ -20,9 +20,9 @@ redirect_from:
 
 <!-- ## Nobody really understands quantum mechanics - Richard Feynman -->
 
-- I am a Ph.D. student in Theoretical Chemistry at The University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also closely working with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
+- I am a Ph.D. student in Theoretical Chemistry at University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also collaborating with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 
-- I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
+- I received my dual Bachelor's degree in Physics and Chemistry with highest honors from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
 - I am broadly interested in hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details.
 

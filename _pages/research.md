@@ -11,34 +11,40 @@ author_profile: true
 
 <!-- <h2> Research interest </h2>  -->
 # Research
+<!-- I am broadly interested in developing hybrid quantum-classical theories and methods, including the following three parts. -->
 
-I am broadly interested in developing hybrid quantum-classical theories and methods, which includes the following three parts.
+* **Quantum Many-Body Physics**
+  Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind the strong correlations beyond the mean-field. I am broadly interested in *inner mathematical structure of quantum many-body physics*. With the mathematical-formulation well-understood, reasonable approximations can be made to keep the useful information for the emergent phenomena interested, and even predictions can be made in a way of first-principles.
 
-* <b>Quantum Many-Body Physics</b>
-  * <b>Areas:</b> <br>
+  * **Areas:** <br>
     Quantum embedding theory (QET) <br>
     Dynamical mean-field theory (DMFT) <br>
     Many-body perturbation theory (MBPT) <br>
     Density functional theory (DFT) <br>
     Matrix product states (MPS) and density-matrix renormalization group (DMRG) <br>
     Post-Hartree-Fock (post-HF)
-  * <b>Focus:</b> <br>
-    Quantum defect embedding theory (QDET) for strongly-correlated electronic states in defective systems <br>
+  * **Focus:** <br>
+    Quantum defect embedding theory (QDET) for strongly-correlated states in materials<br>
     Discrete Lehnmann representation (DLR) for DMFT and MBPT <br>
     First-principles studies and predictions of spin qubits using QDET
     
-* <b>Quantum Computation and Simulation </b>
-  * <b>Areas:</b> <br>
+* **Quantum Computation and Simulation**
+  Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in *algorithms for simulations on quantum computers*. 
+
+  * **Areas:** <br>
     Variational quantum eigensolver (VQE) <br>
     Quantum phase estimation (QPE) <br>
-  * <b>Focus:</b> <br>
+  * **Focus:** <br>
     Error mitigation scheme for quantum algorithms <br>
     Quantum algorithms as solvers for downfolded Hamiltonians
     
-* <b>Scientific Computing</b>
-  * <b>Areas:</b> <br>
+* **Scientific Computing**
+
+  Besides the topics closely related to quantum, I am also broadly intereted in *numerical algorithms for scientific computing*. In many cases, physical problems, especially those are limited by computational cost, can be viewed in a mathematical way and from that angle, robust numerical tricks can be introduced for indentifying and solving the bottleneck.  
+
+  * **Areas:** <br>
     Numerical computing <br>
     Parallel computing
-  * <b>Focus:</b> <br>
+  * **Focus:** <br>
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations

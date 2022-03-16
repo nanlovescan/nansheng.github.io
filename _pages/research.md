@@ -14,7 +14,7 @@ author_profile: true
 <!-- I am broadly interested in developing hybrid quantum-classical theories and methods, including the following three parts. -->
 
 * **Quantum Many-Body Physics** <br>
-  Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind the strong correlations beyond the mean-field. I am broadly interested in **inner mathematical structure of quantum many-body physics**. With the mathematical-formulation well-understood, reasonable approximations can be made to keep the useful information for the emergent phenomena interested, and even predictions can be made in a way of first-principles. <br>
+  Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind the strong correlations beyond the mean-field. I am broadly interested in **inner mathematical structure of quantum many-body physics**. With the mathematical formulation well-understood, reasonable approximations can be made to keep the useful information for the emergent phenomena interested, and even predictions can be made in a way of first-principles. <br>
   * **Areas:** <br>
     Quantum embedding theory (QET) <br>
     Dynamical mean-field theory (DMFT) <br>

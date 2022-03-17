@@ -66,7 +66,7 @@ author_profile: true
 
   - In the current noisy intermediate-scale quantum era (NISQ), quantum phase estimation (QPE) is still not feasible and variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interests. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to **design post-processing error mitigation scheme** for this purpose.
 
-  - Different from VQE, quantum computers can also be a good host for QMC calculations. Specifically, efficient algorithms can be designed for controlling the fermionic sign problem on quantum computers.
+  - Quantum computers can also be a good host for QMC calculations. Specifically, efficient algorithms can be designed for controlling the fermionic sign problem on quantum computers.
 
   <!-- * **Areas:** <br>
     Variational quantum eigensolver (VQE) <br>
@@ -89,14 +89,14 @@ author_profile: true
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations -->
 
-  [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
-  **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
-  *In preparation* (March 2022).
+    [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
+    **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
+    *In preparation* (March 2022).
 
-  [**Green's function formulation of quantum defect embedding theory**](https://arxiv.org/abs/2203.05493)<br>
-  **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
-  *arXiv preprint arXiv:2203.05493* (March 2022).
+    [**Green's function formulation of quantum defect embedding theory**](https://arxiv.org/abs/2203.05493)<br>
+    **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
+    *arXiv preprint arXiv:2203.05493* (March 2022).
 
-  [**Quantum embedding theory for strongly correlated states in materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
-  He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-  *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).
+    [**Quantum embedding theory for strongly correlated states in materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
+    He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
+    *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).

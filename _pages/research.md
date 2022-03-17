@@ -24,7 +24,7 @@ author_profile: true
 
   - As a member of Galli group, I am focusing on **deriving and developing [quantum defect embedding theory (QDET)](https://arxiv.org/abs/2203.05493)**, which is a natural framework for the description of strongly correlated many-body states of promising spin-defects for quantum information science. As an intern student at Flatiron, I am focusing on **application of [discrete Lehmann representation (DLR)](https://arxiv.org/abs/2107.13094)**, which is a compact formalism of imaginary-time Green's function to Green's function theories including DMFT and MBPT to accelerate the real calculations.
 
-    [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
+    <!-- [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
     **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
     *In preparation* (March 2022).
 
@@ -42,7 +42,7 @@ author_profile: true
 
     [**First-principles studies of strongly correlated states in defect spin qubits in diamond**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp04585c)<br>
     He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-    *Phys. Chem. Chem. Phys.* 2020, 22, 25522–25527 (November 2020).
+    *Phys. Chem. Chem. Phys.* 2020, 22, 25522–25527 (November 2020). -->
 
 
   <!-- * **Areas:** <br>
@@ -89,7 +89,7 @@ author_profile: true
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
     Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations -->
 
-    [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
+    <!-- [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
     **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
     *In preparation* (March 2022).
 
@@ -99,4 +99,4 @@ author_profile: true
 
     [**Quantum embedding theory for strongly correlated states in materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
     He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-    *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).
+    *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021). -->

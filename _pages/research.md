@@ -24,25 +24,25 @@ author_profile: true
 
   - As a member of Galli group, I am focusing on **deriving and developing [quantum defect embedding theory (QDET)](https://arxiv.org/abs/2203.05493)**, which is a natural framework for the description of strongly correlated many-body states of promising spin-defects for quantum information science. As an intern student at Flatiron, I am focusing on **application of [discrete Lehmann representation (DLR)](https://arxiv.org/abs/2107.13094)**, which is a compact formalism of imaginary-time Green's function to Green's function theories including DMFT and MBPT to accelerate the real calculations.
 
-  [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
-  **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
-  *In preparation* (March 2022).
+    [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
+    **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
+    *In preparation* (March 2022).
 
-  [**Green's function formulation of quantum defect embedding theory**](https://arxiv.org/abs/2203.05493)<br>
-  **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
-  *arXiv preprint arXiv:2203.05493* (March 2022).
+    [**Green's function formulation of quantum defect embedding theory**](https://arxiv.org/abs/2203.05493)<br>
+    **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
+    *arXiv preprint arXiv:2203.05493* (March 2022).
 
-  [**Quantum embedding theories to simulate condensed systems on quantum computers**](https://arxiv.org/abs/2105.04736)<br>
-  Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
-  *arXiv preprint arXiv:2105.04736* (May 2021).
+    [**Quantum embedding theories to simulate condensed systems on quantum computers**](https://arxiv.org/abs/2105.04736)<br>
+    Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
+    *arXiv preprint arXiv:2105.04736* (May 2021).
 
-  [**Quantum embedding theory for strongly correlated states in materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
-  He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-  *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).
+    [**Quantum embedding theory for strongly correlated states in materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
+    He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
+    *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).
 
-  [**First-principles studies of strongly correlated states in defect spin qubits in diamond**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp04585c)<br>
-  He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-  *Phys. Chem. Chem. Phys.* 2020, 22, 25522–25527 (November 2020).
+    [**First-principles studies of strongly correlated states in defect spin qubits in diamond**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp04585c)<br>
+    He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
+    *Phys. Chem. Chem. Phys.* 2020, 22, 25522–25527 (November 2020).
 
 
   <!-- * **Areas:** <br>
@@ -64,7 +64,9 @@ author_profile: true
 
   - In general, quantum computers have great advantage in memory due to the way of encoding. Quantum computers have also been proved to be powerful in time dependent simulations. No explicit proof has been established for the scaling of state related simulations on quantum computers.
 
-  - In the current noisy intermediate-scale quantum era (NISQ), variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interests. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to design post-processing error mitigation scheme for this purpose.
+  - In the current noisy intermediate-scale quantum era (NISQ), variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interests. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to **design post-processing error mitigation scheme** for this purpose.
+
+  - Different from 
 
   <!-- * **Areas:** <br>
     Variational quantum eigensolver (VQE) <br>

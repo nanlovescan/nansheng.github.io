@@ -64,9 +64,9 @@ author_profile: true
 
   - In general, quantum computers have great advantage in memory due to the way of encoding. Quantum computers have also been proved to be powerful in time dependent simulations. No explicit proof has been established for the scaling of state related simulations on quantum computers.
 
-  - In the current noisy intermediate-scale quantum era (NISQ), variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interests. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to **design post-processing error mitigation scheme** for this purpose.
+  - In the current noisy intermediate-scale quantum era (NISQ), quantum phase estimation (QPE) is still not feasible and variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interests. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to **design post-processing error mitigation scheme** for this purpose.
 
-  - Different from 
+  - Different from VQE, quantum computers can also be a good host for QMC calculations. Specifically, efficient algorithms can be designed for controlling the fermionic sign problem on quantum computers.
 
   <!-- * **Areas:** <br>
     Variational quantum eigensolver (VQE) <br>

@@ -74,10 +74,27 @@ author_profile: true
     Quantum algorithms as solvers for downfolded Hamiltonians -->
     
 - **Scientific computing** <br>
-  - Besides the topics closely related to quantum, I am also broadly intereted in **numerical algorithms for scientific computing** as well as the related **software development**. In many cases, physical problems, especially those are limited by computational cost, can be viewed in a mathematical way and from that angle, robust numerical tricks can be introduced for indentifying and solving the bottleneck. Furthermore, the structure of software can often be designed and optimized for the aim. <br>
-  * **Areas:** <br>
+  - Including but not limited to quantum, I am broadly intereted in **numerical algorithms for scientific computing** as well as the related **software development**. In many cases, physical problems, especially those are limited by computational cost, can be viewed in a mathematical way and from that angle, robust numerical tricks can be introduced for indentifying and solving the bottleneck. Furthermore, the structure of software can often be designed and optimized for the aim. <br>
+
+  - For example, quantum mechanics is defined on an inifinite dimensional Hilbert space, the operations on which can be explained as matrix transformations. For this reason, numerical algorithms in matrix theory, such as Lanczos algorithm, Schmidt decomposition, singular value decomposition and QR decoposition etc can be applied. In many cases cases, such as QMC sampling, the calculations are almost independent from each other and can be implemented in a heavily parallel fashion with MPI or GPU.
+
+  - As a member of Galli group, I am a developer of open source software [WEST](http://www.west-code.org) (Without Empty States) for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations.
+
+  <!-- * **Areas:** <br>
     Numerical computing <br>
     Parallel computing
   * **Focus:** <br>
     Development of open source software [WEST](http://www.west-code.org) (Without Empty States) for MBPT calculations <br>
-    Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations
+    Development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations -->
+
+  [**Accelerating dynamical mean-field calculations using the discrete Lehmann representation**](/publications/)<br>
+  **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
+  *In preparation* (March 2022).
+
+  [**Green's function formulation of quantum defect embedding theory**](https://arxiv.org/abs/2203.05493)<br>
+  **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
+  *arXiv preprint arXiv:2203.05493* (March 2022).
+
+  [**Quantum embedding theory for strongly correlated states in materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
+  He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
+  *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).

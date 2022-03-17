@@ -38,5 +38,5 @@ author_profile: true
 
   - For example, quantum mechanics is defined on an inifinite dimensional Hilbert space, the operations on which can be explained as matrix transformations. For this reason, numerical algorithms in matrix theory such as Lanczos algorithm, Schmidt decomposition, singular value decomposition and QR decoposition etc are useful and powerful. In many cases such as QMC sampling, the calculations are almost independent from each other and can be implemented in a heavily parallel fashion using MPI or GPU.
 
-  - As a Galli group member, I am a developer of open source software [WEST](http://www.west-code.org) (Without Empty States) for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software [TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems) for DMFT calculations.
+  - As a Galli group member, I am a developer of open source software **[WEST](http://www.west-code.org) (Without Empty States)** for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software **[TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems)** for DMFT calculations.
 

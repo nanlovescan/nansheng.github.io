@@ -34,7 +34,7 @@ author_profile: true
   - Quantum computers can also be a good host for QMC calculations. Specifically, efficient algorithms can be designed for controlling the fermionic sign problem on quantum computers.
     
 - **Scientific computing** <br>
-  - Including but not limited to quantum, I am broadly intereted in **numerical algorithms for scientific computing** as well as the related **software development**. In many cases, physical problems, especially those are limited by computational cost, can be viewed in a mathematical way and from that angle, robust numerical tricks can be introduced for indentifying and solving the bottleneck. Furthermore, the structure of software can often be designed and optimized for the aim. 
+  - Including but not limited to quantum, I am broadly intereted in **numerical algorithms for scientific computing** as well as the related **software development**. In many cases, physical problems, especially those are limited by computational cost, can be investigated in a mathematical way and from that angle, robust numerical tricks can be introduced to indentify and solve the bottleneck. Furthermore, the structure of software can often be designed and optimized for the target. 
 
   - For example, quantum mechanics is defined on an inifinite dimensional Hilbert space, the operations on which can be explained as matrix transformations. For this reason, numerical algorithms in matrix theory such as Lanczos algorithm, Schmidt decomposition, singular value decomposition and QR decoposition etc are useful and powerful. In many cases such as QMC sampling, the calculations are almost independent from each other and can be implemented in a heavily parallel fashion using MPI or GPU.
 

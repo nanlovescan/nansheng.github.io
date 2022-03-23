@@ -28,7 +28,7 @@ redirect_from:
 
 # Recent news
 
-- I just start an intership at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
+- I just start an internship at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
 - I gave an exciting talk as the end of my experience (8/13/2021). I will work remotely with colleagues to finish the project.
 - An important paper [Green's function formulation of quantum defect embedding theory](https://arxiv.org/abs/2203.05493) has been posted to Arxiv! It is aimed at solving double counting issue in quantum defect embedding theory (3/12/2022).
 

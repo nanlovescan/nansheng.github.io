@@ -15,11 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Conferences
+# Talks
 [**An exact double counting scheme for quantum defect embedding theory**](https://meetings.aps.org/Meeting/MAR22/Session/K46.4)<br> 
 **Nan Sheng**, Christian Vorwerk, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).
-
 
 [**Extrinsic and intrinsic defects in MgO and CaO as potential spin-qubit candidates**](https://meetings.aps.org/Meeting/MAR22/Session/T72.2)<br>
 Christian Vorwerk, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>

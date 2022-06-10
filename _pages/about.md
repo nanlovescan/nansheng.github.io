@@ -22,25 +22,20 @@ redirect_from:
 
 - I am a Ph.D. student in Theoretical Chemistry at University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). I am also collaborating with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at Center for Computational Quantum Physics, Flatiron Institute.
 
-- I received my dual Bachelor's degree in Physics and Chemistry with highest honors from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
+- I received my dual Bachelor's degrees in Physics and Chemistry with highest honors from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
-- I am broadly interested in hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details.
+- My main interstes lie in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the quantum many-body problem, and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
+
+<!-- - My main interests lie in investigating inner mathematical structure of quantum physics, developing advanced and robust computational methods for quantum physics problems, and applying these developed methods to the problems. Additionally, I'm in general interested in developing scienfic computing tools for scientific computing. Please see the [Research](/research) page for details. -->
+
+<!-- hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details. -->
 
 # Recent news
 
-- I just start an internship at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
-- I gave an exciting talk as the end of my experience (8/13/2021). I will work remotely with colleagues to finish the project.
+- The paper [Green's function formulation of quantum defect embedding theory](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00240) has been accepted and published by Journal of Chemical Theory and Computation! (6/1/2022).
 - An important paper [Green's function formulation of quantum defect embedding theory](https://arxiv.org/abs/2203.05493) has been posted to Arxiv! It is aimed at solving double counting issue in quantum defect embedding theory (3/12/2022).
-
-
-<!-- # Recent News
-- Oct 12, 2021. One paper was accepted by [WSDM 2022](https://www.wsdm-conference.org/2022/) (rate: 20.2%).
-- May 16, 2021. One paper was accepted by [KDD 2021](https://www.kdd.org/kdd2021/) (rate: 15.4%).
-- April 16, 2021. One survey paper was accepted by [IJCAI 2021](https://ijcai-21.org) Survey Track (rate: 31.9%).
-- Sept 23, 2020. Got National Scholarship.
-- May 16, 2020. One paper was accepted by [KDD 2020](https://www.kdd.org/kdd2020/) (rate: 16.9%).
-- May 10, 2020. One paper was accepted by [SIGIR 2020](http://sigir.org/sigir2020/) (rate: 27.5%).
- -->
+- I gave an exciting talk as the end of my experience (8/13/2021). I will work remotely with colleagues to finish the project.
+- I just start an internship at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
 
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script> -->

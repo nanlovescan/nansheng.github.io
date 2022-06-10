@@ -20,7 +20,6 @@ author_profile: true
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
 *In preparation* (March 2022).
 
-
 [**Green's function formulation of quantum defect embedding theory**](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c00240)<br>
 **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
 *J. Chem. Theory. Comput.* 2022, XX, XXXX-XXXX (June 2022).

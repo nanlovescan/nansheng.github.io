@@ -25,7 +25,7 @@ author_profile: true
 
   - As a Galli group member, I am focusing on **deriving and developing [quantum defect embedding theory (QDET)](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c00240)**, which is a natural framework for the description of strongly correlated many-body states of promising spin-defects for quantum information science. As an intern student at Flatiron, I am focusing on **application of [discrete Lehmann representation (DLR)](https://arxiv.org/abs/2107.13094)**, which is a compact representation of imaginary-time Green's functions, to Green's function theories including DMFT and MBPT for acceleration of real calculations. 
   
-  - Besides, I also have research experience in development of DMRG for quantum chemistry as well as a non-Markovian and non-perturbative quantum master equation hierarchical equations of motion (HEOM) for quantum dynamics simulation.
+  - Besides, I also have research experience in development of DMRG algorithm for quantum chemistry, two- and four-component approaches for relativistic quantum chemistry, as well as a non-Markovian and non-perturbative quantum master equation approach, that is the hierarchical equations of motion (HEOM), for quantum dynamics simulation.
 
 - **Quantum computation and simulation** <br>
   - Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in **algorithms for simulations on quantum computers**. 

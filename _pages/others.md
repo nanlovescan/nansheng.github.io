@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+details > *:not(summary){
+  margin-left: 2em;
+}
+
 # Others
 
 <details>

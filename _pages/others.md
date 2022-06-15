@@ -65,7 +65,7 @@ author_profile: true
 </summary>
 <ul>
 <li>Introduction to Quantum Mechanics (Griffith)</li>
-<li>Modern Quantum Physics (Sakurai/Napolitano)</li>
+<li>Modern Quantum Mechanics (Sakurai/Napolitano)</li>
 <li>Principles of Quantum Mechanics (Shankar)</li>
 <li>Green's Functions in Quantum Physics (Economou)</li>
 </ul>

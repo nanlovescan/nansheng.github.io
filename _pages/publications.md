@@ -22,7 +22,7 @@ author_profile: true
 
 [**Green's function formulation of quantum defect embedding theory**](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c00240)<br>
 **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
-*J. Chem. Theory. Comput.* 2022, XX, XXXX-XXXX (June 2022).
+*J. Chem. Theory. Comput.* 2022, 18, 6, 3512–3522 (June 2022).
 
 [**Quantum embedding theories to simulate condensed systems on quantum computers**](https://arxiv.org/abs/2105.04736)<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>

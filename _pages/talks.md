@@ -16,19 +16,19 @@ author_profile: true
 {% endfor %} -->
 
 # Talks
-[**An exact double counting scheme for quantum defect embedding theory**](https://meetings.aps.org/Meeting/MAR22/Session/K46.4)<br> 
+[**An Exact Double Counting Scheme for Quantum Defect Embedding Theory**](https://meetings.aps.org/Meeting/MAR22/Session/K46.4)<br> 
 **Nan Sheng**, Christian Vorwerk, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).
 
-[**Extrinsic and intrinsic defects in MgO and CaO as potential spin-qubit candidates**](https://meetings.aps.org/Meeting/MAR22/Session/T72.2)<br>
+[**Extrinsic and Intrinsic Defects in MgO and CaO as Potential Spin-Qubit Candidates**](https://meetings.aps.org/Meeting/MAR22/Session/T72.2)<br>
 Christian Vorwerk, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).
 
-[**First-principles studies of strongly correlated states in defect spin qubits in diamond**](https://meetings.aps.org/Meeting/MAR21/Session/V51.12)<br>
+[**First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in Diamond**](https://meetings.aps.org/Meeting/MAR21/Session/V51.12)<br>
 **Nan Sheng**, He Ma, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2021).
 
-[**Coupling interoperable software for quantum simulations of materials**](https://meetings.aps.org/Meeting/MAR21/Session/S19.11)<br>
+[**Coupling Interoperable Software for Quantum Simulations of Materials**](https://meetings.aps.org/Meeting/MAR21/Session/S19.11)<br>
 Marco Govoni, He Ma, **Nan Sheng**, Sijia Dong, Francois Gygi, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2021).
 

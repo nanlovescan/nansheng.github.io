@@ -24,7 +24,7 @@ redirect_from:
 
 - I received my dual Bachelor's degrees in Physics and Chemistry with highest honors from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang.iphy.ac.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
-- My main interests lie in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
+- My main interests lie in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
 
 <!-- - My main interests lie in investigating inner mathematical structure of quantum physics, developing advanced and robust computational methods for quantum physics problems, and applying these developed methods to the problems. Additionally, I'm in general interested in developing scienfic computing tools for scientific computing. Please see the [Research](/research) page for details. -->
 

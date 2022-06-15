@@ -55,7 +55,7 @@ author_profile: true
 <b>Open Quantum System</b>
 </summary>
 <ul>
-<li>The Theory of Open Quantum Systems</li>
+<li>The Theory of Open Quantum Systems (Petruccione/Breuer)</li>
 </ul>
 </details>
 
@@ -79,6 +79,7 @@ author_profile: true
 <li>Statistical Mechanics (Pathria/Beale)</li>
 <li>Introduction to Modern Statistical Mechanics (Chandler)</li>
 <li>Statistical Mechanics: Theory and Molecular Simulation (Tuckerman)</li>
+<li>Nonequilibrium Statistical Mechanics (Zwanzig)</li>
 <li>Statistical Physics of Particles (Kardar)</li>
 <li>Statistical Physics of Fields (Kardar)</li>
 </ul>

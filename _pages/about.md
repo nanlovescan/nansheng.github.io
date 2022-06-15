@@ -32,7 +32,7 @@ redirect_from:
 
 # Recent news
 
-- The paper [**Quantum embedding theories to simulate condensed systems on quantum computers**](https://arxiv.org/abs/2105.04736) has just been accepted by Nature Computational Science! (6/15/2022). It is aimed at discussing different embedding theories and their perspective for simulations on quantum computers!
+- The paper [Quantum embedding theories to simulate condensed systems on quantum computers](https://arxiv.org/abs/2105.04736) has just been accepted by Nature Computational Science! (6/15/2022). It is aimed at discussing different embedding theories and their perspective for simulations on quantum computers!
 - The paper [Green's function formulation of quantum defect embedding theory](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00240) has just been accepted and published by Journal of Chemical Theory and Computation! (6/1/2022).
 - An important paper [Green's function formulation of quantum defect embedding theory](https://arxiv.org/abs/2203.05493) has just been posted to Arxiv! It is aimed at solving double counting issue in quantum defect embedding theory (3/12/2022).
 - I gave an exciting talk as the end of my experience (8/13/2021). I will work remotely with colleagues to finish the project.

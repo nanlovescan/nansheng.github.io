@@ -21,7 +21,6 @@ author_profile: true
 <summary> 
 <b>Quantum many-body physics and quantum field theory</b>
 </summary>
-<br>
 <ol type="1">
 <li>Nonequilibrium many-body theory of quantum systems - a modern introduction (Gianluca Stefanucci and Robert van Leeuwen)</li>
 <li>Quantum theory of many-particle systems (Alexcander L. Fetter and John Dirk Walacka)</li>

@@ -15,13 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Reading list
+# Reading List
 
 <details>
 <summary> 
-<b>Quantum many-body physics and quantum field theory</b>
+<b>Quantum Many-Body Physics and Quantum Field Theory</b>
 </summary>
-<nl>
+<ul>
 <li>Quantum Theory of Many-Particle Systems (Fetter/Walacka)</li>
 <li>Quantum Many-Particle Systems (Negele/Orland)</li>
 <li>Introduction to Many-Body Physics (Coleman)</li>
@@ -31,14 +31,14 @@ author_profile: true
 <li>Condensed Matter Field Theory (Altland/Simons)</li>
 <li>Quantum Field Theory of Non-Equilibium States (Rammer)</li>
 <li>Field Theory of Non-Equilibrium Systems (Kamenev)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Electronic Structure and Quantum Chemistry</b>
 </summary>
-<nl>
+<ul>
 <li>Interacting Electrons (Martin/Reining/Ceperley)</li>
 <li>Electronic Structure (Martin)</li>
 <li>Density Functional Theory: An Advanced Course (Engel/Dreizler)</li>
@@ -47,83 +47,83 @@ author_profile: true
 <li>Molecular Electronic-Structure Theory (Helgaker/Jørgensen/Olsen)</li> 
 <li>Introduction to Relativistic Quantum Chemistry (Dyall/Fægri)</li>
 <li>Relativistic Quantum Chemistry: The Fundamental Theory of Molecular Science (Reiher/Wolf)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Open Quantum System</b>
 </summary>
-<nl>
+<ul>
 <li>The Theory of Open Quantum Systems</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Quantum Physics</b>
 </summary>
-<nl>
+<ul>
 <li>Introduction to Quantum Mechanics (Griffith)</li>
 <li>Modern Quantum Physics (Sakurai/Napolitano)</li>
 <li>Principles of Quantum Mechanics (Shankar)</li>
 <li>Green's Functions in Quantum Physics (Economou)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Statistical Physics</b>
 </summary>
-<nl>
+<ul>
 <li>Statistical Mechanics (Pathria/Beale)</li>
 <li>Introduction to Modern Statistical Mechanics (Chandler)</li>
 <li>Statistical Mechanics: Theory and Molecular Simulation (Tuckerman)</li>
 <li>Statistical Physics of Particles (Kardar)</li>
 <li>Statistical Physics of Fields (Kardar)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Electrodynamics</b>
 </summary>
-<nl>
+<ul>
 <li>Introduction to Electrodynamics (Griffith)</li>
 <li>Classical Electrodynamics (Jackson)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Classical Mechanics</b>
 </summary>
-<nl>
+<ul>
 <li>Mechanics (Landau/Lifshitz)</li>
 <li>Classical Mechanics (Goldstein/Poole/Safko)</li>
 <li>Mathematical Methods of Classical Mechanics (Arnold)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Mathematical Physics</b>
 </summary>
-<nl>
+<ul>
 <li>Mathematical Methods for Physics and Engineering: A Comprehensive Guide (Riley/Hobson/Bence)</li>
 <li>A Course in Modern Mathematical Physics: Groups, Hilbert Space and Differential Geometry (Szekeres)</li>
 <li>Mathematical Physics: A Modern Introduction to Its Foundations (Hassani)</li>
-</nl>
+</ul>
 </details>
 
 <details>
 <summary> 
 <b>Mathematics</b>
 </summary>
-<nl>
+<ul>
 <li>Mathematical Analysis (Zorich)</li>
 <li>Introduction to Algebra (Kostrikin)</li>
 <li>Linear Algebra Done Right (Axler)</li>
 <li>Complex Analysis (Ahlfors)</li>
-</nl>
+</ul>
 </details>

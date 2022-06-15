@@ -14,7 +14,7 @@ author_profile: true
   
   <details>
   <summary>
-  <b>Quantum many-body physics</b>
+  <b>Quantum Many-Body Physics</b>
   </summary>
   <ul>
   <li>Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind strong correlations beyond the mean-field. I am broadly interested in <b>mathematical structure of quantum many-body physics</b>. With the mathematical formulation well-understood, reasonable approximations can be made, useful information can be kept for the emergent phenomena of interest, and even predictions can be made in a way of first-principles.</li> 
@@ -30,7 +30,7 @@ author_profile: true
 
   <details>
   <summary>
-  <b>Quantum computation and simulation</b>
+  <b>Quantum Computation and Simulation</b>
   </summary>
   <ul>
   <li>Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in <b>algorithms for simulations on quantum computers</b>.</li>
@@ -42,7 +42,7 @@ author_profile: true
 
   <details>
   <summary>
-  <b>Scientific computing</b>
+  <b>Scientific Computing</b>
   </summary>
   <ul>
   <li>Including but not limited to quantum, I am broadly intereted in <b>numerical algorithms for scientific computing</b> as well as the related <b>software development</b>. In many cases, physical problems, especially those are limited by computational cost, can be investigated in a mathematical way and from that angle, robust numerical tricks can be introduced to indentify and solve the bottleneck. Furthermore, the structure of software can often be designed and optimized for the target.</li> 

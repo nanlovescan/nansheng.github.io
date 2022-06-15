@@ -32,6 +32,6 @@ Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).
 
-[**First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in diamond**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp04585c)<br>
+[**First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in Diamond**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp04585c)<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Phys. Chem. Chem. Phys.* 2020, 22, 25522–25527 (November 2020).

@@ -22,15 +22,15 @@ author_profile: true
 <b>Quantum many-body physics and quantum field theory</b>
 </summary>
 <nl>
-<li>Quantum theory of many-particle systems (Alexcander L. Fetter and John Dirk Walacka)</li>
-<li>Quantum many-particle systems (John W. Negele and Henri Orland)</li>
-<li>Introduction to many-body physics (Piers Coleman)</li>
-<li>Methods of quantum field theory in statistical physics (A. A. Abrikosov, L. P. Gorkov and I. E. Dzyaloshinski)</li>
-<li>Nonequilibrium many-body theory of quantum systems - a modern introduction (Gianluca Stefanucci and Robert van Leeuwen)</li>
-<li>A guide to Feynman diagrams in the many-body problem (Richard D. Mattuck)</li>
-<li>Condensed matter field theory (Alexander Altland and Ben Simons)</li>
-<li>Quantum field theory of non-equilibium states (Jorgen Rammer)</li>
-<li>Field theory of non-equilibrium systems (Alex Kamenev)</li>
+<li>Quantum theory of many-particle systems (Fetter/Walacka)</li>
+<li>Quantum many-particle systems (Negele/Orland)</li>
+<li>Introduction to many-body physics (Coleman)</li>
+<li>Methods of quantum field theory in statistical physics (Abrikosov/Gorkov/Dzyaloshinski)</li>
+<li>Nonequilibrium many-body theory of quantum systems - a modern introduction (Stefanucci/van Leeuwen)</li>
+<li>A guide to Feynman diagrams in the many-body problem (Mattuck)</li>
+<li>Condensed matter field theory (Altland/Simons)</li>
+<li>Quantum field theory of non-equilibium states (Rammer)</li>
+<li>Field theory of non-equilibrium systems (Kamenev)</li>
 </nl>
 </details>
 

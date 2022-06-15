@@ -21,7 +21,7 @@ author_profile: true
 <summary> 
 <b>Reading List</b>
 </summary>
-  <p style="margin-left:20px">
+<p style="margin-left:2em">
   <!-- <p style="margin-left:20px;font-size:14px"> -->
   <details>
   <summary> 
@@ -134,5 +134,5 @@ author_profile: true
   <li>Complex Analysis (Ahlfors)</li>
   </ul>
   </details>
-  </p>
+</p>
 </details>

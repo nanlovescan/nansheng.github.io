@@ -32,23 +32,22 @@ author_profile: true
   <summary>
   <b>Quantum computation and simulation</b>
   </summary>
-  - Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in **algorithms for simulations on quantum computers**. 
-
-  - In general, quantum computers have great advantage in memory due to the way of encoding. Quantum computers have also been proved to be powerful in time dependent simulations. No explicit proof has been established for the scaling of state related simulations on quantum computers so far.
-
-  - In the current noisy intermediate-scale quantum era (NISQ), quantum phase estimation (QPE) is still not feasible and variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interest. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to **design post-processing error mitigation scheme** for this purpose.
-
-  - Quantum computers can also be a good host for QMC calculations. Specifically, efficient algorithms can be designed for controlling the fermionic sign problem on quantum computers.
+  <ul>
+  <li>Due to the exponential complexity of quantum many-body physics, naturally it is unfavorable to simulate quantum with classical computers. On the contrary, the promising quantum computers, which hold the same nature of quantum, provide unlimited possiblities. For this reason, I am also interested in **algorithms for simulations on quantum computers**.</li>
+  <li>In general, quantum computers have great advantage in memory due to the way of encoding. Quantum computers have also been proved to be powerful in time dependent simulations. No explicit proof has been established for the scaling of state related simulations on quantum computers so far.</li>
+  <li>In the current noisy intermediate-scale quantum era (NISQ), quantum phase estimation (QPE) is still not feasible and variational quantum eigensolver (VQE) is often adopted as the solver for an effective physical Hamiltonian of interest. However, the results from VQE is typically severely corrupted by the noise from the current quantum architechture. In order to reduce the error from the perspective of a theorist, what we can do is to **design post-processing error mitigation scheme** for this purpose.</li>
+  <li>Quantum computers can also be a good host for QMC calculations. Specifically, efficient algorithms can be designed for controlling the fermionic sign problem on quantum computers.</li>
+  </ul>
   </details>
 
   <details>
   <summary>
   <b>Scientific computing</b>
   </summary>
-  - Including but not limited to quantum, I am broadly intereted in **numerical algorithms for scientific computing** as well as the related **software development**. In many cases, physical problems, especially those are limited by computational cost, can be investigated in a mathematical way and from that angle, robust numerical tricks can be introduced to indentify and solve the bottleneck. Furthermore, the structure of software can often be designed and optimized for the target. 
-
-  - For example, quantum mechanics is defined on an inifinite dimensional Hilbert space, the operations on which can be explained as matrix transformations. For this reason, numerical algorithms in matrix theory such as Lanczos algorithm, Schmidt decomposition, singular value decomposition and QR decoposition etc are useful and powerful. In many cases, e.g. QMC sampling, the calculations are almost independent from each other and can be implemented in a heavily parallel fashion using MPI or GPU.
-
-  - As a Galli group member, I am a developer of open source software **[WEST](http://www.west-code.org) (Without Empty States)** for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software **[TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems)** for DMFT calculations.
+  <ul>
+  <li>Including but not limited to quantum, I am broadly intereted in **numerical algorithms for scientific computing** as well as the related **software development**. In many cases, physical problems, especially those are limited by computational cost, can be investigated in a mathematical way and from that angle, robust numerical tricks can be introduced to indentify and solve the bottleneck. Furthermore, the structure of software can often be designed and optimized for the target.</li> 
+  <li>For example, quantum mechanics is defined on an inifinite dimensional Hilbert space, the operations on which can be explained as matrix transformations. For this reason, numerical algorithms in matrix theory such as Lanczos algorithm, Schmidt decomposition, singular value decomposition and QR decoposition etc are useful and powerful. In many cases, e.g. QMC sampling, the calculations are almost independent from each other and can be implemented in a heavily parallel fashion using MPI or GPU.</li>
+  <li>As a Galli group member, I am a developer of open source software **[WEST](http://www.west-code.org) (Without Empty States)** for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software **[TRIQS](https://triqs.github.io/triqs/latest) (Toolbox for Research on Interacting Quantum Systems)** for DMFT calculations.</li>
+  </ul>
   </details>    
 

@@ -15,16 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-details > *:not(summary){
-  margin-left: 2em;
-}
-
 # Others
 
 <details>
 <summary> 
 <b>Reading List</b>
 </summary>
+  {text-indent:2em;}
   <details>
   <summary> 
   <b>Quantum Many-Body Physics and Quantum Field Theory</b>

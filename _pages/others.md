@@ -21,7 +21,8 @@ author_profile: true
 <summary> 
 <b>Reading List</b>
 </summary>
-  {text-indent:2em;}
+  <p style="margin-left:20px">
+  <!-- <p style="margin-left:20px;font-size:14px"> -->
   <details>
   <summary> 
   <b>Quantum Many-Body Physics and Quantum Field Theory</b>
@@ -133,4 +134,5 @@ author_profile: true
   <li>Complex Analysis (Ahlfors)</li>
   </ul>
   </details>
+  </p>
 </details>

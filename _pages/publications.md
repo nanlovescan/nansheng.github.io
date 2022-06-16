@@ -30,7 +30,7 @@ Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
 
 [**Quantum Embedding Theory for Strongly Correlated States in Materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-*J. Chem. Theory. Comput.* 2021, 17, 2116–2125 (April 2021).
+*J. Chem. Theory. Comput.* 2021, 17, 4, 2116–2125 (April 2021).
 
 [**First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in Diamond**](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp04585c)<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>

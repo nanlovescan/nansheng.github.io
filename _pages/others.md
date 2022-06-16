@@ -22,7 +22,6 @@ author_profile: true
 <b>Reading List</b>
 </summary>
 <ul>
-  <!-- <p style="margin-left:20px;font-size:14px"> -->
   <details>
   <summary> 
   <b>Quantum Many-Body Physics and Quantum Field Theory</b>

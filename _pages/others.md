@@ -90,6 +90,18 @@ author_profile: true
 
   <details>
   <summary> 
+  <b>Chemical Physics</b>
+  </summary>
+  <ul>
+  <li>Chemical Applications of Group Theory (Cotton)</li>
+  <li>Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy (Harris/Bertolucci)</li>
+  <li>Charge and Energy Transfer Dynamics in Molecular Systems (May/Kühn)</li>
+  <li>Chemical Dynamics in Condensed Phases: Relaxation, Transfer, and Reactions in Condensed Molecular Systems (Nitzan)</li>
+  </ul>
+  </details>
+
+  <details>
+  <summary> 
   <b>Quantum Physics</b>
   </summary>
   <ul>
@@ -111,18 +123,6 @@ author_profile: true
   <li>Nonequilibrium Statistical Mechanics (Zwanzig)</li>
   <li>Statistical Physics of Particles (Kardar)</li>
   <li>Statistical Physics of Fields (Kardar)</li>
-  </ul>
-  </details>
-
-  <details>
-  <summary> 
-  <b>Chemical Physics</b>
-  </summary>
-  <ul>
-  <li>Chemical Applications of Group Theory (Cotton)</li>
-  <li>Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy (Harris/Bertolucci)</li>
-  <li>Charge and Energy Transfer Dynamics in Molecular Systems (May/Kühn)</li>
-  <li>Chemical Dynamics in Condensed Phases: Relaxation, Transfer, and Reactions in Condensed Molecular Systems (Nitzan)</li>
   </ul>
   </details>
 

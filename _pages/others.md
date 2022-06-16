@@ -102,6 +102,18 @@ author_profile: true
 
   <details>
   <summary> 
+  <b>Mathematical Physics</b>
+  </summary>
+  <ul>
+  <li>Mathematical Methods for Physics and Engineering: A Comprehensive Guide (Riley/Hobson/Bence)</li>
+  <li>A Course in Modern Mathematical Physics: Groups, Hilbert Space and Differential Geometry (Szekeres)</li>
+  <li>Mathematical Physics: A Modern Introduction to Its Foundations (Hassani)</li>
+  <li>Group Theory: Application to the Physics of Condensed Matter (Dresselhaus/Dresselhaus/Jorio)</li>
+  </ul>
+  </details>
+
+  <details>
+  <summary> 
   <b>Quantum Physics</b>
   </summary>
   <ul>
@@ -144,18 +156,6 @@ author_profile: true
   <li>Mechanics (Landau/Lifshitz)</li>
   <li>Classical Mechanics (Goldstein/Poole/Safko)</li>
   <li>Mathematical Methods of Classical Mechanics (Arnold)</li>
-  </ul>
-  </details>
-
-  <details>
-  <summary> 
-  <b>Mathematical Physics</b>
-  </summary>
-  <ul>
-  <li>Mathematical Methods for Physics and Engineering: A Comprehensive Guide (Riley/Hobson/Bence)</li>
-  <li>A Course in Modern Mathematical Physics: Groups, Hilbert Space and Differential Geometry (Szekeres)</li>
-  <li>Mathematical Physics: A Modern Introduction to Its Foundations (Hassani)</li>
-  <li>Group Theory: Application to the Physics of Condensed Matter (Dresselhaus/Dresselhaus/Jorio)</li>
   </ul>
   </details>
 

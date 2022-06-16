@@ -39,7 +39,7 @@ author_profile: true
   <li>Renormalization Group and Effective Field Theory Approaches to Many-Body systems (Polonyi/Schwenk)</li>
   <li>Path Integrals and Quantum Processes (Swanson)</li>
   <li>Ultracold Quantum Fields (Stoof/Gubbels/Dickerscheid)</li>
-  <li>Self-consistent Quantum Field Theory and Bosonization for Strongly Correlated Electron Systems</li>
+  <li>Self-consistent Quantum Field Theory and Bosonization for Strongly Correlated Electron Systems (Haussmann)</li>
   </ul>
   </details>
 
@@ -121,7 +121,7 @@ author_profile: true
   <ul>
   <li>Chemical Applications of Group Theory (Cotton)</li>
   <li>Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy (Harris/Bertolucci)</li>
-  <li>Charge and Energy Transfer Dynamics in Molecular Systems (May/Kühn)
+  <li>Charge and Energy Transfer Dynamics in Molecular Systems (May/Kühn)</li>
   <li>Chemical Dynamics in Condensed Phases: Relaxation, Transfer, and Reactions in Condensed Molecular Systems (Nitzan)</li>
   </ul>
   </details>

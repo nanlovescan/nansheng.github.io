@@ -39,7 +39,7 @@ author_profile: true
   <li>Renormalization Group and Effective Field Theory Approaches to Many-Body systems (Polonyi/Schwenk)</li>
   <li>Path Integrals and Quantum Processes (Swanson)</li>
   <li>Ultracold Quantum Fields (Stoof/Gubbels/Dickerscheid)</li>
-  <li>Self-consistent Quantum Field Theory and Bosonization for Strongly Correlated Electron Systems
+  <li>Self-consistent Quantum Field Theory and Bosonization for Strongly Correlated Electron Systems</li>
   </ul>
   </details>
 

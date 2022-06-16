@@ -34,11 +34,12 @@ author_profile: true
   <li>A Guide to Feynman Diagrams in the Many-Body Problem (Mattuck)</li>
   <li>Nonequilibrium Many-Body Theory of Quantum Systems - A Modern Introduction (Stefanucci/van Leeuwen)</li>
   <li>Condensed Matter Field Theory (Altland/Simons)</li>
-  <li>Quantum Field Theory of Non-Equilibium States (Rammer)</li>
-  <li>Field Theory of Non-Equilibrium Systems (Kamenev)</li>
+  <li>Quantum Field Theory of Non-equilibium States (Rammer)</li>
+  <li>Field Theory of Non-equilibrium Systems (Kamenev)</li>
   <li>Renormalization Group and Effective Field Theory Approaches to Many-Body systems (Polonyi/Schwenk)</li>
   <li>Path Integrals and Quantum Processes (Swanson)</li>
   <li>Ultracold Quantum Fields (Stoof/Gubbels/Dickerscheid)</li>
+  <li>Self-consistent Quantum Field Theory and Bosonization for Strongly Correlated Electron Systems
   </ul>
   </details>
 

@@ -19,7 +19,7 @@ author_profile: true
 
 <details>
 <summary> 
-<b>Reading List</b>
+<b><font size = "+2">Reading List</font></b>
 </summary>
 <ul>
   <details>

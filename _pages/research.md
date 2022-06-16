@@ -14,7 +14,7 @@ author_profile: true
   
   <details>
   <summary>
-  <b><font size=5>Quantum Many-Body Physics</font></b>
+  <b><font size="20pt">Quantum Many-Body Physics</font></b>
   </summary>
   <ul>
   <li>Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind strong correlations beyond the mean-field. I am broadly interested in <b>mathematical structure of quantum many-body physics</b>. With the mathematical formulation well-understood, reasonable approximations can be made, useful information can be kept for the emergent phenomena of interest, and even predictions can be made in a way of first-principles.</li> 

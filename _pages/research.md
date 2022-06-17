@@ -18,7 +18,7 @@ author_profile: true
   </summary>
   <ul>
   <p align='center'> 
-  <img src="/images/QMBT.jpeg" alt="photo" style='width: 600px;'>
+  <img src="/images/QMBT.png" alt="photo" style='width: 600px;'>
   </p>
   <li>Quantum many-body physics is principly a complicated problem with high complexity, where emergent phenomena are hidden behind strong correlations beyond the mean-field. I am broadly interested in <b>mathematical structure of quantum many-body physics</b>. With the mathematical formulation well-understood, reasonable approximations can be made, useful information can be kept for the emergent phenomena of interest, and even predictions can be made in a way of first-principles.</li> 
   <li>In condensed matter field theory, the quantum many-body problem is formulated as a many-body action with infinite degrees of freedom, with which the physical quantities of interest can always be expressed. By diagrammatic expansion and truncation obeying the conservation laws, reasonable approximations can be made in a controlled manner. Famous examples include the Hartree-Fock approximation, the <i>GW</i> approximation and the dynamical mean-field approximation etc. These approximations can be equivalently found in many-body perturbation theory (MBPT) and dynamical mean-field theory (DMFT). These approaches can also be combined together, that is the so-called quantum embedding, with which the strongly correlated region of the system can be specially treated. Keldysh formalism together with non-equilibrium Green's function (NEGF) extends field theory to the non-equilibrium regime, which enables the study of out of equilbirum phenomena such as quantum transport.

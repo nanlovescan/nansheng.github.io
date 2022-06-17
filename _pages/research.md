@@ -14,7 +14,7 @@ author_profile: true
   
   <details>
   <summary>
-  <b><font size = "+2">Quantum Many-Body Physics</font></b>
+  <b><font size = "+2">Quantum Many-Body Theory and Methods</font></b>
   </summary>
   <ul>
   <p align='center'> 

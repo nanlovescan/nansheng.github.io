@@ -167,7 +167,7 @@ author_profile: true
   <li>Mathematical Analysis (Zorich)</li>
   <li>Introduction to Algebra (Kostrikin)</li>
   <li>Linear Algebra Done Right (Axler)</li>
-  <li>Algebra (Michael Artin)</li>
+  <li>Algebra (Artin)</li>
   <li>Complex Analysis (Ahlfors)</li>
   <li>Matrix Computations (Golub/Van Loan)</li>
   </ul>

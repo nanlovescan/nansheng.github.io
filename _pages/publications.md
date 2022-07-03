@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
-[**Simulating the Electronic Structure of Spin Defects on Quantum Computers with Qubit Coupled Cluster Ansatz.**](/publications/)<br>
+[**Simulating the Electronic Structure of Spin Defects on Quantum Computers with Qubit Coupled Cluster Ansatz**](/publications/)<br>
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *In preparation* (June 2022).
 

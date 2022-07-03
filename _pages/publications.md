@@ -30,7 +30,7 @@ Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 
 [**Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers**](https://arxiv.org/abs/2105.04736)<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
-*Nature Computational Science* Accepted (June 2022).
+*Nat. Comput. Sci* Accepted (June 2022).
 
 [**Quantum Embedding Theory for Strongly Correlated States in Materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>

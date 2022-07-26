@@ -24,13 +24,13 @@ Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
 *In preparation* (March 2022).
 
+[**Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers**](https://www.nature.com/articles/s43588-022-00279-0)<br>
+Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
+*Nat. Comput. Sci.* 2, 424–432 (July 2022).
+
 [**Green's Function Formulation of Quantum Defect Embedding Theory**](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c00240)<br>
 **Nan Sheng\***, Christian Vorwerk\*, Marco Govoni, and Giulia Galli.<br>
 *J. Chem. Theory. Comput.* 2022, 18, 6, 3512–3522 (June 2022).
-
-[**Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers**](https://arxiv.org/abs/2105.04736)<br>
-Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
-*Nat. Comput. Sci.* Accepted (June 2022).
 
 [**Quantum Embedding Theory for Strongly Correlated States in Materials**](https://pubs.acs.org/doi/10.1021/acs.jctc.0c01258)<br>
 He Ma, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>

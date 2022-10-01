@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
-**Simulating the Electronic Structure of Spin Defects on Quantum Computers with Qubit Coupled Cluster Ansatz** **[[link]](/publications/)**<br>
+**Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes** **[[link]](/publications/)**<br>
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *In preparation* (June 2022).
 
@@ -24,7 +24,7 @@ Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
 *In preparation* (March 2022).
 
-**Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes** **[[link]](https://www.nature.com/articles/s43588-022-00279-0)**<br>
+**Quantum embedding theories to simulate condensed systems on quantum computers** **[[link]](https://www.nature.com/articles/s43588-022-00279-0)**<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
 *Nat. Comput. Sci.* 2, 424–432 (July 2022).
 

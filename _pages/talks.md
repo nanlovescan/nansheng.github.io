@@ -24,7 +24,7 @@ author_profile: true
 Christian Vorwerk, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).
 
-**Accelerating Dynamical Mean-Field Calculations Using the Discrete Lehmann Representation** **[[link]](/files/talks/DLR%40CCQ.pdf)**<br>
+**Accelerating Dynamical Mean-Field Calculations Using the Discrete Lehmann Representation** **[[slides]](/files/talks/DLR%40CCQ.pdf)**<br>
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
 *In preparation* (March 2022).
 

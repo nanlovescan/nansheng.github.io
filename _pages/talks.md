@@ -16,19 +16,23 @@ author_profile: true
 {% endfor %} -->
 
 # Talks
-[**An Exact Double Counting Scheme for Quantum Defect Embedding Theory**](https://meetings.aps.org/Meeting/MAR22/Session/K46.4)<br> 
+**An Exact Double Counting Scheme for Quantum Defect Embedding Theory**[link](https://meetings.aps.org/Meeting/MAR22/Session/K46.4) [slides](/files/talks/Nan_Sheng_2022.pdf)<br> 
 **Nan Sheng**, Christian Vorwerk, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).
 
-[**Extrinsic and Intrinsic Defects in MgO and CaO as Potential Spin-Qubit Candidates**](https://meetings.aps.org/Meeting/MAR22/Session/T72.2)<br>
+**Extrinsic and Intrinsic Defects in MgO and CaO as Potential Spin-Qubit Candidates**[link](https://meetings.aps.org/Meeting/MAR22/Session/T72.2) [slides](/files/talks/Christian_Vorwerk_2022.pdf)<br>
 Christian Vorwerk, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2022).
 
-[**First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in Diamond**](https://meetings.aps.org/Meeting/MAR21/Session/V51.12)<br>
+**Accelerating Dynamical Mean-Field Calculations Using the Discrete Lehmann Representation**[link](/files/talks/DLR%40CCQ.pdf)<br>
+**Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
+*In preparation* (March 2022).
+
+**First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in Diamond**[link](https://meetings.aps.org/Meeting/MAR21/Session/V51.12) [slides](/files/talks/Nan_Sheng_2021.pdf)<br>
 **Nan Sheng**, He Ma, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2021).
 
-[**Coupling Interoperable Software for Quantum Simulations of Materials**](https://meetings.aps.org/Meeting/MAR21/Session/S19.11)<br>
+**Coupling Interoperable Software for Quantum Simulations of Materials**[link](https://meetings.aps.org/Meeting/MAR21/Session/S19.11) [slides](/files/talks/Marco_Govoni_2021.pdf)<br>
 Marco Govoni, He Ma, **Nan Sheng**, Sijia Dong, Francois Gygi, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (2021).
 

@@ -24,7 +24,7 @@ Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
 *In preparation* (March 2022).
 
-**Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers** [[link]](https://www.nature.com/articles/s43588-022-00279-0)<br>
+**Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes** [[link]](https://www.nature.com/articles/s43588-022-00279-0)<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>
 *Nat. Comput. Sci.* 2, 424–432 (July 2022).
 

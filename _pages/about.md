@@ -25,7 +25,7 @@ redirect_from:
 
 - I am currently a graduate student in Theoretical Chemistry at University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). 
 
-- I have collaborative connections with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye/) and Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2/) at Center for Computational Quantum Physics, Flatiron Institute.
+- I have collaborative connections with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye/) and Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2/) at the Computational Quantum Physics, Flatiron Institute.
 
 - I received my dual Bachelor's degree in Physics and Chemistry with highest honors from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
@@ -36,9 +36,10 @@ redirect_from:
 # Recent news
 
 - The paper [Quantum embedding theories to simulate condensed systems on quantum computers](https://arxiv.org/abs/2105.04736) has just been accepted by Nature Computational Science (6/15/2022)! It is aimed at discussing different embedding theories and the perspective for their simulations on quantum computers.
-- The paper [Green's function formulation of quantum defect embedding theory](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00240) has just been accepted and published by Journal of Chemical Theory and Computation (6/1/2022)! It is aimed at solving double counting issue in quantum defect embedding theory (3/12/2022).
-- I gave an exciting talk as the end of my experience (8/13/2021). See the slides [here](/files/talks/DLR%40CCQ.pdf). I will work remotely with colleagues to finish the project.
-- I just start an internship at Flatiron Institute, working with Dr. Olivier Parcollet (6/3/2021). 
+- I gave an exciting talk in the APS March meeting on solving the double counting issue in quantum defect embedding theory! See the slides [here](/files/talks/Nan_Sheng_2022.pdf). I also contribute to Christian Vorwerk's talk on the application of the embedding theory to oxides. See the slides [here](/files/talks/Christian_Vorwerk_2022.pdf).
+- The paper [Green's function formulation of quantum defect embedding theory](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00240) has just been accepted and published by Journal of Chemical Theory and Computation (6/1/2022)! It is aimed at solving the double counting issue in quantum defect embedding theory (3/12/2022).
+- I gave an exciting talk as the end of my experience (8/13/2021)! See the slides [here](/files/talks/DLR%40CCQ.pdf). I will work remotely with colleagues to finish the project.
+- I just start an internship at Flatiron Institute, working with Dr. Olivier Parcollet, Dr. Jason Kaye and Dr. Kun Chen (6/3/2021). 
 
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=9X1Xbrcys07GUNz45Vpjgqiu2YILGSbcTQHy4gGi42w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script> -->

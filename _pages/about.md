@@ -25,7 +25,7 @@ redirect_from:
 
 - I am currently a graduate student in Theoretical Chemistry at University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). 
 
-- I have collaborating connections with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye/) and Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2/) at Center for Computational Quantum Physics, Flatiron Institute.
+- I have collaborative connections with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye/) and Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2/) at Center for Computational Quantum Physics, Flatiron Institute.
 
 - I received my dual Bachelor's degree in Physics and Chemistry with highest honors from University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 

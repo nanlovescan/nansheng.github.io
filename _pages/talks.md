@@ -26,7 +26,7 @@ Christian Vorwerk, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 
 **Accelerating Dynamical Mean-Field Calculations Using the Discrete Lehmann Representation** **[[slides]](/files/talks/DLR%40CCQ.pdf)**<br>
 **Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
-*Summer Research at the Flatiron Insitute* (August 2021).
+*Summer Research at the Flatiron Institute* (August 2021).
 
 **First-Principles Studies of Strongly Correlated States in Defect Spin Qubits in Diamond** **[[link]](https://meetings.aps.org/Meeting/MAR21/Session/V51.12) [[slides]](/files/talks/Nan_Sheng_2021.pdf)**<br>
 **Nan Sheng**, He Ma, Marco Govoni, and Giulia Galli.<br>

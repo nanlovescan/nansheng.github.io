@@ -19,7 +19,7 @@ redirect_from:
 - I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). -->
 
 <!-- ## Nobody really understands quantum mechanics - Richard Feynman -->
-- I am an applied mathematician committed to understanding the math structure of natural sciences, with a specific focus on quantum physics.
+- I am an applied mathematician committed to understanding the mathematical structure of natural sciences, with a specific focus on quantum physics.
 
 - My main interests lie in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
 

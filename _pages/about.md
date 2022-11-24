@@ -23,9 +23,13 @@ redirect_from:
 
 - My main interests lie in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
 
-- I am currently a graduate student at the University of Chicago, working with Prof. [Giulia Galli](https://galligroup.uchicago.edu/People/galli.php). 
+- I am currently a graduate student at the University of Chicago. 
 
-- I have collaborative connections with Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye/) and Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2/) at the Center for Computational Quantum Physics, Flatiron Institute.
+- I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, and Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Center for Computational Quantum Physics, Flatiron Institute.
+
+<!-- - I am currently a graduate student at the University of Chicago, working with Prof. [Giulia Galli](https://chemistry.uchicago.edu/faculty/giulia-galli). 
+
+- I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) and Prof. [Aaron Dinner](https://chemistry.uchicago.edu/faculty/aaron-dinner) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Center for Computational Quantum Physics, Flatiron Institute. -->
 
 - I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 

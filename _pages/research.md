@@ -54,7 +54,7 @@ author_profile: true
   
   Depending on the quantum representation, optimization algorithms such as steepest descent, 
   least squares, semidefinite programming, and those based on properties of convex functions (convex optimization) can be developed and utilized to obtain the physical quantities of interest such as the ground state wavefunction, with possible combination with Monte Carlo. In many cases, e.g. QMC sampling, the calculations are almost independent from each other and can be implemented in a heavily parallel fashion using MPI or GPU.</li>
-  <li>As a graduate student at UChicago, I am a developer of open source software <b><a href="http://www.west-code.org">WEST (Without Empty States)</a></b> for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software <b><a href="https://triqs.github.io/triqs/latest">TRIQS (Toolbox for Research on Interacting Quantum Systems)</a></b> for DMFT calculations.</li>
+  <li>As a graduate student at UChicago, I am developing tensor network methods and Monte Carlo methods for the committor function, which is the solution of a backward Kolmogorov equation for a rare event and ground state properties of quantum many-body systems. I am a developer of open source software <b><a href="http://www.west-code.org">WEST (Without Empty States)</a></b> for large scale MBPT calculations, and the main developer for QDET. As an intern student at Flatiron, I participate in the development of open source software <b><a href="https://triqs.github.io/triqs/latest">TRIQS (Toolbox for Research on Interacting Quantum Systems)</a></b> for DMFT calculations.</li>
   </ul>
   </details>    
 

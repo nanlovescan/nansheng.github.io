@@ -19,11 +19,13 @@ redirect_from:
 - I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). -->
 
 <!-- ## Nobody really understands quantum mechanics - Richard Feynman -->
-- I am an applied mathematician committed to understanding the mathematical structure of natural sciences, with a specific focus on quantum physics.
+- I am an applied mathematician committed to understanding the mathematical structure of natural sciences, with a specific focus on quantum physics. 
+
+<!-- I can also be a physicist or a chemist if necessary.  -->
 
 - My main interests lie in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
 
-- I am currently a graduate student in theoretical chemistry at the University of Chicago. 
+- I am currently a graduate student at the University of Chicago. 
 
 - I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Center for Computational Quantum Physics, Flatiron Institute.
 
@@ -39,7 +41,7 @@ redirect_from:
 
 # Recent news
 
-- The paper [Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes](https://arxiv.org/pdf/2212.01912.pdf) has been available on Arxiv! With a focus on quantum simulations of Fermionic Hamiltonians on a quantum computer, we show a substantial improvement in the scaling of circuit gate counts and a decrease in the number of required variational parameters.
+- The paper [Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes](https://arxiv.org/pdf/2212.01912.pdf) has been posted to the Arxiv! Focusing on quantum simulations of Fermionic Hamiltonians on a quantum computer, we show a substantial improvement in the scaling of circuit gate counts and a decrease in the number of required variational parameters.
 - The paper [Quantum embedding theories to simulate condensed systems on quantum computers](https://www.nature.com/articles/s43588-022-00279-0) has been published by Nature Computational Science (7/25/2022)! It is aimed at discussing different embedding theories and the perspective for their simulations on quantum computers.
 - I gave an exciting talk in the APS March meeting 2022 on solving the double counting issue in quantum defect embedding theory (3/15/2022)! See the slides [here](/files/talks/Nan_Sheng_2022.pdf). I also contribute to Dr. Christian Vorwerk's talk on the application of the embedding theory to oxides. See the slides [here](/files/talks/Christian_Vorwerk_2022.pdf).
 - The paper [Green's function formulation of quantum defect embedding theory](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00240) has been published by Journal of Chemical Theory and Computation (6/1/2022)! It is aimed at solving the double counting issue in quantum defect embedding theory.

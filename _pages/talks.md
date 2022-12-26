@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 # Talks
-**Green's function formulation of quantum defect embedding theory** **[[link]](https://https://meetings.aps.org/Meeting/MAR23/Session/A60.4) [[slides]](/talks/)**<br> 
+**Green's function formulation of quantum defect embedding theory** **[[link]](https://meetings.aps.org/Meeting/MAR23/Session/A60.4) [[slides]](/talks/)**<br> 
 Marco Govoni, **Nan Sheng**, Christian Vorwerk, Benchen Huang, Victor Yu, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (March 2023).
 

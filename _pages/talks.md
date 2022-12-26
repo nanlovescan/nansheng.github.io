@@ -16,6 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 # Talks
+**Green's function formulation of quantum defect embedding theory** **[[link]](https://https://meetings.aps.org/Meeting/MAR23/Session/A60.4) [[slides]](/talks/)**<br> 
+Marco Govoni, **Nan Sheng**, Christian Vorwerk, Benchen Huang, Victor Yu, and Giulia Galli.<br>
+*Bulletin of the American Physical Society* (March 2023).
+
+**Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes** **[[link]](https://meetings.aps.org/Meeting/MAR23/Session/B70.6) [[slides]](/talks/)**<br> 
+Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
+*Bulletin of the American Physical Society* (March 2023).
+
 **An Exact Double Counting Scheme for Quantum Defect Embedding Theory** **[[link]](https://meetings.aps.org/Meeting/MAR22/Session/K46.4) [[slides]](/files/talks/Nan_Sheng_2022.pdf)**<br> 
 **Nan Sheng**, Christian Vorwerk, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (March 2022).

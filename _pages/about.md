@@ -27,7 +27,7 @@ redirect_from:
 
 - I am currently a graduate student at the University of Chicago. 
 
-- I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Center for Computational Quantum Physics, Flatiron Institute.
+- I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Center for Computational Quantum Physics, the Flatiron Institute.
 
 <!-- - I am currently a graduate student at the University of Chicago, working with Prof. [Giulia Galli](https://chemistry.uchicago.edu/faculty/giulia-galli). 
 

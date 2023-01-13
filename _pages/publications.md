@@ -16,13 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
+
+**Compact Green’s function representations for dynamical mean-field theory** **[[link]](/publications/)**<br>
+**Nan Sheng**, Alexander Hampel, Sophie Beck, Nils Wentzell, Jason Kaye, Kun Chen, and Olivier Parcollet.<br>
+*In preparation* (January 2023).
+
 **Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes** **[[link]](https://arxiv.org/pdf/2212.01912.pdf)**<br>
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Submitted to J. Chem. Theory. Comput.* (December 2022).
-
-**Accelerating Dynamical Mean-Field Calculations Using the Discrete Lehmann Representation** **[[link]](/publications/)**<br>
-**Nan Sheng**, Jason Kaye, Kun Chen, Alexander Hampel, Sophie Beck, Nils Wentzell, and Olivier Parcollet.<br>
-*In preparation* (March 2022).
 
 **Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers** **[[link]](https://www.nature.com/articles/s43588-022-00279-0)**<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>

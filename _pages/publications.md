@@ -17,11 +17,11 @@ author_profile: true
 
 # Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
 
-**Low rank Green's function representations applied to dynamical mean-field theory** **[[link]](https://arxiv.org/abs/2301.07764)**<br>
+**Low Rank Green's Function Representations Applied to Dynamical Mean-Field Theory** **[[link]](https://arxiv.org/abs/2301.07764)**<br>
 **Nan Sheng**, Alexander Hampel, Sophie Beck, Olivier Parcollet, Nils Wentzell, Jason Kaye, and Kun Chen.<br>
 *Submitted to Phys. Rev. B* (January 2023).
 
-**Quantum simulations of Fermionic Hamiltonians with efficient encoding and ansatz schemes** **[[link]](https://arxiv.org/pdf/2212.01912.pdf)**<br>
+**Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes** **[[link]](https://arxiv.org/abs/2212.01912)**<br>
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Submitted to J. Chem. Theory Comput.* (December 2022).
 

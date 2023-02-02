@@ -23,7 +23,7 @@ author_profile: true
 
 **Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes** **[[link]](https://arxiv.org/abs/2212.01912)**<br>
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
-*Submitted to J. Chem. Theory Comput.* (December 2022).
+*Accepted by J. Chem. Theory Comput.* (December 2022).
 
 **Quantum Embedding Theories to Simulate Condensed Systems on Quantum Computers** **[[link]](https://www.nature.com/articles/s43588-022-00279-0)**<br>
 Christian Vorwerk\*, **Nan Sheng\***, Marco Govoni, and Giulia Galli.<br>

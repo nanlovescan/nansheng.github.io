@@ -21,7 +21,7 @@ author_profile: true
 **Nan Sheng**, Alexander Hampel, Sophie Beck, Olivier Parcollet, Nils Wentzell, Jason Kaye, and Kun Chen.<br>
 *Submitted to Phys. Rev. B* (January 2023).
 
-**Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes** **[[link]](https://arxiv.org/abs/2212.01912)**<br>
+**Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes** **[[link]](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01119)**<br>
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Accepted by J. Chem. Theory Comput.* (December 2022).
 

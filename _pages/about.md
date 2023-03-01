@@ -25,7 +25,7 @@ redirect_from:
 
 - My main interests lie in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
 
-- I am currently a graduate student at the University of Chicago. 
+- I am currently a graduate student at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). 
 
 <!-- - I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and  -->
 

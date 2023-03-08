@@ -23,9 +23,11 @@ redirect_from:
 
 <!-- I can also be a physicist or a chemist if necessary.  -->
 
-- My main interests lie in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. Please see the [Research](/research) page for details.
+- I am broadly interested in performing numerical analysis and developing scientific computing tools for problems arising in natural sciences. Specifically, I am an expert in developing **fundamental theories**, **advanced and robust computational methods**, as well as **practical and sophisticated software** to solve the quantum many-body problem and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
 
 - I am currently a graduate student at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). 
+
+<!-- I will move to Stanford University as a PhD student in Computational and Mathematical Engineering starting this fall, advised by Prof. Lexing Ying. -->
 
 <!-- - I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and  -->
 

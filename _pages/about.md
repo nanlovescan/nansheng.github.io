@@ -23,7 +23,7 @@ redirect_from:
 
 <!-- I can also be a physicist or a chemist if necessary.  -->
 
-- I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories**, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
+- I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
 
 - I am currently a graduate student at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). 
 

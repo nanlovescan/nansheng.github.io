@@ -20,7 +20,7 @@ author_profile: true
 Marco Govoni, **Nan Sheng**, Christian Vorwerk, Benchen Huang, Victor Yu, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (March 2023).
 
-**Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes** **[[link]](https://meetings.aps.org/Meeting/MAR23/Session/B70.6) [[slides]](/talks/)**<br> 
+**Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes** **[[link]](https://meetings.aps.org/Meeting/MAR23/Session/B70.6) [[slides]](/files/talks/Benchen_Huang_2023.pdf)**<br> 
 Benchen Huang, **Nan Sheng**, Marco Govoni, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (March 2023).
 

@@ -27,17 +27,13 @@ redirect_from:
 
 <!-- - I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
 
-- I am currently a graduate student at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). 
+- I am currently a graduate student in theoretical chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in computational and mathematical engineering this fall.
 
 <!-- I will move to Stanford University as a PhD student in Computational and Mathematical Engineering starting this fall, advised by Prof. Lexing Ying. -->
 
 <!-- - I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and  -->
 
 - I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Flatiron Institute, Simons Foundation.
-
-<!-- - I am currently a graduate student at the University of Chicago, working with Prof. [Giulia Galli](https://chemistry.uchicago.edu/faculty/giulia-galli). 
-
-- I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) and Prof. [Aaron Dinner](https://chemistry.uchicago.edu/faculty/aaron-dinner) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Center for Computational Quantum Physics, Flatiron Institute. -->
 
 - I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
@@ -46,6 +42,7 @@ redirect_from:
 <!-- hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details. -->
 
 # Recent news
+- I have been admitted to PhD programs in Computational and Mathematical Engineering at the Stanford University and Applied Mathematicas at the University of California, Berkeley starting this fall (02/24/23)!
 - The paper [Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01119) has been published by Journal of Chemical Theory and Computation (2/15/23)! In this work we propose a computational protocol for quantum simulations of Fermionic Hamiltonians on a quantum computer.
 - The paper [Low Rank Green's Function Representations Applied to Dynamical Mean-Field Theory](https://arxiv.org/abs/2301.07764) has been posted to the Arxiv (01/18/23)! In this work we show that via a low rank decomposition, only 20-30 Matsubara frequency nodes are necessary for the Dyson equation solver of the dynamical mean-field theory, compared to 2000 which is typically used. Thanks to all of my collaborators at the Flatiron Institute, Simons Foundation!
 - The paper [Quantum Simulations of Fermionic Hamiltonians with Efficient Encoding and Ansatz Schemes](https://arxiv.org/abs/2212.01912) has been posted to the Arxiv (12/04/22)! Focusing on quantum simulations of Fermionic Hamiltonians on a quantum computer, we show a substantial improvement in the scaling of circuit gate counts and a decrease in the number of required variational parameters.

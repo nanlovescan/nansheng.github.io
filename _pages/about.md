@@ -27,7 +27,7 @@ redirect_from:
 
 <!-- - I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
 
-- I am currently a graduate student in theoretical chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in computational and mathematical engineering this fall.
+- I am currently a graduate student in Theoretical Chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in Computational and Mathematical Engineering this fall.
 
 <!-- I will move to Stanford University as a PhD student in Computational and Mathematical Engineering starting this fall, advised by Prof. Lexing Ying. -->
 

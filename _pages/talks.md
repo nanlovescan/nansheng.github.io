@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 # Talks
+**Introduction to Computational Quantum Physics** **[[slides]](/files/talks/Talk_OSU_04_19_23.pdf)**<br> 
+**Nan Sheng** <br>
+*Student Computational Math Seminar at the Ohio State University* (April 2023).
+
 **Green's Function Formulation of Quantum Defect Embedding Theory** **[[link]](https://meetings.aps.org/Meeting/MAR23/Session/A60.4) [[slides]](/files/talks/Marco_Govoni_2023.pdf)**<br> 
 Marco Govoni, **Nan Sheng**, Christian Vorwerk, Benchen Huang, Victor Yu, and Giulia Galli.<br>
 *Bulletin of the American Physical Society* (March 2023).

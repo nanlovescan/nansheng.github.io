@@ -17,7 +17,7 @@ author_profile: true
 
 # Talks
 **Introduction to Computational Quantum Physics** **[[slides]](/files/talks/Talk_OSU_04_19_23.pdf)**<br> 
-**Nan Sheng** <br>
+**Nan Sheng**.<br>
 *Student Computational Math Seminar at the Ohio State University* (April 2023).
 
 **Green's Function Formulation of Quantum Defect Embedding Theory** **[[link]](https://meetings.aps.org/Meeting/MAR23/Session/A60.4) [[slides]](/files/talks/Marco_Govoni_2023.pdf)**<br> 

@@ -12,34 +12,15 @@ redirect_from:
 <img src="/images/nsheng.jpeg" alt="photo" style='width: 300px;'>
 </p> -->
 
-<!-- - I am currently a Ph.D. student in [Computer Science Department](http://www.cs.sjtu.edu.cn/en/) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), advised by Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [\[Curriculum Vitae\]](/files/CV.pdf). [\[Google Scholar\]](https://scholar.google.com/citations?user=JPBGjOYAAAAJ&hl=zh-CN).
-
-- My research interests lie in general area of machine learning and deep learning, especially their applications in networks, recommender systems and computational advertising.
-
-- I received my Bachelor’s Degree of Software Engineering in Shanghai Jiao Tong University. My undergraduate research advisors are Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). -->
-
-<!-- ## Nobody really understands quantum mechanics - Richard Feynman -->
 - I am an applied mathematician committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
-
-<!-- understanding the mathematical structure of natural sciences, with a specific focus on quantum physics.  -->
-
-<!-- I can also be a physicist or a chemist if necessary.  -->
 
 <!-- - I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
 
 - I am currently a graduate student in Theoretical Chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in Computational and Mathematical Engineering this fall.
 
-<!-- I will move to Stanford University as a PhD student in Computational and Mathematical Engineering starting this fall, advised by Prof. Lexing Ying. -->
-
-<!-- - I have collaborative connections with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo) at the University of Chicago, Prof. [Joonho Lee](https://chemistry.harvard.edu/people/joonho-lee) at Harvard University, and  -->
-
 - I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Flatiron Institute, Simons Foundation.
 
 - I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
-
-<!-- - My main interests lie in investigating inner mathematical structure of quantum physics, developing advanced and robust computational methods for quantum physics problems, and applying these developed methods to the problems. Additionally, I'm in general interested in developing scienfic computing tools for scientific computing. Please see the [Research](/research) page for details. -->
-
-<!-- hybrid quantum-classical theories and methods, including quantum many-body physics, quantum computation and simulation, and scientific computing. Please see the [Research](/research) page for details. -->
 
 # Recent news
 - I will be joining Stanford University as a graduate student in Computational and Mathematical Engineering this fall (04/11/23)!

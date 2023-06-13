@@ -23,7 +23,7 @@ redirect_from:
 - I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
 # Recent news
-- The paper [Low Rank Green's Function Representations Applied to Dynamical Mean-Field Theory](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245123) appear in PRB (06/13/23)!
+- The paper [Low Rank Green's Function Representations Applied to Dynamical Mean-Field Theory](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245123) appears in PRB (06/13/23)!
 - I gave a talk at the Student Computational Math Seminar, the Ohio State University on the topic of [Introduction to Computational Quantum Physics](/files/talks/Talk_OSU_04_19_23.pdf) (04/21/23)!
 - I will be joining Stanford University as a graduate student in Computational and Mathematical Engineering this fall (04/11/23)!
 - I will be attending the [Modern Applied and Computational Analysis](https://icerm.brown.edu/topical_workshops/tw-23-maca/) workshop at Brown University during Jun 26 - 30, 2023 (04/21/23)! Look forward to meeting you there.

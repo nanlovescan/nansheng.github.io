@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=kzgjJHIAAAAJ&hl=en))
+# Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=gsxxnVoAAAAJ&hl=en))
 
 **Low-Rank Green's Function Representations Applied to Dynamical Mean-Field Theory** **[[link]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245123)**<br>
 **Nan Sheng**, Alexander Hampel, Sophie Beck, Olivier Parcollet, Nils Wentzell, Jason Kaye, and Kun Chen.<br>

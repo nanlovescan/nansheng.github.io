@@ -16,7 +16,7 @@ redirect_from:
 
 <!-- - I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
 
-- I am currently a graduate student in Theoretical Chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in Computational and Mathematical Engineering this fall.
+- I am currently a graduate student in Theoretical Chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in Computational Mathematics this fall.
 
 - I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Flatiron Institute, Simons Foundation.
 

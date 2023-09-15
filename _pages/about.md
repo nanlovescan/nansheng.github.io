@@ -12,7 +12,7 @@ redirect_from:
 <img src="/images/nsheng.jpeg" alt="photo" style='width: 300px;'>
 </p> -->
 
-- I am an applied mathematician committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
+- I am an applied mathematician committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering. Specifically, I am an expert in interpreting fundamental theories, designing advanced and robust computational methods, as well as developing practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
 
 <!-- - I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
 

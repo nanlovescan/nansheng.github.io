@@ -14,10 +14,7 @@ redirect_from:
 
 - I am an applied mathematician committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering. Specifically, I am an expert in interpreting fundamental theories, designing advanced and robust computational methods, as well as developing practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
 
-- I am a PhD student in Computational Mathematics at Stanford University. 
-
-
-- I received my PhD degree in Theoretical Chemistry at the University of Chicago, where I worked with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
+- I am a PhD student in Computational Mathematics at Stanford University. I received my PhD degree in Theoretical Chemistry at the University of Chicago, where I worked with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
 - I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2) and Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at the Flatiron Institute, Simons Foundation.
 

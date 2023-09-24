@@ -14,16 +14,16 @@ redirect_from:
 
 - I am an applied mathematician committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering. Specifically, I am an expert in interpreting fundamental theories, designing advanced and robust computational methods, as well as developing practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
 
-<!-- - I am broadly interested in performing **numerical analysis** and developing **scientific computing** tools for problems arising in natural sciences. Specifically, I am an expert in developing fundamental theories, advanced and robust computational methods, as well as practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
+- I am a PhD student in Computational Mathematics at Stanford University. 
 
-- I am currently a graduate student in Theoretical Chemistry at the University of Chicago, working with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I will be joining Stanford University as a graduate student in Computational Mathematics this fall.
 
-- I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2), Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet), Dr. [Alexander Hampel](https://www.simonsfoundation.org/people/alexander-hampel), Dr. [Sophie Beck](https://www.simonsfoundation.org/people/sophie-beck) as well as Dr. [Nils Wentzell](https://www.simonsfoundation.org/people/nils-wentzell) at the Flatiron Institute, Simons Foundation.
+- I received my PhD degree in Theoretical Chemistry at the University of Chicago, where I worked with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 
-- I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
+- I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2) and Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at the Flatiron Institute, Simons Foundation.
 
 # Recent news
-- I successfully defended my PhD in theoretical chemistry at the University of Chicago entitled "Multiscale Methods for Quantum Many-Body Systems" on 08/15/23!
+- I started PhD program in Computational Mathematics at Stanford University (09/26/23)!
+- I successfully defended my PhD in theoretical chemistry at the University of Chicago entitled "Multiscale Methods for Quantum Many-Body Systems" (08/15/23)!
 - The paper [Low-Rank Green's Function Representations Applied to Dynamical Mean-Field Theory](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245123) appears in PRB (06/13/23)!
 - I gave a talk at the Student Computational Math Seminar, the Ohio State University on the topic of [Introduction to Computational Quantum Physics](/files/talks/Talk_OSU_04_19_23.pdf) (04/21/23)!
 - I will be joining Stanford University as a graduate student in Computational and Mathematical Engineering this fall (04/11/23)!

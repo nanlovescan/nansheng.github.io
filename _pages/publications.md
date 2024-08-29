@@ -15,7 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=gsxxnVoAAAAJ&hl=en))
+# Publications and Preprints ([Google Scholar Profile](https://scholar.google.com/citations?user=gsxxnVoAAAAJ&hl=en))
+
+**Solving high-dimensional Hamilton-Jacobi-Bellman equation with functional hierarchical tensor** **[[link]](https://arxiv.org/abs/2408.04209)**<br>
+Xun Tang, **Nan Sheng**, and Lexing Ying.<br>
+*arXiv preprint* arXiv:2408.04209 (August 2024).
 
 **Low-Rank Green's Function Representations Applied to Dynamical Mean-Field Theory** **[[link]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245123)**<br>
 **Nan Sheng**, Alexander Hampel, Sophie Beck, Olivier Parcollet, Nils Wentzell, Jason Kaye, and Kun Chen.<br>

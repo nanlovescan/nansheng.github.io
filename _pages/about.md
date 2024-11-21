@@ -12,7 +12,20 @@ redirect_from:
 <img src="/images/nsheng.jpeg" alt="photo" style='width: 300px;'>
 </p> -->
 
-- I am an applied mathematician committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering. Specifically, I am an expert in interpreting fundamental theories, designing advanced and robust computational methods, as well as developing practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page.
+As a researcher, I am devoted to developing and applying numerical and analytical tools to tackle complex challenges across science and engineering.
+
+My mathematical interests span numerical analysis, scientific computing, and mathematical physics.
+
+My interests in the natural sciences range from low-energy and high-energy physics to theoretical chemistry, materials science, and computational biology.
+
+My interests in engineering focus on quantum engineering, materials design, and control engineering.
+
+For more details about my research, please visit my website: https://nansheng.me.
+
+
+<!-- - I am an researcher committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering.  -->
+
+<!-- Specifically, I am an expert in interpreting fundamental theories, designing advanced and robust computational methods, as well as developing practical and sophisticated software to solve the **quantum many-body problem** and to predict the behaviors of matter of scientific and technological interest. For more details, please see the [Research](/research) page. -->
 
 - I am a PhD student in Computational Mathematics at Stanford University, working with Prof. Lexing Ying. I received my PhD degree in Theoretical Chemistry at the University of Chicago, where I worked with Prof. [Yuehaw Khoo](https://www.stat.uchicago.edu/~ykhoo). I received my dual Bachelor's degree in Physics and Chemistry with highest honors from the University of Chinese Academy of Sciences, where I worked with Prof. [Tao Xiang](http://txiang-iphy.cn) and Prof. [Qiang Shi](http://159.226.64.165/web/qshi/prof.).
 

@@ -28,6 +28,7 @@ redirect_from:
 <!-- - I have collaborative connections with Dr. [Jason Kaye](https://www.simonsfoundation.org/people/jason-kaye), Dr. [Kun Chen](https://www.simonsfoundation.org/people/kun-chen-2) and Dr. [Olivier Parcollet](https://www.simonsfoundation.org/people/olivier-parcollet) at the Flatiron Institute, Simons Foundation. -->
 
 # Recent news
+- The paper [Approximation of High-Dimensional Gibbs Distributions with Functional Hierarchical Tensors](https://arxiv.org/abs/2501.17143) appears in Arxiv (01/28/25)!
 - The paper [Solving high-dimensional Hamilton-Jacobi-Bellman equation with functional hierarchical tensor](https://arxiv.org/abs/2408.04209) appears in Arxiv (08/10/24)!
 - I started PhD program in Computational Mathematics at Stanford University (09/26/23)!
 - I successfully defended my PhD in theoretical chemistry at the University of Chicago entitled "Multiscale Methods for Quantum Many-Body Systems" (08/15/23)!

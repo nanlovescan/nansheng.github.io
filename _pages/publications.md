@@ -17,6 +17,10 @@ author_profile: true
 
 # Publications and Preprints ([Google Scholar Profile](https://scholar.google.com/citations?user=gsxxnVoAAAAJ&hl=en))
 
+**Numerical Approximation of High-Dimensional Gibbs Distributions Using the Functional Hierarchical Tensor** **[[link]](https://arxiv.org/abs/2501.17143)**<br>
+**Nan Sheng**, Xun Tang, and Lexing Ying.<br>
+*arXiv preprint* arXiv:2501.17143 (January 2025).
+
 **Solving high-dimensional Hamilton-Jacobi-Bellman equation with functional hierarchical tensor** **[[link]](https://arxiv.org/abs/2408.04209)**<br>
 Xun Tang, **Nan Sheng**, and Lexing Ying.<br>
 *arXiv preprint* arXiv:2408.04209 (August 2024).

@@ -15,7 +15,7 @@ redirect_from:
 - As a researcher, I am devoted to developing and applying numerical and analytical tools to tackle complex challenges across science and engineering.
   My mathematical interests span numerical analysis, scientific computing, and mathematical physics.
   My interests in the natural sciences range from low-energy and high-energy physics to theoretical chemistry, materials science, and computational biology.
-  My interests in engineering focus on quantum engineering, semicondutor engineering, control engineering, and materials design.
+  My interests in engineering focus on quantum engineering, semiconductor engineering, control engineering, and materials design.
 
 <!-- - I am an researcher committed to performing **numerical analysis** and developing **scientific computing** tools for problems arising in science and engineering.  -->
 
